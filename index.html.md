@@ -19,12 +19,13 @@
 
 #### Facultatea de matematică și informatică
 
-- Logică matematică și computațională (Licență: Informatică (Info), anul 1, seria 1)
-- Mathematical and computational logic (Licență: Informatică în limba engleză (Computer Science), anul 1)
-- Modelare cu algoritmi genetici (Master: Modelare și tehnologii informatice (MTI), anul 2) 
-- Consultații: Joi, 16-18, sătmămâna pară, sala PC02 / P19
+- [**Logică matematică și computațională**](./index-LC-info1.htm) (Licență: Informatică (Info), anul 1, seria 1)
+- [**Mathematical and computational logic**](./index-LC-info1.htm) (Licență: Informatică în limba engleză (Computer Science), anul 1)
+- [**Modelare cu algoritmi genetici**](./index-mag-mti2.htm) (Master: Modelare și tehnologii informatice (MTI), anul 2) 
+- **Consultații**: Joi, 16-18, sătmămâna pară, sala PC02 / P19
 
 #### Facultatea de drept și științe administrative
 
-- Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică (Licență: Administrație publică, anul 1)
-- Utilizarea tehnologiilor informatice (Licență: Poliție locală, anul 1)
+- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**]() (Licență: Administrație publică, anul 1)
+- [**Utilizarea tehnologiilor informatice**]() (Licență: Poliție locală, anul 1)
+
