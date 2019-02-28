@@ -26,6 +26,6 @@
 
 #### Facultatea de drept și științe administrative
 
-- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**]() (Licență: Administrație publică, anul 1)
-- [**Utilizarea tehnologiilor informatice**]() (Licență: Poliție locală, anul 1)
+- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ap1.htm) (Licență: Administrație publică, anul 1)
+- [**Utilizarea tehnologiilor informatice**](./index-pl1.htm) (Licență: Poliție locală, anul 1)
 
