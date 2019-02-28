@@ -1,0 +1,72 @@
+##Logică matematică și computațonală
+
+**Informatică**, anul 1, seria 1
+
+2018-2019, semestrul 2
+
+
+| Nr. Ord. | Nume Prenume | Gr | Sgr | L1.Var |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | ALEXANDRU G. LILI | 1 | 1 | 1 |
+| 2 | ALEXE V. BOGDAN-CRISTIAN | 1 | 1 | 2 |
+| 3 | ALEXEI S. MIHAI | 1 | 1 | 3 |
+| 4 | ANDREESCU I. ROBERT-IONUȚ | 1 | 1 | 4 |
+| 5 | ANTON D. ADRIAN-VLAD | 1 | 1 | 5 |
+| 6 | APOSTOL M. ALEXANDRU | 1 | 1 | 6 |
+| 7 | ARGHIR A. GABRIEL-DUMITRU | 1 | 1 | 7 |
+| 8 | ASĂNDULESEI V.-R. FLORIN-GEORGIAN | 1 | 1 | 8 |
+| 9 | BABUȘCĂ C. STELIAN | 1 | 1 | 9 |
+| 10 | BADEA G. MARIUS | 1 | 1 | 10 |
+| 11 | BADEA F. PAUL SEBASTIAN | 1 | 1 | 11 |
+| 12 | BAIBURI Z.-R. IULIAN | 1 | 1 | 12 |
+| 13 | BECHEANU P. MARIUS | 1 | 1 | 13 |
+| 14 | BIBICĂ I. MARIUS - COSTEL | 1 | 1 | 14 |
+| 15 | BOEF C. BOGDAN-NICUȘOR | 1 | 1 | 15 |
+| 16 | BONCEA G.D. DRAGOȘ-ANDREI | 1 | 1 | 16 |
+| 17 | BUDRESCU C. SORIN-ANDREI | 1 | 2 | 17 |
+| 18 | BURLACU L. MARIUS-COSMIN | 1 | 2 | 18 |
+| 19 | BUSUIOC N.-M. ALEXANDRU | 1 | 2 | 19 |
+| 20 | BUTĂCEL G. SORIN | 1 | 2 | 20 |
+| 21 | BUTĂCEL G. DIANA-MARIA | 1 | 2 | 21 |
+| 22 | BUZEA V. BOGDAN | 1 | 2 | 22 |
+| 23 | CAPRĂ R. IONUȚ-RĂZVAN-TUDOR | 1 | 2 | 23 |
+| 24 | CARAMANGIU P. CORINA-MIHAELA | 1 | 2 | 24 |
+| 25 | CIOCÎRLAN M. CRISTIAN-FLORINEL | 1 | 2 | 25 |
+| 26 | CIUREA T. IOAN-ADRIAN | 1 | 2 | 26 |
+| 27 | CLOȘCĂ I. GEORGE | 1 | 2 | 27 |
+| 28 | COJANU A. ALEXANDRU | 1 | 2 | 28 |
+| 29 | COJOCARU I. CLAUDIU | 1 | 2 | 29 |
+| 30 | CRISTEA N. LUANA-ANDREEA | 1 | 2 | 30 |
+| 31 | MANOLE A. TEODORA | 1 | 2 | 31 |
+| 32 | SIMION (NICA) C. ADRIANA RAMONA | 1 | 2 | 32 |
+| 33 | CONSTANTIN L. SEBASTIAN-STELICĂ | 2 | 3 | 33 |
+| 34 | CONSTANTIN M.-O. CIPRIAN-MARIAN | 2 | 3 | 34 |
+| 35 | COSTEA V. VIVIANA | 2 | 3 | 35 |
+| 36 | CUCOȘ M. ANDREI-NICOLAE | 2 | 3 | 36 |
+| 37 | CUZIC C. GABRIELA | 2 | 3 | 37 |
+| 38 | DAAS A. ISSA-PHILIP | 2 | 3 | 38 |
+| 39 | DOBRE D. ALEXANDRU CONSTANTIN | 2 | 3 | 39 |
+| 40 | DOBRE I. ALEXANDRU | 2 | 3 | 40 |
+| 41 | DONOSE (GHEORGHE) T. GEORGIANA ALEXANDRA | 2 | 3 | 41 |
+| 42 | DRĂGOI M. ANCA-FLORENTINA | 2 | 3 | 42 |
+| 43 | DRUMEA L.-L. ALEXANDRU | 2 | 3 | 43 |
+| 44 | DUDU G. GEORGIANA | 2 | 3 | 44 |
+| 45 | DULGHERU I.-F. BOGDAN ALEXANDRU | 2 | 3 | 45 |
+| 46 | ELISEI E. VLADIMIR | 2 | 3 | 46 |
+| 47 | FERARIU V. VIRGIL | 2 | 3 | 47 |
+| 48 | FILIP S.-O. NICOLAE | 2 | 4 | 48 |
+| 49 | FLOREA Ș. MIHAI-LUCIAN | 2 | 4 | 49 |
+| 50 | GĂRVĂNEANU I. ELENA | 2 | 4 | 50 |
+| 51 | GAVRILĂ C. DORU | 2 | 4 | 1 |
+| 52 | GÎLEA I. ȘTEFAN | 2 | 4 | 2 |
+| 53 | GOUDIS C. ILIAS CHRISTODOULOS | 2 | 4 | 3 |
+| 54 | GRIGORE D. ALEXANDRU | 2 | 4 | 4 |
+| 55 | HĂIDĂUȚU G. TEODOR | 2 | 4 | 5 |
+| 56 | HALIL O. ASLAN CIHAN | 2 | 4 | 6 |
+| 57 | HARALAMBIE I. GEORGE | 2 | 4 | 7 |
+| 58 | HRISTACHE G. DIANA GABRIELA | 2 | 4 | 8 |
+| 59 | ION V. ANA-MARIA | 2 | 4 | 9 |
+| 60 | IONESCU D.-M. GRUIA-ANDREI | 2 | 4 | 10 |
+| 61 | IONIȚĂ D. COSTEL | 2 | 4 | 11 |
+| 62 | ISTRATE C. CRISTINA-MIHAELA | 2 | 4 | 12 |
+| 63 | IVAN S. NICOLAU | 2 | 4 | 13 |
