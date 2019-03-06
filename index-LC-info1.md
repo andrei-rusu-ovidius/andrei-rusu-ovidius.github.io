@@ -64,6 +64,10 @@
 
 ***
 
-(c) Andrei Rusu, 2004-2017
+[Studenților](./) -> [Logică matematică și computațională]() 
+
+---
+
+(c) Andrei Rusu, 2004-2019
 
 
