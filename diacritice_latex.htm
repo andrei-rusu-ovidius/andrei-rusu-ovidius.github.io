@@ -1,0 +1,77 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript">window.onscroll = function() { synchronizer.webViewScrolled(); }; </script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel="stylesheet" href="qrc:/scripts/highlight.js/styles/github.css">
+<script src="qrc:/scripts/highlight.js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" href="qrc:/scripts/mermaid/mermaid.css">
+<script src="qrc:/scripts/mermaid/mermaid.full.min.js"></script>
+
+</head>
+<body>
+<h2 id="Diacritice...n.LaTeX">Diacritice în LaTeX</h2>
+
+<p>Pentru a scrie direct cu diacritice în LaTeX puteți folosi următorul template:</p>
+
+<pre><code class="Latex">\documentclass{article}
+% pachetele necesare pentru a scrie în română sunt:
+% {ucs}, [utf8x]{inputenc} și 
+% [english, romanian]{babel}
+%
+% Pot apare erori de incompatibilitate cu alte pachete, 
+% dar ele pot fi depășite după o analiză a naturii lor.
+%
+\usepackage{ucs}
+\usepackage[cp1251,utf8x]{inputenc}
+\usepackage[T2A]{fontenc} % pentru rusa - optional
+\usepackage[english,russian,romanian]{babel}
+\author{Andrei RUSU}
+\title{Test diacritice și amestec de limbi diferite}
+\date{30 noiembrie 2011}
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section*{Introducere}
+
+Pentru scrierea acestui exemplu am fost inspirat de către Iulian Comănescu 
+\cite{comanescu}, precum și de materialul articolului \cite{secarica} prezentat 
+de către Cristian Secară. 
+
+
+\section{Test engleză}
+Small is beautifull
+\section{Test română}
+
+Așa este corect scris conform normelor de scriere în limba română.
+
+{\Huge{\textbf{ș ț ă î â Ă Î Â Ș Ț}}}
+
+\noindent
+A scrie cu ședila (virgula cârligată) este un tertip, dar nu corespunde normelor 
+actuale.
+
+\noindent
+{\Huge{\textbf{\c{s} \c t \u{a} \^{\i} \^ a \u A \^ I \^ A \c S \c T}}}
+
+\section{Test de rusă}
+й ц у к е н г ш щ з х ъ \\
+ф ы в а п р о л д ж э \\
+я ч с м и т ь б ю .
+
+\begin{thebibliography}{}
+\bibitem{comanescu}
+http://www.comanescu.ro/diacritice-corecte.html
+
+\bibitem{secarica}
+https://www.secarica.ro/index.php/ro/rou/s-uri-si-t-uri
+
+\end{thebibliography}
+\end{document}
+</code></pre>
+
+<p>Documentul și rezultatul pot fi consultate <a href="https://www.overleaf.com/read/tgngmgdgbbsy">aici</a>.</p>
+</body>
+</html>
