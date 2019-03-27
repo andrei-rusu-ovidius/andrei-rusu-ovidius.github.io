@@ -36,9 +36,9 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 ### The number of the individual variation for each work:
 
-* [Computer Science](./ cs1.htm), year 1 (cs1)
-* [Informatics, series 1](./ info1s1.htm), year 1 (info1s1)
-* Mathematics-Informatics, year 2
+* [Computer Science](./ cs1.html), year 1 (cs1)
+* [Informatics, series 1](./ info1s1.html), year 1 (info1s1)
+* Mathematics-Informatics, year 2 (2017)
 
 ### Laboratory work:
 

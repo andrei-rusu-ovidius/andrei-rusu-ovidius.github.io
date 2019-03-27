@@ -36,7 +36,7 @@
 
 ### Numarul variantei individuale pt fiecare lucrare: 
 
-* [Computer Science](./cs1.htm), anul 1 (cs1)
+* [Computer Science](./cs1.html), anul 1 (cs1)
 * [Informatica, seria 1](./info1s1.html), anul 1 (info1s1)
 * Matematică-Informatică, anul 2 (2017)
 
