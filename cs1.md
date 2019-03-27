@@ -5,8 +5,8 @@
 2018-2019, 2nd Semester
 
 
-| Nomb    | Name, Surname | Sgr.  | Var.L1
-| :---: | :---          | :---: | :---:
+| Nomb    | Name, Surname | Sgr.  | Var.L1, L2 |
+| :---: | :---          | :---: | :---: |
 | 1 | ABDULA M. MELISSA-MERVE | 1 | 1
 | 2 | AGIURGIOAEI I. ANDREI | 1 | 2
 | 3 | ALEXANDROWICZ S. ANA | 1 | 3

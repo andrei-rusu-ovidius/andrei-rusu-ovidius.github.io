@@ -37,13 +37,13 @@
 ### Numarul variantei individuale pt fiecare lucrare: 
 
 * [Computer Science](./cs1.htm), anul 1 (cs1)
-* [Informatica, seria 1](./info1s1.htm), anul 1 (info1s1)
+* [Informatica, seria 1](./info1s1.html), anul 1 (info1s1)
 * Matematică-Informatică, anul 2
 
 ### Lucrările de laborator:
 
-* [Lab 01-02](./LC-info1-lab-01.htm): Tabelul de adevar al formulei. Forme normale. 
-* [Lab 03-04](./LC-info1-lab-03-04.htm): Forme normale minimale.
+* [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevar al formulei. Forme normale. 
+* [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
 * Lab 05-06: Metoda rezolutiilor pentru determinarea consecintelor logice. 
 * Lab 07-08: Semantica formulelor in calculul predicatelor
 * Lab 09-10: Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.

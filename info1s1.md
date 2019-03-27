@@ -5,7 +5,7 @@
 2018-2019, semestrul 2
 
 
-| Nr. Ord. | Nume Prenume | Gr | Sgr | L1.Var |
+| Nr. Ord. | Nume Prenume | Gr | Sgr | Var.: L1, L2 |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | ALEXANDRU G. LILI | 1 | 1 | 1 |
 | 2 | ALEXE V. BOGDAN-CRISTIAN | 1 | 1 | 2 |
