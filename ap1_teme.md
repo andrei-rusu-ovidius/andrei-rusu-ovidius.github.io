@@ -15,15 +15,15 @@
 | 7 | CARAMARIN T. GEORGIANA | 1 | 7 | Moduri de afișare a documentelor (print view, web layout, outline, etc) și cazurile de utilizare a lor în procesoarele de texte de tip Microsoft Word. | 
 | 8 | CĂILEANU C. ANDREEA AURELIA | 1 | 8 | Ce este un server web? Exemple și utilitatea lor. | 
 | 9 | CHIŢU A. CAMELIA | 1 | 9 | Ce reprezintă o aplicație web? Exemple. Gestionarea lor. | 
-| 10 | CÎRJĂ L. VLAD-GEORGE | 1 | 10 | Cuvintele cheie (indexate) din cadrul unui document și generarea listei lor în cadrul unui procesor de texte de tip Microsoft Word. | 
+| 10 | CÎRJĂ L. VLAD-GEORGE | 1 | 10 | Aplicații în cloud (Google Docs / Google Drive): avantaje și dezavantaje față de aplicațiile desktop (Microsoft Office / Libre Office / etc). | 
 | 11 | COVACIU N. STELIAN-ANDREI | 1 | 11 | Sisteme de procesare a textelor, altele decât Microsoft Word și similare cu Microsoft Word. | 
 | 12 | CREŢU D. ALEXANDRU | 1 | 12 | Diferențe și asemănări dintre procesoarele de texte de tip Micrisoft Word și sistemele de editare a textelor de tip LaTeX. | 
 | 13 | DASCĂLU D. DRAGOŞ-MĂDĂLIN | 1 | 13 | Metode de securizare a corespondenței prin email. | 
 | 14 | DOSPIN V. IVANA-NICOLETA | 1 | 14 | Metode de comunicare prin mesaje securizate folosind internetul. | 
-| 15 | DRAGNEA E. BIANCA-MĂDĂLINA | 1 | 15 | Aplicații în cloud (Google Docs / Google Drive): avantaje și dezavantaje față de aplicațiile desktop (Microsoft Office / Libre Office / etc). | 
+| 15 | DRAGNEA E. BIANCA-MĂDĂLINA | 1 | 15 | Cuvintele cheie (indexate) din cadrul unui document și generarea listei lor în cadrul unui procesor de texte de tip Microsoft Word. | 
 | 16 | DRAGOMIR G. GABRIELA-ALEXANDRA | 1 | 16 | Tehnologii de comunicare eletronică (VoIP, Skype, Messenger, WhatsApp, etc): exemple și analiză comparativă. | 
-| 17 | FEODOROV G. DENISA-GABRIELA | 1 | 17 | Tehnologii de comunicare cu voce (VoIP, Skype, Messenger, WhatsApp, etc): exemple și analiză comparativă. | 
-| 18 | FETESCU V. MARIA-ROXANA | 1 | 18 | Ce este o semnătură electronică (digitală)? Comparație cu o semnătură fizică. | 
+| 17 | FEODOROV G. DENISA-GABRIELA | 1 | 17 | Texte în format html și exportul documentelor în format html folosind diferite procesoare de texte. | 
+| 18 | FETESCU V. MARIA-ROXANA | 1 | 18 | Cum se poate obține un text în format pdf. | 
 | 19 | IRIMESCU C. ANDREI-ION | 1 | 19 | Cum se poate semna un document de tip Microsoft Word? | 
 | 20 | LAZĂR F. GEORGIANA | 1 | 20 | Cum se poate semna un document de tip Microsoft Excel? | 
 | 21 | MARIN C. LARISA-GABRIELA | 1 | 21 | Cum se poate semna un document de tip Microsoft Power Point? | 
@@ -43,10 +43,10 @@
 | 35 | STAMATE V. VALENTIN-DANIEL | 2 | 35 | Alte formate pentru texte în format electronic (fb2, epub, mobi, etc). | 
 | 36 | STAN M. ROXANA-ELENA | 2 | 36 | Cum se poate scrie un text în format fb2. | 
 | 37 | STOICA D. CLAUDIA | 2 | 37 | Cum se poate scrie un text în format epub. | 
-| 38 | TRANDAFIR Ş. DIANA | 2 | 38 | Cum se poate obține un text în format pdf. | 
+| 38 | TRANDAFIR Ş. DIANA | 2 | 38 | Ce este o semnătură electronică (digitală)? Comparație cu o semnătură fizică. | 
 | 39 | TUNSOI D. CLAUDIA-IULIANA | 2 | 39 | Analiză comparativă dintre Microsoft Word și LibreOffice Writer. | 
 | 40 | UŢĂ V. CORINA-ANDREEA | 2 | 40 | Analiza comparativă dintre Microsoft Word și LaTeX. | 
 | 41 | VĂLEANU R. ROBERT-ANDREI | 2 | 41 | Etidatea textelor folosind Notepad, Notepad++: diferențe față de Microsoft Word. | 
 | 42 | VELEA S. ADELINA-CRISTIANA | 2 | 42 | Diferențe și asemănări dintre editoarele de texte Notepad și Notepad++. | 
-| 43 | ZAMARU GH. MIHAELA | 2 | 43 | Texte în format html și exportul documentelor în format html folosind diferite procesoare de texte. | 
+| 43 | ZAMARU GH. MIHAELA | 2 | 43 | Tehnologii de comunicare cu voce (VoIP, Skype, Messenger, WhatsApp, etc): exemple și analiză comparativă. | 
 | 44 | ZOESCU (NIŢU) V. TATIANA | 2 | 44 | Analiza comparativă a procesoarelor / editoarelor de texte relativ la capacitatea de export a documentelor în format html. | 
