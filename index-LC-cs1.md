@@ -36,13 +36,13 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 ### The number of the individual variation for each work:
 
-* [Computer Science](./ cs1.html), year 1 (cs1)
-* [Informatics, series 1](./ info1s1.html), year 1 (info1s1)
+* [Computer Science](./cs1.html), year 1 (cs1)
+* [Informatics, series 1](./info1s1.html), year 1 (info1s1)
 * Mathematics-Informatics, year 2 (2017)
 
 ### Laboratory work:
 
-* [Lab 01-02](./LC-info1-lab-01.html): The truth table of the formula. Normal shapes.
+* [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-info1-lab-03-04.html): Minimal normal forms.
 * Lab 05-06: Resolution method to determine logical consequences.
 * Lab 07-08: Semantics of formulas in predicate calculus

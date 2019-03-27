@@ -17,7 +17,7 @@
 ## Conditions for solving the laboratory
 
 a. Each solved task of the laboratory and the whole laboratory should be submitted personally to the teacher; after the done work must be submitted to the email: andrei-rusu.ovidius@gmail.com. For each 2 weeks of delay in submitting the work will lead to possible decrease of points (usualy by 1 point). 
-b. Every student works with the formula from the list [**list**](./info1-mi2-lc-lista-cu-variante.htm) in accordance with the variant indicated in one of the lists:
+b. Every student works with the formula from the list  **[list](./LC_Lab_01_Lista_formule.html)** in accordance with the variant indicated in one of the lists:
    * [Computer Science](./cs1.html),
    * [Informatică](./info1s1.html). 
 c. Any programming language can be used, for example, **C, C++, Java, Prolog, Lisp, Python, PHP,** etc. 
