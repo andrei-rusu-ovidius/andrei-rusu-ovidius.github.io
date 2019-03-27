@@ -17,10 +17,11 @@
 ## Condiții de rezolvare și predare a lucrării
 
 a. O predare în prealabil se consideră şi predarea folosind serviciul de e-mail sau oricare altă posibilitate electronică de predare, dar predarea lucrării propriu-zisă se consideră la ora de laborator din săptămâna respectivă. Întârzierea în predarea lucrării se penalizează cu 1 punct pentru fiecare 2 saptamâni.
-b. Fiecare student lucrează asupra formulei din [**listă**](./Lab_01_Lista_formule.html) în concordanță cu varianta dată de numărul său:
+b. Fiecare student lucrează asupra formulei din [**listă**](./info1-mi2-lc-lista-cu-variante.htm) în concordanță cu varianta dată de numărul său:
    * [Computer Science](./cs1.html),
    * [Informatică](./info1s1.html). 
 c. În calitate de limbaj de programare puteţi folosi: C, C++, Java, Prolog, Lisp, Python, PHP, etc. 
+   * Lab_01_Lista_formule.html
 
 ## Sarcinile lucrării:
 
