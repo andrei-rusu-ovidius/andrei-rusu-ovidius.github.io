@@ -44,7 +44,7 @@
 
 * [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevar al formulei. Forme normale. 
 * [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
-* Lab 05-06: Metoda rezolutiilor pentru determinarea consecintelor logice. 
+* [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezolutiilor pentru determinarea consecintelor logice. 
 * Lab 07-08: Semantica formulelor in calculul predicatelor
 * Lab 09-10: Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.
 * Lab 11-12: Semantica formulelor în calculul cu predicate, 2
