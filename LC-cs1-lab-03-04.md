@@ -14,37 +14,37 @@
 * lect. dr. Andrei Rusu
 
 ## Obiective:
-* Construirea formelor normale minimale pentru formulele calculului propozitional clasic
-* Elaborarea și implementarea programului pentru calculul formelor normale minimale
+* To build the minimal normal forms for the formulas of the clasic propositional calculus. 
+* To design and to implement the algorithm for obtaining minimal normal forms for propositional formulas.
 
-## Condiții de rezolvare și predare a lucrării
+## Conditions for solving the laboratory tasks
 
-1. Dacă formula este o tautologie, atunci se va considera conjuncția ei cu formula ((A -> B) v (B ~ C) v (C -> D)). Dacă formula este o contradicție, atunci se va considera disjuncția ei cu formula ((A -> B) v (B ~ C) v (C -> D)). 
+1. If the formula `F` is a tautology then consider its conjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`. 
+2. If the formula `F` is a contradiction then consider its disjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`. 
 
-2. Dacă formula conține mai puțin de 4 variabile distincte, atunci se va considera conjuncția ei cu formula ((A -> B) v (B ~ C) v (C -> D)).
+2. If the formula `F` contains less than 4 distinct propositional variables, then consider its conjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`.
 
-3. O predare în prealabil se consideră şi predarea folosind serviciul de e-mail sau oricare altă posibilitate electronică de predare, dar predarea lucrării propriu-zisă se consideră la ora de laborator din săptămâna respectivă. Întârzierea în predarea lucrării se penalizează cu 1 punct pentru fiecare 2 saptamâni.
-4. Fiecare student lucrează asupra formulei din [**listă**](./Lab_01_Lista_formule.html) în concordanță cu varianta dată de numărul său:
+4. Every student work at the formula from the **[list](./LC_Lab_01_Lista_formule.html)**  in accordance with the variant given by its number in the list of students:
    * [Computer Science](./cs1.html),
    * [Informatică](./info1s1.html). 
-5. În calitate de limbaj de programare puteţi folosi: C, C++, Java, Prolog, Lisp, Python, PHP, etc.
-6. Orice program trebuie să afișeze în mod clar:
-   - care au fost condițiile inițiale,
-   - care este rezultatul,
-   - rezultatele intermediare mai importante care se obțin în drumul către rezultatul final. 
+5. Any programming language can be used, for example, **C, C++, Java, Prolog, Lisp, Python, PHP,** etc.
+6. Any program should state clearly:
+   - initial conditions,
+   - which is the result,
+   - important intermediary results on the way to the main results. 
 
-## Sarcinile lucrării:
+## Tasks:
 
-a. Să se consruiască tabelul de adevăr al formulei. (1p)
-b. Să se construiască forma normală conjunctivă perfectă şi forma normală disjunctivă perfectă pentru formulă. (2p)
-c. Să se construiască forma normală disjunctivă minimală . (2p)
-d. Să se construiască forma normală conjunctivă minimală.  (2p)
-d. Elaborarea programelor respective. (restul punctelor -:) )
+a. Build the truth table of the formula `F`. (1p)
+b. Build the conjunctive normal form  as well as the disjunctive normal form of the formula `F`. (2p)
+c. Build the minimal disjunctive normal form of `F`. (2p)
+d. Build the minimal conjunctive normal form of `F`. (2p)
+d. Design and program the algorithms for above mentioned tasks. (rest of the points -:) )
 
 
 ---
 
-[Studenților](./) --> [LMC](./index-LC-info1.html) --> [Lab. 03-04]()
+[Students](./) --> [LMC](./index-LC-cs1.html) --> [Lab. 03-04]()
 
 ---
 
