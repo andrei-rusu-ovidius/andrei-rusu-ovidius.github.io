@@ -453,105 +453,89 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 <script>hljs.initHighlightingOnLoad();</script>
 </head>
 <body>
-<h2 id="Mathematical.and.computational.logic">Mathematical and computational logic</h2>
-
-<h3 id="L.strong..Discipline...strong.:.Mathematical.and.computational.logic"><strong> Discipline </strong>: Mathematical and computational logic</h3>
-
-<h3 id="L.strong..Specialization...strong.:..Computer.Science..1st.year"><strong> Specialization </strong>:  Computer Science, 1st year</h3>
-
-<h4 id="Prof..:.lect..Dr..Andrei.RUSU">Prof .: lect. Dr. Andrei RUSU</h4>
+<h1 id="Laboratory.07-08">Laboratory 07-08</h1>
 
 <hr />
 
-<h3 id="Goals:">Goals:</h3>
+<h2 id="Mathematical.and.Computational.Logic">Mathematical and Computational Logic</h2>
 
-<ol>
-<li>Working with the objects used in the propositional  logic.</li>
-<li>Approach exercises using imperative and declarative programming languages.</li>
-<li>Implementation of the algorithms discussed in the courses.</li>
-</ol>
+<h3 id="Speciality:">Speciality:</h3>
 
-
-<h3 id="Requirements.for.Admission.to.the.Colloquium..Exam.:">Requirements for Admission to the Colloquium (Exam):</h3>
-
-<ol>
-<li>Performing laboratory work, teaching and supporting it on time (at least 1 work must be taught and sustained).</li>
-<li>Presence at the colloquium (exam) at the scheduled day and time.</li>
-</ol>
+<ul>
+<li>Informatică, seria 1, anul 1;</li>
+<li>Computer Science, anul 1.</li>
+</ul>
 
 
-<h3 id="The.final.grade.is.calculated.according.to.the.algorithm:">The final grade is calculated according to the algorithm:</h3>
+<h3 id="Teacher:">Teacher:</h3>
 
-<ol>
-<li>Mark on the examination paper (colloquium) - 50%,
+<ul>
+<li>lect. dr. Andrei Rusu</li>
+</ul>
+
+
+<h2 id="Obiectives:">Obiectives:</h2>
+
+<ul>
+<li>To build different models for different signatures of the first-order logic.</li>
+</ul>
+
+
+<h2 id="Conditions.for.solving.the.laboratory.tasks">Conditions for solving the laboratory tasks</h2>
+
+<!--
+1. If the formula `F` is a tautology then consider its conjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`. 
+2. If the formula `F` is a contradiction then consider its disjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`. 
+
+2. If the formula `F` contains less than 4 distinct propositional variables, then consider its conjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`.
+
+4. Every student work at the formula from the **[list](./LC_Lab_01_Lista_formule.html)**  in accordance with the variant given by its number in the list of students:
+   * [Computer Science](./cs1.html),
+   * [Informatică](./info1s1.html). 
+5. Any programming language can be used, for example, **C, C++, Java, Prolog, Lisp, Python, PHP,** etc.
+6. Any program should state clearly:
+   - initial conditions,
+   - which is the result,
+   - important intermediary results on the way to the main results. 
+-->
+
+
+<ul>
+<li>It is sufficient to solve the tasks on paper and to present them in time to the teacher.</li>
+<li>The <strong><a href="./LC_Lab-07-08-lista-variante.html">individual variant</a></strong> for each student is in accordance to the list (as at previous laboratory works):
+
+<ul>
+<li><a href="./cs1.html">Computer Science</a>,</li>
+<li><a href="./info1s1.html">Informatică</a>.</li>
+</ul>
+</li>
+<li>Individual variants should be considered from the <strong><a href="./LC_Lab-07-08-lista-variante.html">list</a></strong>.</li>
+</ul>
+
+
+<h2 id="Tasks:">Tasks:</h2>
+
+<p>Consider an alphabet of the predicate calculus, for wich we have a list of  propositional constants <code>Const</code>, a list of function symbols <code>Func</code>, and a list of predicate symbols <code>Pred</code>.</p>
 
 <ol type="a">
-<li>Grid test - 50%,</li>
-<li>Solving problems from a list of problems (usually 2 out of 4 problems) - 50%,</li>
-</ol>
+<li>Build models / interpretations <code>I</code> for this predicate calculus,</li>
+<li>Give examples of corresponding formulas (and the corresponding justifications) that:
+
+<ul>
+<li>are valid at the interpretation <code>I</code>,</li>
+<li>are contradictions at the interpretation <code>I</code>,</li>
+<li>are valid for some evaluations <code>v1</code> based on interpretation <code>I</code> and at the same time are invalid for other evaluations <code>v2</code> based on the same interpretation <code>I</code>. These formulas should contain all symbols from <code>Const</code>, <code>Func</code>, and <code>Pred</code>.</li>
+</ul>
 </li>
-<li>Mark for laboratory activity - 50%
-
-<ol type="a">
-<li>Written paper: - Not more than 10%</li>
-<li>Design, teaching and support in reasonable time of laboratory work - at least 80%,</li>
-<li>Laboratory activity - at most 10%,</li>
-</ol>
-</li>
-<li>Bonus (for activity in course and laboratory activities + attendance): - maximum 10%.</li>
-</ol>
-
-
-<h4 id="Note:">Note:</h4>
-
-<p>as programming language, you can use C, C ++, Java, unless it is explicitly stated that Prolog is used as the programming language. A short introduction to Java can be found here (Part 1, Part 2, &hellip;). You can also find a multitude of tutorials for C and C ++.</p>
-
-<h3 id="The.number.of.the.individual.variation.for.each.work:">The number of the individual variation for each work:</h3>
-
-<ul>
-<li><a href="./cs1.html">Computer Science</a>, year 1 (cs1)</li>
-<li><a href="./info1s1.html">Informatics, series 1</a>, year 1 (info1s1)</li>
-<li>Mathematics-Informatics, year 2 (2017)</li>
-</ul>
-
-
-<h3 id="Laboratory.work:">Laboratory work:</h3>
-
-<ul>
-<li><a href="./LC-cs1-lab-01-02.html">Lab 01-02</a>: The truth table of the formula. Normal shapes.</li>
-<li><a href="./LC-cs1-lab-03-04.html">Lab 03-04</a>: Minimal normal forms.</li>
-<li><a href="./LC-cs1-lab-05-06.html">Lab 05-06</a>: Resolution method to determine logical consequences.</li>
-<li><a href="./LC-cs1-lab-07-08.html">Lab 07-08</a>: Semantics of formulas in predicate calculus</li>
-<li>Lab 09-10: The Herbrand Universe. Herbrand base. Herbrand&rsquo;s interpretation.</li>
-<li>Lab 11-12: Semantics of formulas in predicate calculus, 2</li>
-<li>Lab 13-14: Declarative programming elements.</li>
-</ul>
-
-
-<h3 id="WARNING:.The.colloquium.will.take.place.on:">WARNING: The colloquium will take place on:</h3>
-
-<ul>
-<li><strong> Thursday, May 30, 2019, 14.00, room S1 </strong>, (spec: Informatica, year 1, series 1),</li>
-<li><strong> Wednesday, May 29, 2019, 14.00, room D2 </strong>, (spec: Computer Science, year 1).</li>
-</ul>
-
-
-<h3 id="Bibliographical.sources:">Bibliographical sources:</h3>
-
-<ol>
-<li>Cucu I., Rusu A., Rusu E., Elements of mathematical logic (lesson course), Chisinau, USM, 2003.</li>
-<li>Ben-Ari M., Mathematical logic for computer science, (2en., Springer, 2001) (ISBN 1852333197) (K) (T) (309s)</li>
-<li>Abramsky, Gabbay, Maibaum. Handbook of logic in computer science. Vol. 1, 2, 3, 4, 5 (OUP, 2000) (ISBN 0198537816) (T) (555s)</li>
-<li>Mendelson E., Introduction to Mathematical Logic, (4th ed., CRC, 1997) (ISBN 0412808307) (KA) (T) (446s)</li>
 </ol>
 
 
 <hr />
 
-<p><a href="./">Students</a> -> <a href="">Mathematical and computational logic</a></p>
+<p><a href="./">Students</a> &ndash;> <a href="./index-LC-cs1.html">LMC</a> &ndash;> <a href="">Lab. 07-08</a></p>
 
 <hr />
 
-<p>&copy; Andrei Rusu, 2004-2019</p>
+<p>&copy; Andrei RUSU, 2004 - 2019</p>
 </body>
 </html>
