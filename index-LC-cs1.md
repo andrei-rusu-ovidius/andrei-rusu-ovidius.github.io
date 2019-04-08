@@ -46,7 +46,7 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
 * [Lab 07-08](./LC-cs1-lab-07-08.html): Semantics of formulas in predicate calculus
-* Lab 09-10: The Herbrand Universe. Herbrand base. Herbrand's interpretation.
+* [Lab 09-10](./): The Herbrand Universe. Herbrand base. Herbrand's interpretation.
 * Lab 11-12: Semantics of formulas in predicate calculus, 2
 * Lab 13-14: Declarative programming elements.
 
