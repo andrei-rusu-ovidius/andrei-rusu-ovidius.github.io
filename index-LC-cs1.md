@@ -10,7 +10,7 @@
 
 ### Goals:
 
-1. Working with the objects used in the propositional  logic.
+1. Working with the objects used in the proposititional  logic.
 2. Approach exercises using imperative and declarative programming languages. 
 3. Implementation of the algorithms discussed in the courses.
 

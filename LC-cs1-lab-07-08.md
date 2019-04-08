@@ -13,7 +13,7 @@
 
 * lect. dr. Andrei Rusu
 
-## Obiectives:
+## Goals:
 * To build different models for different signatures of the first-order logic. 
 
 ## Conditions for solving the laboratory tasks
