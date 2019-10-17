@@ -7,25 +7,31 @@
 - Servicii de hosting gratuit. Pare sa fie chiar asa. Spatiu de 20 GB, Trafic – 150GB, PHP (orice versiune), MySql la alegere. Chiar este curios cat va dura. Oricum in alta forma acelasi lucru il ofera si Google, si Dropbox, etc. 
 - Servicii de masini virtuale, simplu de creat, simplu de gestionat: [Digital Ocean](https://m.do.co/c/c5eb1086fd76).
 
-## 2018-2019
+## 2019-2020
 
 ### Teme de licență / master
 
 ### Studenți înscriși
 
-### Semestrul 1 de toamnă, 2018-2019
-
-### Semestrul 2 de primăvară, 2018-2019
+### Semestrul 1 de toamnă, 2019-2020
 
 #### Facultatea de matematică și informatică
 
-- [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1)
-- [**Mathematical and computational logic**](./index-LC-cs1.html) (Licență: Informatică în limba engleză (Computer Science), anul 1)
-- [**Modelare cu algoritmi genetici**](./index-mag-mti2.htm) (Master: Modelare și tehnologii informatice (MTI), anul 2) 
-- **Consultații**: Joi, 16-18, sătmămâna pară, sala PC02 / P19
+- [**Inteligență artificială**](./index-ia-mi3.html) (Licență: Matematică-Informatică (MI), anul 3)
+- [**Inteligență artificială aplicată**](./index-iia-mvmod1.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1) 
+- **Consultații**: Joi, 10-12, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
 
 #### Facultatea de drept și științe administrative
 
-- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ap1.html) (Licență: Administrație publică, anul 1)
-- [**Utilizarea tehnologiilor informatice**](./index-pl1.html) (Licență: Poliție locală, anul 1)
+- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ama1.html) (Licență: Asistență amangerială și administrativă (AMA), anul 1)
+
+#### Facultatea de științe economice
+
+- [**Matematici aplicate în economie / Applied mathematics in economics**](./index-aae1.html) (Licență / Bachelor: Administrarea afacerilor (în limba engleză) / Business Administration (AA-eng), anul 1 / 1st year)
+
+#### Practica 2020
+
+### Semestrul 1 de toamnă, 2018-2019
+
+### Semestrul 2 de primăvară, 2018-2019
 
