@@ -30,8 +30,8 @@
 
 ### Course / Laboratory / Seminar work:
 
-* Course 01-02: 
-* Course 03-04: 
+* [Course 01-02](https://yadi.sk/d/zgxVLxajlypEAg): 
+* [Course 03-04](https://yadi.sk/d/IlFfCowcTc9wxg): 
 * Course 05-06: 
 * Course 07-08: 
 * Course 09-10: 
