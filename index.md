@@ -9,16 +9,25 @@
 
 ## 2019-2020
 
+### Protecția muncii în cadrul orelor la clasă
+
+În cadrul orelor la clasă (Curs / Seminar / Laborator / Practică) trebuie urmate regulile de conduită specificate în documentele ce urmează:
+
+- **Reguli specifice în cadrul FMI** [aici](https://yadi.sk/i/zcu9X_4Q2DC2kw) sau [aici](http://s.go.ro/ko81hljz), 
+- **Reguli în caz de cutremur** [aici](https://yadi.sk/d/hR2C0_PhpMMBPw) sau [aici](http://s.go.ro/fnubqwes). 
+
 ### Teme de licență / master
 
 ### Studenți înscriși
 
 ### Semestrul 1 de toamnă, 2019-2020
 
+- [**Formular**](https://forms.gle/W2ei1nKSqsb3FbURA) pentru contactele studenților.
+
 #### Facultatea de matematică și informatică
 
 - [**Inteligență artificială**](./index-ia-mi3.html) (Licență: Matematică-Informatică (MI), anul 3)
-- [**Inteligență artificială aplicată**](./index-iia-mvmod1.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1) 
+- [**Inteligență artificială aplicată**](./index-iaa-mvmod1.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1) 
 - **Consultații**: Joi, 10-12, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
 
 #### Facultatea de drept și științe administrative
