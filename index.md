@@ -27,7 +27,7 @@
 #### Facultatea de matematică și informatică
 
 - [**Inteligență artificială**](./index-ia-mi3.html) (Licență: Matematică-Informatică (MI), anul 3)
-- [**Inteligență artificială aplicată**](./index-iaa-mvmod1.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1) 
+- [**Inteligență artificială aplicată**](./index-iaa-mvmod1.html) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1) 
 - **Consultații**: Joi, 10-12, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
 
 #### Facultatea de drept și științe administrative
