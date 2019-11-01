@@ -1,7 +1,7 @@
 # Lista temelor propuse pentru referate
 
-## Spec.: Administrație publică; Poliție Locală
-### Anul 1, sem. 2
+## Spec.: Asistență managerială și administrativă; <!--Administrație publică; Poliție Locală;--> 
+### Anul 1
 #### Prof.: lect. dr. Andrei RUSU
 
 1. Structura logică a unui document.
