@@ -61,3 +61,16 @@ Lect. dr. Andrei Rusu
 13. Sisteme de markare a textelor: **html**, **markdown**.
 14. Alte sisteme pentru textele în format electronic (**epub, fb2, mobi, etc**). 
  
+## Materiale didactice
+
+- [Cum creăm un site folosind tehnologia oferită de Google?](https://yadi.sk/i/RTkDJWHFuWeo5g)
+- [Utilizarea formularelor Excel și a formularelor Google](https://yadi.sk/i/Byu0B5lWc6DUIQ)
+- [Utilizarea aplicațiilor Office în cloud Google](https://yadi.sk/i/qTUpG0o9LtETmQ)
+- [Utilizarea stilurilor de formatare ne simplifică viața când trebuie să aducem modificări de formatare, precum și la generarea cuprinsului](https://www.youtube.com/watch?v=rJuCXIp_aAg)
+- [Stiluri, note de subsol, note de sfârșit, numerotare pagini, ... în Word](https://www.youtube.com/watch?v=Q-fAI0JH_vI)
+
+- []()
+
+- []()
+
+- []()
