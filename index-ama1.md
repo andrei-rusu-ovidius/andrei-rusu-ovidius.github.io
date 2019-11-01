@@ -68,9 +68,10 @@ Lect. dr. Andrei Rusu
 - [Utilizarea aplicațiilor Office în cloud Google](https://yadi.sk/i/qTUpG0o9LtETmQ)
 - [Utilizarea stilurilor de formatare ne simplifică viața când trebuie să aducem modificări de formatare, precum și la generarea cuprinsului](https://www.youtube.com/watch?v=rJuCXIp_aAg)
 - [Stiluri, note de subsol, note de sfârșit, numerotare pagini, ... în Word](https://www.youtube.com/watch?v=Q-fAI0JH_vI)
+- [Mai multe lecții de Excel](https://www.youtube.com/watch?v=P9aA4Wu8UXA&list=PL2ViIbunIh8SGKj6BqWpny8bPjNEF7w2o)
+- [Un tutorial de Excel ceva mai scurt](https://www.youtube.com/watch?v=mOTEssNYrD0)
+- [Un curs de Word 2013 cu destul de multe chestii, 67 min](https://www.youtube.com/watch?v=zasYnHPvR60)
 
 - []()
-
 - []()
-
 - []()
