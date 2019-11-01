@@ -34,6 +34,11 @@
 
 - [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ama1.html) (Licență: Asistență amangerială și administrativă (AMA), anul 1)
 
+[//]: # (This syntax works like a comment, and won't appear in any output.)
+[//]: # (It’s a little bizarre, but it works with MacDown and Pandoc.)
+
+<!-- And this comment will appear in html output as a comment -->
+
 #### Facultatea de științe economice
 
 - [**Matematici aplicate în economie / Applied mathematics in economics**](./index-aae1.html) (Licență / Bachelor: Administrarea afacerilor (în limba engleză) / Business Administration (AA-eng), anul 1 / 1st year)
