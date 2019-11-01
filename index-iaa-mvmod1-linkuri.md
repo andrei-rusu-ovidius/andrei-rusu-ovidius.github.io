@@ -10,6 +10,7 @@
 
 ### Linkuri interesante
 
+#### IAA
 
 - [Artificial intelligence, ful course, 254 min](https://www.youtube.com/watch?v=JMUxmLyrhSk)
 - [Neural networks for snakes](https://www.youtube.com/watch?v=zIkBYwdkuTk) și materialele soft în [repozitoriu](https://github.com/greerviau/SnakeAI) 
@@ -24,6 +25,10 @@
 - []()
 - []()
 
+### Curiozități
+
+- [Cum funcționează o pompă de căldură](https://www.youtube.com/watch?v=7yyPsTjbPSY)
+- [#casabuhnici - Cum am făcut forajele pentru apă și pompa de căldură](https://www.youtube.com/watch?v=tZOHb6H-Als)
 
 
 ### Surse bibliografice:

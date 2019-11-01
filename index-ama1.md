@@ -72,6 +72,13 @@ Lect. dr. Andrei Rusu
 - [Un tutorial de Excel ceva mai scurt](https://www.youtube.com/watch?v=mOTEssNYrD0)
 - [Un curs de Word 2013 cu destul de multe chestii, 67 min](https://www.youtube.com/watch?v=zasYnHPvR60)
 
+- [Tutorial - Word - 6. Imbinarea de corespondenta](https://www.youtube.com/watch?v=hjbGW2kvD30)
+- [Tutorial - Word - 8.Corectare si imprimare](https://www.youtube.com/watch?v=XiBDx2VktqY)
+- [Un set de tutoriale in engleza](https://www.youtube.com/watch?v=ME_F9yypzsw&list=PLWPirh4EWFpHyWP7u5HOrr4s2-bycPpO6)
 - []()
 - []()
 - []()
+- []()
+- []()
+- []()
+
