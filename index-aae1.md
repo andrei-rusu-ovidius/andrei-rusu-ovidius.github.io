@@ -31,11 +31,12 @@
 ### Course / Laboratory / Seminar work:
 
 * [Course 01-02](https://yadi.sk/d/zgxVLxajlypEAg): **Linear algebra and static analysis of economic models** pass: miau
-* [Course 03-04](https://yadi.sk/d/IlFfCowcTc9wxg): **Applications of linear algebra in modelling business processes**
+* [Course 03-04](https://yadi.sk/d/IlFfCowcTc9wxg): **Applications of linear algebra in modelling business processes** pass: miau
 * Course 05-08: **Comparativ static analysis** 
   - [Comparative statics and the concept of derivative](https://yadi.sk/i/zFyIrWd9ftXcsQ)
   - [Rules of differentiation and their use in comparative statics](https://yadi.sk/i/2mmklW35Jfm8mw)
   - [Comparative static analysis of general function models](https://yadi.sk/i/HxxTy7jq-zxhoA)
+  - [Other examples of problems related to economics and business, 1](https://yadi.sk/i/XZIYvDfLIFEEvg)
 [](* Course 07-08:) 
 * Course 09-10: **Optimization problems**
   - [Linear programming: a geometric approach](https://yadi.sk/i/hgmCKIiTlxIH9w)
