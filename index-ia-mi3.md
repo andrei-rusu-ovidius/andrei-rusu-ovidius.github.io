@@ -49,6 +49,10 @@ Familiarizarea studenților cu obiectul de studiu al inteligenței artificiale, 
 * [Cursul 11-12](https://yadi.sk/d/1k5g7FBG32ZBjN)
 * [Cursul 13-14](https://yadi.sk/d/RhxOf2UB32ZBxt)
 
+Suplimentar: 
+
+- [Bayesian reasoning](https://yadi.sk/i/NHI0XMXuSRCucg).
+
 
 
 #### Lucrările de laborator:
