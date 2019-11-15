@@ -52,6 +52,8 @@ Familiarizarea studenților cu obiectul de studiu al inteligenței artificiale, 
 Suplimentar: 
 
 - [Bayesian reasoning](https://yadi.sk/i/NHI0XMXuSRCucg).
+- [Fuzzy reasoning](https://yadi.sk/i/_lWFsYHzZFu0XA)
+- [Pearl's Scheme for Evidential Reasoning](https://yadi.sk/i/kIAVjkoKnp32lw)
 
 
 
