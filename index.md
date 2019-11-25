@@ -18,7 +18,9 @@
 
 ### Teme de licență / master
 
-### Studenți înscriși
+Aici vor apare până în 06.12.2019 lista temelor. Cine vrea să-și propună să realizeze o anumită temă cu mine trebuie să o discutăm și apoi să o includ în lista dată. 
+
+#### Studenți înscriși
 
 ### Semestrul 1 de toamnă, 2019-2020
 
