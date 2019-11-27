@@ -85,7 +85,7 @@
 | 21 | | 21 | 21 | 21 | 24 | 21 | 11 |
 | 22 | | 22 | 22 | 22 | 25 | 22 | 12 |
 
-- [**Homework 2:**](ase-aae1-hw2.md) - Some problems related to derivations and differentials of functions related to problems in economics. 
+- [**Homework 2:**](ase-aae1-hw2.html) - Some problems related to derivations and differentials of functions related to problems in economics. 
 
 ### WARNING: The colloquium will take place on:
 
