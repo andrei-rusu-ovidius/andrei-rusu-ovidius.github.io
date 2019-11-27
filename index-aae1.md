@@ -28,7 +28,7 @@
 
 #### Note:
 
-### Course / Laboratory / Seminar work:
+### Course / Laboratory / Seminar work / Homeworks:
 
 * [Course 01-02](https://yadi.sk/d/zgxVLxajlypEAg): **Linear algebra and static analysis of economic models** pass: miau
 * [Course 03-04](https://yadi.sk/d/IlFfCowcTc9wxg): **Applications of linear algebra in modelling business processes** pass: miau
@@ -55,6 +55,37 @@
 * Seminar 09-10:
 * Seminar 11-12:
 * Seminar 13-14:
+
+---
+
+- [**Homework 01**](https://yadi.sk/i/Ve4Ch8MZ6NW2pA) - Variants for Homework 01 are distributed according to the table below (1: 1-30, 2: 1-26, 3: 4-27, 4: 1-28, 5:5-24 ):
+
+| No | Surname, Name | Variant | Prob.1 | Prob.2 | Prob.3 | Prob.4 | Prob.5 |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1  | Badea I. Ioan-Alexandru | 1  | 1  | 1  | 4  | 1  | 5  |  
+| 2  | Căldăraru L. Elena-Alexandra  | 2  | 2  | 2  | 5  | 2  | 6  |   
+| 3  | Ciobanu G. Steluța | 3  | 3  | 3  | 6  | 3  | 7  |   
+| 4  | Cojocaru I. Costin-Răzvan | 4  | 4  | 4  | 7  | 4  | 8  |  
+| 5  | Cupcic G. Mario-David | 5  | 5  | 5  | 8  | 5  | 9  |   
+| 6  | Dima M. Răzvan-Corneliu | 6  | 6  | 6  | 9  | 6  | 10 |   
+| 7  | Dobre I. Eugen‐Bogdan | 7  | 7  | 7  | 10 | 7  | 11 |   
+| 8  | Drăgan G. Mario | 8  | 8  | 8  | 11 | 8  | 12 |   
+| 9  | Enache I. Cristian-Marian | 9  | 9  | 9  | 12 | 9  | 13 |   
+| 10 | Gheorghiu G. Liviu | 10 | 10 | 10 | 13 | 10 | 14 |   
+| 11 | Grigoraș M. Alexandru | 11 | 11 | 11 | 14 | 11 | 15 |   
+| 12 | Mihalache Gh. Mihaela-Cătălina | 12 | 12 | 12 | 15 | 12 | 16 |   
+| 13 | Neagu V. Denisa-Teodora | 13 | 13 | 13 | 16 | 13 | 17 |   
+| 14 | Panaitescu M.E. Tiberiu-Mihai | 14 | 14 | 14 | 17 | 14 | 18 |   
+| 15 | Poponete M.G. Adina-Maria | 15 | 15 | 15 | 18 | 15 | 19 |   
+| 16 | Rentesis I. Stylianos | 16 | 16 | 16 | 19 | 16 | 20 |   
+| 17 | Selim R. Ebru | 17 | 17 | 17 | 20 | 17 | 21 |   
+| 18 | Sima D. Robert | 18 | 18 | 18 | 21 | 18 | 22 |   
+| 19 | Stan P.M. Alexandru-Costin | 19 | 19 | 19 | 22 | 19 | 23 |   
+| 20 | Vasile N. Daniela-Elena | 20 | 20 | 20 | 23 | 20 | 24 |
+| 21 | | 21 | 21 | 21 | 24 | 21 | 11 |
+| 22 | | 22 | 22 | 22 | 25 | 22 | 12 |
+
+- [**Homework 2:**](ase-aae1-hw2.md) - Some problems related to derivations and differentials of functions related to problems in economics. 
 
 ### WARNING: The colloquium will take place on:
 
