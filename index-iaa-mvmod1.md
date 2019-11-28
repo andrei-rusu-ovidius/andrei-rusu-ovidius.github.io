@@ -33,7 +33,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 
 ***
 
-* [Lab. 01-02](https://yadi.sk/d/1dERVMo1wrZ8q): Configurarea spatiului de lucru cu agentii Jade. Configurarea [JADE+Eclipse](https://yadi.sk/i/AUrB5ZnAZXDxRg)
+* [Lab. 01-02](https://yadi.sk/d/1dERVMo1wrZ8q): Configurarea spatiului de lucru cu agentii Jade. Configurarea [JADE+Eclipse](https://yadi.sk/i/AUrB5ZnAZXDxRg) si asta [Instalare Maven si configurarea cu Eclipse + un proiect](https://yadi.sk/i/Phkmo1bVfndK-Q)
 * [Lab. 02-03](https://yadi.sk/d/h0BbH-wJuT6q8A): Exemple simple de agenti
 * [Lab. 03-04](https://yadi.sk/d/Pdqvcg-LzVedX): Cum putem automatiza lucrul cu agentii din linia de comanda?
 * [Lab. 05-06](): Implementarea unui algoritm euristic / genetic.
