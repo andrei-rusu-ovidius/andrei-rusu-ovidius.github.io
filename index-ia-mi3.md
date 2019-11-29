@@ -66,6 +66,10 @@ Suplimentar:
 * [Lab 04-05](https://yadi.sk/d/V0Gl1fC5l_Glmw)
 * [Lab 05-06](https://yadi.sk/d/fzBOsDQXhF6jEg)
 * [Lab 07](https://yadi.sk/d/MT2U2Oi429a42Q)
+  - Exemple de rețele neuronale simple
+    - [Recunoasterea cifrei 5](https://yadi.sk/i/AIOO56hndBiXJA)
+    - [Determinarea ecuatiei de regresie](https://yadi.sk/i/Yv82bkCJG5PlTA)
+
 
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
