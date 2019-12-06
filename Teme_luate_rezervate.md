@@ -2,6 +2,8 @@
 
 ## Prof.: lect. dr. Andrei Rusu
 
+O temă este **rezervată** dacă studentul respectiv a discutat cu mine despre ea și și-a exprimat intenția să o susțină. O temă se consideră **luată** dacă etapa de rezervare a temei se termină cu o cerere formală de înscriere, semnată de mine și înregistrată la secretariat. Formularul de cerere îl găsiți [**aici**](https://math.univ-ovidius.ro/Doc/Academic/Licenta/2018-2019/cerere-acceptare-lucrare-licenta-disertatie.pdf) sau pe site-ul facultății pentru [licență](https://math.univ-ovidius.ro/default.aspx?cat=Academic&subcat=Licenta&item=Documente) sau [master](https://math.univ-ovidius.ro/default.aspx?cat=Academic&subcat=Masterat&item=Documente).
+
 ### Licență, spec.: Informatică
 
 | Nr. ord. | Titlu| Nume student | Statut |  
@@ -10,6 +12,7 @@
 |2|Generarea calendarelor google personalizate în baza orarului|||
 |3|Web-scraping - aplicații de extragere de date structurate într-un fișier Excel/XML|||
 |4|Soluție web de management pentru echipamente de rutare Mikrotik|Mezeniuc Claudiu-Mihai|Rezervat| 
+|5|Aplicație android pentru studenții UOC de la FMI|Cioc Adrian Daniel|Rezervat|
 
 
 ### Licență, spec.: Computer Science (Informatică în limba engleză)
