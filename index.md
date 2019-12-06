@@ -16,11 +16,15 @@
 - **Reguli specifice în cadrul FMI** [aici](https://yadi.sk/i/zcu9X_4Q2DC2kw) sau [aici](http://s.go.ro/ko81hljz), 
 - **Reguli în caz de cutremur** [aici](https://yadi.sk/d/hR2C0_PhpMMBPw) sau [aici](http://s.go.ro/fnubqwes). 
 
-### Teme de licență / master
+### Teme de licență / master / grad 1
 
-Aici vor apare până în 06.12.2019 lista temelor. Cine vrea să-și propună să realizeze o anumită temă cu mine trebuie să o discutăm și apoi să o includ în lista dată. 
+[**Lista temelor de licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](Teme_lic_mas_grad.html)
+ 
+Referitor la titlurile temelor de licență și master, dacă doriți să susțineți cu mine o altă temă - Vă rog să mă anunțați, să îmi spuneți cam la ce temă Vă gândiți, ce plan de acțiune aveți. Apoi vom vedea dacă o mai putem adăuga în lista temelor aprobate de facultate (de obicei se aprobă).
 
-#### Studenți înscriși
+Tot aici vor apare și informații pentru studenții înscriși la mine pentru lucrarea de licență, disertație sau grad 1.   
+
+#### Studenți înscriși și teme rezervate (formal încă libere)
 
 ### Semestrul 1 de toamnă, 2019-2020
 
