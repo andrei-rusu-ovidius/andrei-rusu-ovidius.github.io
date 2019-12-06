@@ -26,6 +26,8 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 #### Studenți înscriși și teme rezervate (formal încă libere)
 
+[Lista temelor luate / rezervate](Teme_luate_rezervate.html)
+
 ### Semestrul 1 de toamnă, 2019-2020
 
 - [**Formular**](https://forms.gle/W2ei1nKSqsb3FbURA) pentru contactele studenților.
