@@ -43,7 +43,13 @@
   - [Linear programming: the simplex method](https://yadi.sk/i/HG_wYNbPhcwgeA)
   - [Linear programming: the dual problem](https://yadi.sk/i/6a2Cc-p7e_C-dA)
   - [Linear programming: mixed problem constraints](https://yadi.sk/i/V4HZ2jXlNCJtMA)
-* Course 11-12: 
+* Course 11-12: **Mathematics of Finance**
+  - [Simple interest](https://yadi.sk/i/9_NUIupijjWo5Q)
+  - [Compound and Continuous Compound Interest](https://yadi.sk/i/QdpLd3DWBv-elg)
+  - [Future Value of an Annuity; Sinking Funds](https://yadi.sk/i/P1Qt2C4ubi-g0A)
+  - [Present Value of an Annuity; Amortization](https://yadi.sk/i/3RlLUlBP_NJ_iQ)
+  - [Summary; Mathematics of finance](https://yadi.sk/i/uZNPxV5a-NxzUg)
+  - [Execises and Applications; Mathematics of finance](https://yadi.sk/i/L-FSAiwU_tPnIQ)
 * Course 13-14: 
 
 --- 
