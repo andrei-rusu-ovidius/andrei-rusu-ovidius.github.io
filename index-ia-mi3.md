@@ -74,7 +74,7 @@ Suplimentar:
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **urmează să fie fie stabilită**, (spec: Matematică-Informatica, anul 3)
+* **30 ianuarie, 2020, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
 
 ### Surse bibliografice:
 

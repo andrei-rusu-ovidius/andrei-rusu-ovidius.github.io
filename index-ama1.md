@@ -21,7 +21,11 @@ Lect. dr. Andrei Rusu
 ### Lista temelor pentru referate
 
 - [Lista temelor](./Lista_temelor.html).
-- [Alocarea temelor către studenți]() va apare <!--(./ap1_teme.html).-->
+- [Alocarea temelor către studenți]() va apare - dacă nu este indicată, atunci se ia în ordinea numarului din lista studenților de la secretariat.  <!--(./ap1_teme.html).-->
+
+### Data examenului: 
+
+* **30 ianuarie 2020, ora 13.00; ** sau **31 ianuarie 2020, ora 9.00**. Sala o va stabili secretariatul. 
 
 ## Subiecte discutate
 

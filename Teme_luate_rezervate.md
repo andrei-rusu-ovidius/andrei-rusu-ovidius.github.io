@@ -11,17 +11,17 @@ O temă este **rezervată** dacă studentul respectiv a discutat cu mine despre 
 | 1 | Aplicație de transpunere a desenelor în muzică | Andronache Filip | Rezervat | 
 |2|Generarea calendarelor google personalizate în baza orarului|||
 |3|Web-scraping - aplicații de extragere de date structurate într-un fișier Excel/XML|||
-|4|Soluție web de management pentru echipamente de rutare Mikrotik|Mezeniuc Claudiu-Mihai|Rezervat| 
-|5|Aplicație android pentru studenții UOC de la FMI|Cioc Adrian Daniel|Rezervat|
+|4|Soluție web de management pentru echipamente de rutare Mikrotik|Mezeniuc Claudiu-Mihai|Luată| 
+|5|Aplicație android pentru studenții UOC de la FMI|Cioc Adrian Daniel|Luată|
 
 
 ### Licență, spec.: Computer Science (Informatică în limba engleză)
 
 | Nr. ord. | Titlu| Nume student | Statut |  
 | :---: | :--- | :--- | :---: |
-|1|An intelligent web-application for a tourist agency|Babu Daniela Cristiana|Rezervat|
-|2|An intelligent web-application for a car-selling firm|Alexe Bianca|Rezervat|
-
+|1|An intelligent web-application for a tourist agency|Babu Daniela Cristiana|Luată|
+|2|An intelligent web-application for a car-selling firm|||
+|3|Using the framework Unreal Engine for development of a game|Alexe Bianca|Rezervată|
 
 ### Master, spec.: Medii virtuale multimodale și distribuite; Modelare și tehnologii informatice
 

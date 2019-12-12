@@ -47,7 +47,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **urmează să fie fie stabilită**, ()
+* **30 ianuarie 2020, ora 17.00, sala P19 (unde avem orele în timpul semestrului)**, ()
 
 ### Surse bibliografice:
 

@@ -95,7 +95,7 @@
 
 ### WARNING: The colloquium will take place on:
 
-* ** TO BE announced **, 
+* ** Januarie 09, 2020, at 12.00 in Piata Chiliei building at room 205 **, 
 
 ### Bibliographical sources:
 

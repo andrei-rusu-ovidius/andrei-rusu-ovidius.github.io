@@ -14,7 +14,8 @@
 
 1. An intelligent web-application for a tourist agency. 
 2. An intelligent web-application for a car-selling firm. 
-3. 
+
+3. Using the framework Unreal Engine for development of a game.
 
 ### Master, spec.: Medii virtuale multimodale și distribuite; Modelare și tehnologii informatice
 
