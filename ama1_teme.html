@@ -1,0 +1,697 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel="stylesheet" href="qrc:/scripts/mermaid/mermaid.css">
+<script src="qrc:/scripts/mermaid/mermaid.full.min.js"></script>
+
+<style>body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+kbd {
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    background-color: #dddddd;
+    background-image: linear-gradient(#f1f1f1, #dddddd);
+    background-repeat: repeat-x;
+    border-radius: 2px;
+    border-width: 1px;
+    border-color: #dddddd #cccccc #cccccc #dddddd;
+    border-image: none;
+    border-style: solid;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}</style>
+</head>
+<body>
+<h2 id="Elemente.de.tehnologia.informa..iilor..Informatica.pentru.adminstra..ia.public..">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</h2>
+
+<h3 id="Asisten.....managerial.....i.administrativ....anul.1..2019-2020..sem..1">Asistență managerială și administrativă, anul 1, 2019-2020, sem. 1</h3>
+
+<h4 id="Fac..de.Drept...i...tiin..e.Administrative">Fac. de Drept și Științe Administrative</h4>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center;"> Nr.ord. </th>
+<th style="text-align:left;"> Nume, Prenume </th>
+<th style="text-align:center;"> Grupa </th>
+<th style="text-align:center;"> Varianta </th>
+<th style="text-align:left;"> Titlul temei </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">BAHRIN P. ANAMARIA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:left;">Structura logică a unui document.</td>
+</tr>
+<tr>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">BĂESCU M. MARIA-MĂDĂLINA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:left;">Stiluri de formatare a textului în aplicații de tipul Microsoft Word și lucrul cu ele.</td>
+</tr>
+<tr>
+<td style="text-align:center;">3</td>
+<td style="text-align:left;">BLEJAN E. ELIANA-ANDREEA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:left;">Crearea cuprinsului în procesoarele de texte de tip Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">4</td>
+<td style="text-align:left;">CARAMANGIU F. ALEXANDRA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:left;">Crearea listei de figuri în procesoarele de texte de tip Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">CĂLIN S. IULIANA-ALEXANDRA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:left;">Crearea listei de tabele în procesoarele de texte de tip Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">CIOBOTARU V. CLAUDIA-MIHAELA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:left;">Activitățile legate de gestionarea bibliografiei și moduri de implementare a lor în procesoarele de texte de tip Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">7</td>
+<td style="text-align:left;">CODRESCU A. BIANCA-MARIA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">7</td>
+<td style="text-align:left;">Moduri de afișare a documentelor (print view, web layout, outline, etc) și cazurile de utilizare a lor în procesoarele de texte de tip Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">8</td>
+<td style="text-align:left;">COMAN N. MIRELA-MIHAELA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">8</td>
+<td style="text-align:left;">Ce este un server web? Exemple și utilitatea lor.</td>
+</tr>
+<tr>
+<td style="text-align:center;">9</td>
+<td style="text-align:left;">CONSTANTIN R. ANDREEA-MĂDĂLINA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">9</td>
+<td style="text-align:left;">Ce reprezintă o aplicație web? Exemple. Gestionarea lor.</td>
+</tr>
+<tr>
+<td style="text-align:center;">10</td>
+<td style="text-align:left;">DEACU D. ADRIAN-GABRIEL () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:left;">Cuvintele cheie (indexate) din cadrul unui document și generarea listei lor în cadrul unui procesor de texte de tip Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">11</td>
+<td style="text-align:left;">DEMECA C. NICOLAS-CRISTIAN () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">11</td>
+<td style="text-align:left;">Sisteme de procesare a textelor, altele decât Microsoft Word și similare cu Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">12</td>
+<td style="text-align:left;">DINU M. IZABELA-MIHAELA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">12</td>
+<td style="text-align:left;">Diferențe și asemănări dintre procesoarele de texte de tip Micrisoft Word și sistemele de editare a textelor de tip LaTeX.</td>
+</tr>
+<tr>
+<td style="text-align:center;">13</td>
+<td style="text-align:left;">DOBRINAŞ D. ALEXANDRU () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:left;">Metode de securizare a corespondenței prin email.</td>
+</tr>
+<tr>
+<td style="text-align:center;">14</td>
+<td style="text-align:left;">DOMNARU L. OCTAVIAN-CRISTIAN () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">14</td>
+<td style="text-align:left;">Metode de comunicare prin mesaje securizate folosind internetul.</td>
+</tr>
+<tr>
+<td style="text-align:center;">15</td>
+<td style="text-align:left;">DULGHERU V. GEORGIANA-DANIELA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">15</td>
+<td style="text-align:left;">Aplicații în cloud (Google Docs / Google Drive): avantaje și dezavantaje față de aplicațiile desktop (Microsoft Office / Libre Office / etc).</td>
+</tr>
+<tr>
+<td style="text-align:center;">16</td>
+<td style="text-align:left;">DUMITRACHE A. DIANA-ALEXANDRA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">16</td>
+<td style="text-align:left;">Tehnologii de comunicare eletronică (VoIP, Skype, Messenger, WhatsApp, etc): exemple și analiză comparativă.</td>
+</tr>
+<tr>
+<td style="text-align:center;">17</td>
+<td style="text-align:left;">GACHI D. ANASTASIA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">17</td>
+<td style="text-align:left;">Tehnologii de comunicare cu voce (VoIP, Skype, Messenger, WhatsApp, etc): exemple și analiză comparativă.</td>
+</tr>
+<tr>
+<td style="text-align:center;">18</td>
+<td style="text-align:left;">GAVRILĂ D. MARINELA-BIANCA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">18</td>
+<td style="text-align:left;">Ce este o semnătură electronică (digitală)? Comparație cu o semnătură fizică.</td>
+</tr>
+<tr>
+<td style="text-align:center;">19</td>
+<td style="text-align:left;">HRISCU S. ROBERTINA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">19</td>
+<td style="text-align:left;">Cum se poate semna un document de tip Microsoft Word?</td>
+</tr>
+<tr>
+<td style="text-align:center;">20</td>
+<td style="text-align:left;">ILIE A. DIANA-MIHAELA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">20</td>
+<td style="text-align:left;">Cum se poate semna un document de tip Microsoft Excel?</td>
+</tr>
+<tr>
+<td style="text-align:center;">21</td>
+<td style="text-align:left;">IONIŢĂ V. IONELA-CLAUDIA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">21</td>
+<td style="text-align:left;">Cum se poate semna un document de tip Microsoft Power Point?</td>
+</tr>
+<tr>
+<td style="text-align:center;">22</td>
+<td style="text-align:left;">IORGA T. PETRICA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">22</td>
+<td style="text-align:left;">Cum se poate semna un document PDF?</td>
+</tr>
+<tr>
+<td style="text-align:center;">23</td>
+<td style="text-align:left;">ISDRĂILĂ E. LUISA-GABRIELA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">23</td>
+<td style="text-align:left;">Schema generală de lucru cu un document de tip LaTeX.</td>
+</tr>
+<tr>
+<td style="text-align:center;">24</td>
+<td style="text-align:left;">JUFA I. ROXANA-ANDREEA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">24</td>
+<td style="text-align:left;">Metode de autentificare securizată la servicii internet.</td>
+</tr>
+<tr>
+<td style="text-align:center;">25</td>
+<td style="text-align:left;">LEU D. ELENA-DIANA () </td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">25</td>
+<td style="text-align:left;">Diferența dintre autentificare bazată pe un factor și autentificarea bazată pe doi factori. Exemple. Comparație.</td>
+</tr>
+<tr>
+<td style="text-align:center;">26</td>
+<td style="text-align:left;">MACHEDON G. ANDREEA-CORINA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">26</td>
+<td style="text-align:left;">Lucrul cu versiunile documentelor în Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">27</td>
+<td style="text-align:left;">MARIN (GOGA) P. ANDREEA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">27</td>
+<td style="text-align:left;">Lucrul colaborativ asupra textului în Microsoft Word (Review).</td>
+</tr>
+<tr>
+<td style="text-align:center;">28</td>
+<td style="text-align:left;">MIHAI C. ANDRA-GABRIELA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">28</td>
+<td style="text-align:left;">Gestionarea versiunilor unui document folosind sistemul git.</td>
+</tr>
+<tr>
+<td style="text-align:center;">29</td>
+<td style="text-align:left;">MÎNDRA I. ROBERT-MIHAI</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">29</td>
+<td style="text-align:left;">Instalarea și lucrul din linia de comandă cu sistemul git.</td>
+</tr>
+<tr>
+<td style="text-align:center;">30</td>
+<td style="text-align:left;">MOCANU D. ANDRA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">30</td>
+<td style="text-align:left;">Instalarea și lucrul cu sistemul de gestiune a versiunilor documentelor folosind interfața grafică (SmartGit, etc).</td>
+</tr>
+<tr>
+<td style="text-align:center;">31</td>
+<td style="text-align:left;">MOCANU V. RAMONA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">31</td>
+<td style="text-align:left;">Scrierea textelor folosind limbajul markdown.</td>
+</tr>
+<tr>
+<td style="text-align:center;">32</td>
+<td style="text-align:left;">NĂSTASE G. ALINA-MIRELA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">32</td>
+<td style="text-align:left;">Avantaje și dezavantaje ale formatului de scriere a textelor markdown.</td>
+</tr>
+<tr>
+<td style="text-align:center;">33</td>
+<td style="text-align:left;">OBERDINSCHI C. MARIA-ANTONIA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">33</td>
+<td style="text-align:left;">Probleme și soluții de convertabilitate a textelor dintr-un format în altul. Exemple.</td>
+</tr>
+<tr>
+<td style="text-align:center;">34</td>
+<td style="text-align:left;">OLARU C. CRISTINA-IULIANA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">34</td>
+<td style="text-align:left;">Instalarea și utilizarea pandoc pentru convertirea textelor dintr-un format în altul.</td>
+</tr>
+<tr>
+<td style="text-align:center;">35</td>
+<td style="text-align:left;">OLARU I. ANDREEA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">35</td>
+<td style="text-align:left;">Alte formate pentru texte în format electronic (fb2, epub, mobi, etc).</td>
+</tr>
+<tr>
+<td style="text-align:center;">36</td>
+<td style="text-align:left;">OLTEANU M. DIANA-NICOLETA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">36</td>
+<td style="text-align:left;">Cum se poate scrie un text în format fb2.</td>
+</tr>
+<tr>
+<td style="text-align:center;">37</td>
+<td style="text-align:left;">ONCEL M. IONELA-CORINA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">37</td>
+<td style="text-align:left;">Cum se poate scrie un text în format epub.</td>
+</tr>
+<tr>
+<td style="text-align:center;">38</td>
+<td style="text-align:left;">PANAIT G. ALIN-NICUŞOR () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">38</td>
+<td style="text-align:left;">Cum se poate obține un text în format pdf.</td>
+</tr>
+<tr>
+<td style="text-align:center;">39</td>
+<td style="text-align:left;">PARNIC D. REBECA-LARISA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">39</td>
+<td style="text-align:left;">Analiză comparativă dintre Microsoft Word și LibreOffice Writer.</td>
+</tr>
+<tr>
+<td style="text-align:center;">40</td>
+<td style="text-align:left;">PIPEREA I. GABRIELA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">40</td>
+<td style="text-align:left;">Analiza comparativă dintre Microsoft Word și LaTeX.</td>
+</tr>
+<tr>
+<td style="text-align:center;">41</td>
+<td style="text-align:left;">POPA V. CRISTINA-FELICIA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">41</td>
+<td style="text-align:left;">Etidatea textelor folosind Notepad, Notepad++: diferențe față de Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">42</td>
+<td style="text-align:left;">RĂGHINĂ M. MARIA-FRANCISCA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">42</td>
+<td style="text-align:left;">Diferențe și asemănări dintre editoarele de texte Notepad și Notepad++.</td>
+</tr>
+<tr>
+<td style="text-align:center;">43</td>
+<td style="text-align:left;">SIMA Ş. SEBASTIAN () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">43</td>
+<td style="text-align:left;">Texte în format html și exportul documentelor în format html folosind diferite procesoare de texte.</td>
+</tr>
+<tr>
+<td style="text-align:center;">44</td>
+<td style="text-align:left;">STROE (GORGAN) M. ALINA-CLAUDIA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">44</td>
+<td style="text-align:left;">Analiza comparativă a procesoarelor / editoarelor de texte relativ la capacitatea de export a documentelor în format html.</td>
+</tr>
+<tr>
+<td style="text-align:center;">45</td>
+<td style="text-align:left;">TIRCAVU M. CONSTANTIN-ALIN</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">45</td>
+<td style="text-align:left;">Analiza comparativă a procesoarelor / editoarelor de texte relativ la capacitatea de a exporta documente în format pdf.</td>
+</tr>
+<tr>
+<td style="text-align:center;">46</td>
+<td style="text-align:left;">TOADER (CHIRIAC) D. IOANA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">46</td>
+<td style="text-align:left;">Analiza comparativă a sistemelor desktop de prelucrare a documentelor (Microsoft Office, LibreOffice, MikTeX, etc) și sistemele cloud pentru prelucrarea documentelor (Google Docs / Google Drive, OverLeaf, etc).</td>
+</tr>
+<tr>
+<td style="text-align:center;">47</td>
+<td style="text-align:left;">TOMA D. ANCUŢA-LĂCRĂMIOARA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">47</td>
+<td style="text-align:left;">Macrocomenzi în Microsoft Office: exemple și aplicații.</td>
+</tr>
+<tr>
+<td style="text-align:center;">48</td>
+<td style="text-align:left;">TOMOŞIOIU D. ANA-MARIA DANIELA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">48</td>
+<td style="text-align:left;">Crearea stilurilor proprii pentru anumite structuri logice de text (notițe, definiții, observații, etc) în Microsoft Word.</td>
+</tr>
+<tr>
+<td style="text-align:center;">49</td>
+<td style="text-align:left;">URSE V. ANDREEA-ANA-MARIA () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">49</td>
+<td style="text-align:left;">Înregistrarea și utilizarea macrocomenzilor în Macrosoft Office.</td>
+</tr>
+<tr>
+<td style="text-align:center;">50</td>
+<td style="text-align:left;">VASILIU P. VLAD () </td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">50</td>
+<td style="text-align:left;">Editarea macrocomenzilor în Microsoft Office.</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>
