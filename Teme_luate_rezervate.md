@@ -13,6 +13,12 @@ O temă este **rezervată** dacă studentul respectiv a discutat cu mine despre 
 |3|Web-scraping - aplicații de extragere de date structurate într-un fișier Excel/XML|||
 |4|Soluție web de management pentru echipamente de rutare Mikrotik|Mezeniuc Claudiu-Mihai|Luată| 
 |5|Aplicație android pentru studenții UOC de la FMI|Cioc Adrian Daniel|Luată|
+|6|Aplicatie privind gestionarea dosarului personal al salariatului folosind platforma .NET|Adavidoaiei Gratiela|Rezervat|
+|7|Aplicatie android pentru rezervarea si cumpararea biletelor online la cinema|Cioaca Alexandra|Rezervat|
+|8|O aplicatie web inteligenta pentru o firma de vanzare a cartilor|Tomag Corneliu|???|
+|9|Aplicatie pentru vizualizarea hainelor pe manechin 3D|???|Rezervata|
+|10|Aplicatii ale algoritmilor de inteligenta artificiala in jocuri|Mitrea Andrei|Rezervata|
+|11|||||
 
 
 ### Licență, spec.: Computer Science (Informatică în limba engleză)
@@ -29,6 +35,7 @@ O temă este **rezervată** dacă studentul respectiv a discutat cu mine despre 
 | :---: | :--- | :--- | :---: |
 |1|Generarea automată a orarului folosind algoritmi genetici|||
 |2|Programarea agenților FIPA în Python - comparație cu Java|||
+|3|Elaborarea unui joc de tip platformer|Alexandru Dumitriu||
 
 ### Teme pentru grad 1:
 
