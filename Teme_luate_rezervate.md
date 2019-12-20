@@ -35,7 +35,7 @@ O temă este **rezervată** dacă studentul respectiv a discutat cu mine despre 
 | :---: | :--- | :--- | :---: |
 |1|Generarea automată a orarului folosind algoritmi genetici|||
 |2|Programarea agenților FIPA în Python - comparație cu Java|||
-|3|Elaborarea unui joc de tip platformer|Alexandru Dumitriu||
+|3|Isekai adventure - Joc 2D de tip side-scroll cu generarea automata a mapei in Unity|Alexandru Dumitriu|Luată|
 
 ### Teme pentru grad 1:
 
