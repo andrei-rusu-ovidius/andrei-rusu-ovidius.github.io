@@ -52,8 +52,8 @@
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **Joi, 30 mai 2019, ora 14.00, sala S1**, (spec: Informatica, anul 1, seria 1),
-* **Miercuri, 29 mai 2019, ora 14.00, sala D2**, (spec: Computer Science, anul 1). 
+* **Vineri, 22 sau 29 mai 2020, ora 10.00, sala AB1**, (spec: Informatica, anul 1, seria 1),
+* **Joi, 21 sau 28 mai 2020, ora 8.00, sala S1**, (spec: Computer Science, anul 1). 
 
 ### Surse bibliografice:
 
@@ -68,6 +68,6 @@
 
 ---
 
-(c) Andrei Rusu, 2004-2019
+(c) Andrei Rusu, 2004-2020
 
 

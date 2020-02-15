@@ -52,8 +52,8 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 ### WARNING: The colloquium will take place on:
 
-* ** Thursday, May 30, 2019, 14.00, room S1 **, (spec: Informatica, year 1, series 1),
-* ** Wednesday, May 29, 2019, 14.00, room D2 **, (spec: Computer Science, year 1).
+* ** Friday, May 22 or 29, 2020, 10.00, room AB **, (spec: Informatica, year 1, series 1),
+* ** Thuthday, May 21 or 28, 2019, 8.00, room S1 **, (spec: Computer Science, year 1).
 
 ### Bibliographical sources:
 
@@ -68,4 +68,4 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 ---
 
-(c) Andrei Rusu, 2004-2019
+(c) Andrei Rusu, 2004-2020
