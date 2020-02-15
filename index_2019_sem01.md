@@ -29,29 +29,28 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 [Lista temelor luate / rezervate](Teme_luate_rezervate.html)
 
-### Semestrul 2 de primăvară, 2019-2020
+### Semestrul 1 de toamnă, 2019-2020
 
-- [**Formular**](https://forms.gle/Nt1rhPyi72ns9GJK8) pentru contactele studenților.
-- **Consultații**: Joi, 12-14, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
+- [**Formular**](https://forms.gle/W2ei1nKSqsb3FbURA) pentru contactele studenților.
 
 #### Facultatea de matematică și informatică
 
-- [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1)
-- [**Mathematical and computational logic**](./index-LC-cs1.html) (Licență: Informatică în limba engleză (Computer Science), anul 1)
-- [**Modelare cu algoritmi genetici**](./index-mag-mti2.htm) (Master: Modelare și tehnologii informatice (MTI), anul 2) 
-- [**Dezvoltarea aplicațiilor Web**]() (Licență: Informatică, anul 3 (info3), ...)
+- [**Inteligență artificială**](./index-ia-mi3.html) (Licență: Matematică-Informatică (MI), anul 3)
+- [**Inteligență artificială aplicată**](./index-iaa-mvmod1.html) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1) 
+- **Consultații**: Joi, 10-12, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
 
 #### Facultatea de drept și științe administrative
 
-- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ap1.html) (Licență: Administrație publică, anul 1)
-- [**Utilizarea tehnologiilor informatice**](./index-pl1.html) (Licență: Poliție locală, anul 1)
+- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ama1.html) (Licență: Asistență amangerială și administrativă (AMA), anul 1)
 
-### Semestrul 1 de toamnă, 2019-2020
-
-[//]: # (This syntax works like a comment, and won't appear in any output. Formularul vechi   https://forms.gle/W2ei1nKSqsb3FbURA)
+[//]: # (This syntax works like a comment, and won't appear in any output.)
 [//]: # (It’s a little bizarre, but it works with MacDown and Pandoc.)
 
 <!-- And this comment will appear in html output as a comment -->
+
+#### Facultatea de științe economice
+
+- [**Matematici aplicate în economie / Applied mathematics in economics**](./index-aae1.html) (Licență / Bachelor: Administrarea afacerilor (în limba engleză) / Business Administration (AA-eng), anul 1 / 1st year)
 
 #### Practica 2020
 
