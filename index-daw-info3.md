@@ -82,7 +82,10 @@ Suplimentar:
 #### Lucrările de laborator:
 
 - [Lab 01:]() Configurarea mediului de lucru: __JDK__, __Eclipse__, __maven__, __git__. 
+  - Pentru instalarea eclipse varianta portabilă îl downloadăm de [__aici__](https://yadi.sk/d/AO31kvrJgxyPmA).
+  - __Git__ îl putem lua și de [aici](https://git-scm.com/download/win). Se instalează fără a fi nevoie de drepturi de administrator. 
 - [Lab 02:]() Crearea primei aplicații Spring. Testarea funcționalității de bază (accesul la obiectele din Application Context)
+  - Urmăm exemplele de la primele 2 cursuri :)
 - [Lab 03:]() 
 - [Lab 04:]() 
 - [Lab 05:]() 
@@ -97,23 +100,15 @@ Suplimentar:
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **30 ianuarie, 2020, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
+* **??? mai/iunie, 2020, ora 08.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Informatica, anul 3)
 
 ### Surse bibliografice:
 
-1. David B. Lamkins, Successful Lisp How to Understand and Use Common Lisp, 2004, Ed.: bookfix.com , 360p, ISBN-13: 978-3937526003
-2. Stuart J. Russell , Peter Norvig, Artificial Intelligence - A Modern Approach, 2003 (ed
-2), 2010 (ed 3), Prentice-Hall, 1152 p.
-3. Steven L. Tanimoto, The elements of artificial intelligence, Computer Science Press,
-1987, 553 p
-4. Ștefan Trăușan-Matu, Programare în Lisp – inteligență artificială și web semantic, Ed.
-Polirom, 2004, 288 p.
-5. Mark Watson, Practical Artificial Intelligence Programming in Java, 3rd ed., 2008
-6. Altele ...
+
 
 ***
 
-[Studenților](./) -> [Inteligență artificială]() 
+[Studenților](./) -> [DAW]() 
 
 ---
 
