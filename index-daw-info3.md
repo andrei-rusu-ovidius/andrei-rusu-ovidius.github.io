@@ -85,7 +85,7 @@ Suplimentar:
   - Pentru instalarea eclipse varianta portabilă îl downloadăm de [__aici__](https://yadi.sk/d/AO31kvrJgxyPmA).
   - __Git__ îl putem lua și de [aici](https://git-scm.com/download/win). Se instalează fără a fi nevoie de drepturi de administrator. 
 - [Lab 02:]() Crearea primei aplicații Spring. Testarea funcționalității de bază (accesul la obiectele din Application Context)
-  - Urmăm exemplele de la primele 2 cursuri :)
+  - Urmăm exemplele de la primele 2 cursuri :) Pentru lucrul cu __git__-ul folosim fișierul [__.gitignore__](https://yadi.sk/d/J5Kd4rqjKmLJjw) care ne va scuti de a încărca pe github sau în repozitoriul local fișierele altele decât cele sursă. 
 - [Lab 03:]() 
 - [Lab 04:]() 
 - [Lab 05:]() 
