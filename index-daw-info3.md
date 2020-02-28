@@ -62,9 +62,9 @@ Implementarea unei aplicații Web de tip REST.
 #### Cursurile:
 
 - [Cursul 01:](https://yadi.sk/d/-YkJj-XSUR-JwQ) Ce este Spring, Spring Boot și exemple simple.
-- [Cursul 02:]() Exemple de implementare IoC folosind DI în Spring.
-- [Cursul 03:]() 3 metode de bază pentru descrierea configurărilor în Spring: XML, Adnotare+XML, clase Java. 
-- [Cursul 04:]()
+- [Cursul 02:](https://yadi.sk/d/iC4NVySX10692g) Exemple de implementare IoC folosind DI în Spring.
+- [Cursul 03:](https://yadi.sk/d/WGrttsjL-mipfQ) Vizibilitatea (scope) bean-urilor + alte proprietăți
+- [Cursul 04:]() 3 metode de bază pentru descrierea configurărilor în Spring: XML, Adnotare+XML, clase Java. 
 - [Cursul 05:]()
 - [Cursul 06:]()
 - [Cursul 07:]()
