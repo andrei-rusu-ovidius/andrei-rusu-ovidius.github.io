@@ -86,7 +86,7 @@ Suplimentar:
   - __Git__ îl putem lua și de [aici](https://git-scm.com/download/win). Se instalează fără a fi nevoie de drepturi de administrator. 
 - [Lab 02:]() Crearea primei aplicații Spring. Testarea funcționalității de bază (accesul la obiectele din Application Context)
   - Urmăm exemplele de la primele 2 cursuri :) Pentru lucrul cu __git__-ul folosim fișierul [__.gitignore__](https://yadi.sk/d/J5Kd4rqjKmLJjw) care ne va scuti de a încărca pe github sau în repozitoriul local fișierele altele decât cele sursă. 
-- [Lab 03:]() 
+- [Lab 03:]() Modificarea [proiectului](https://github.com/andrei-rusu-teach/lab02/archive/master.zip) de la curs conform cerintelor indicate in __readme__. Ideea e că trebuie să cercetați singuri cum se poate face acest lucru având deja unele cunoștințe legate de injectarea dependențelor prin XML. Dacă nu reușiti veți avea soluția într-un timp util postată. Numai încercând să faci singur ceva înveți a face (nu poți învăța a merge cu bicicleta privind tutoriale pe youtube :) )
 - [Lab 04:]() 
 - [Lab 05:]() 
 - [Lab 06:]() 
