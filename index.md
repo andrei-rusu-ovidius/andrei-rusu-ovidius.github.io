@@ -34,6 +34,13 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 - [**Formular**](https://forms.gle/Nt1rhPyi72ns9GJK8) pentru contactele studenților.
 - **Consultații**: Joi, 12-14, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
 
+
+#### __<span style="color:red">Anunț referitor la activitatea online legat de situația cu virusul nărăvaș</span>__
+
+__<span style="color:green">
+Până în ziua de duminică (15.03.2020) voi veni cu o soluție online să pot să livrez cursurile. De asemenea urmează să decid ce platformă de comunicare să folosim. Detaliile for fi individual pentru fiecare specializare. 
+</span>__
+
 #### Facultatea de matematică și informatică
 
 - [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1)
