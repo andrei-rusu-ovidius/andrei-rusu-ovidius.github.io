@@ -1,3 +1,4 @@
+
 # Andrei Rusu's page for TESTs
 
 ## Testăm includerea video-urilor de pe youtube 
@@ -23,3 +24,9 @@ sau așa:
   <iframe src="http://s.go.ro/qpgk36gc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+## Stiluri și culori
+
+
+
+GitLab Purple Alert Pane
