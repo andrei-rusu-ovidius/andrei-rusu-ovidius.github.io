@@ -17,11 +17,16 @@
 </figure>
 <!-- blank line -->
 
-sau așa:
+### ... sau așa:
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="http://s.go.ro/qpgk36gc" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe 
+	src="http://s.go.ro/qpgk36gc" 
+	frameborder="0" 
+	height="350" width="600"
+	allowfullscreen="true"> 
+  </iframe>
 </figure>
 <!-- blank line -->
 
