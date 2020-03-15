@@ -45,6 +45,7 @@ Până în ziua de duminică (15.03.2020) voi veni cu o soluție online să pot 
   - Dezvoltarea aplicațiilor Web, info 3.
   - Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, AP 1.
   - Utilizarea tehnologiilor informatice, PL 1. 
+  - Modelare cu algoritmi genetici, mti 2 - cursurile sunt aproape toate online. 
 - <span style="color:blue">Urmează să apară cursurile la</span>:
   - info 1, Logică matematică și computațională
   - cs 1, Mathematical and computational logic
