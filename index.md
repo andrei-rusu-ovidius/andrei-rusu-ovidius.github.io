@@ -41,6 +41,14 @@ __<span style="color:green">
 Până în ziua de duminică (15.03.2020) voi veni cu o soluție online să pot să livrez cursurile. De asemenea urmează să decid ce platformă de comunicare să folosim. Detaliile for fi individual pentru fiecare specializare. 
 </span>__
 
+- <span style="color:magenta">Au apărut cursurile la</span>: 
+  - Dezvoltarea aplicațiilor Web, info 3.
+  - Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, AP 1.
+  - Utilizarea tehnologiilor informatice, PL 1. 
+- <span style="color:blue">Urmează să apară cursurile la</span>:
+  - info 1, Logică matematică și computațională
+  - cs 1, Mathematical and computational logic
+
 #### Facultatea de matematică și informatică
 
 - [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1)

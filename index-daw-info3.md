@@ -66,7 +66,7 @@ Implementarea unei aplicații Web de tip REST.
 - [Cursul 03:](https://yadi.sk/d/WGrttsjL-mipfQ) Vizibilitatea (scope) bean-urilor + alte proprietăți
 - [Cursul 04:](https://yadi.sk/d/69PBBwauD9j5Dw) Alte 2 metode de bază (pe lângă descrierea XML) pentru descrierea configurărilor în Spring: Adnotare+XML, clase Java. 
 - [Cursul 05:](https://yadi.sk/d/GJY2fFFdsIiGyg) Aplicații web Spring MVC. Teorie. 
-- [Cursul 06:]()
+- [Cursul 06:](https://yadi.sk/d/YEhMsz_z0flOoA) Crearea aplicațiilor Spring MVC.
 - [Cursul 07:]()
 - [Cursul 08:]()
 - [Cursul 09:]()
@@ -75,8 +75,6 @@ Implementarea unei aplicații Web de tip REST.
 - [Cursul 12:]() Deploy al aplicației în Heroku
 
 Suplimentar: 
-
-
 
 
 #### Lucrările de laborator:
@@ -88,7 +86,7 @@ Suplimentar:
   - Urmăm exemplele de la primele 2 cursuri :) Pentru lucrul cu __git__-ul folosim fișierul [__.gitignore__](https://yadi.sk/d/J5Kd4rqjKmLJjw) care ne va scuti de a încărca pe github sau în repozitoriul local fișierele altele decât cele sursă. 
 - [Lab 03:]() Modificarea [proiectului](https://github.com/andrei-rusu-teach/lab02/archive/master.zip) de la curs conform cerintelor indicate in __readme__. Ideea e că trebuie să cercetați singuri cum se poate face acest lucru având deja unele cunoștințe legate de injectarea dependențelor prin XML. Dacă nu reușiti veți avea soluția într-un timp util postată. Numai încercând să faci singur ceva înveți a face (nu poți învăța a merge cu bicicleta privind tutoriale pe youtube :) )
 - [Lab 04:]() Implementăm aplicațiile de la curs. Experimentăm pentru a înțelege exact cum stau lucrurile legate de aplicațiile dezvoltate bazate pe framework-ul Spring. 
-- [Lab 05:]() 
+- [Lab 05:]() Modificați aplicația de la cursul 06 conform cu cerințele indicate la sfârșitul cursului. Folosiți materia și de la cursul 05. 
 - [Lab 06:]() 
 - [Lab 07:]() 
 - [Lab 08:]() 
