@@ -37,18 +37,32 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 #### __<span style="color:red">Anunț referitor la activitatea online legat de situația cu virusul nărăvaș</span>__
 
+
+
 __<span style="color:green">
-Până în ziua de duminică (15.03.2020) voi veni cu o soluție online să pot să livrez cursurile. De asemenea urmează să decid ce platformă de comunicare să folosim. Detaliile for fi individual pentru fiecare specializare. 
+Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform programului (dacă nu am agreat o altă oră pentru aceasta). Lincurile pentru accesarea sesiunii video vor fi furnizte prin mediile electronice.  
 </span>__
 
-- <span style="color:magenta">Au apărut cursurile la</span>: 
+#### Programul de întâlniri online la curs
+* Cursuri: 
+  - info1, seria 1, Logică matematică și computațională, vineri, 10.00.
+  - cs1, Mathematical and computational logic, joi, ora 8.00
+  - info3, Dezvoltarea aplicațiilor web, vineri, 8.00
+  - mti2, Modelare cu algoritmi genetici, miercuri, 18.00
+  - PL1, Utilizarea tehnologiilor informatice, miercuri, 16.00
+  - AP1, Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, joi, 12.00
+* Laboratoare:
+  -  Va stau la dispozitie tot restul timpului online pe platformele online. 
+
+
+* <span style="color:magenta">Au apărut cursurile la</span>: 
   - Dezvoltarea aplicațiilor Web, info 3.
   - Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, AP 1.
   - Utilizarea tehnologiilor informatice, PL 1. 
   - Modelare cu algoritmi genetici, mti 2 - cursurile sunt aproape toate online. 
-- <span style="color:blue">Urmează să apară cursurile la</span>:
   - info 1, Logică matematică și computațională
   - cs 1, Mathematical and computational logic
+* <span style="color:blue">Urmează să apară cursurile la</span>:
 
 #### Facultatea de matematică și informatică
 

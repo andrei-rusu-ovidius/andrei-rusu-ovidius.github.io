@@ -40,6 +40,14 @@
 * [Informatica, seria 1](./info1s1.html), anul 1 (info1s1)
 * Matematică-Informatică, anul 2 (2017)
 
+### Cursurile online:
+* Cursul 01: Introducere în logică. Algebra propozițiilor.
+* Cursul 02: Logica clasică a propozițiilor. Tautologii. Contradicții. 
+* Cursul 03: Forme normale. Minimizarea formelor normale. 
+* Cursul 04: Axiomatizarea logicii clasice. Șiruri de deducție. Teoreme. 
+* [Cursul 05](https://yadi.sk/d/rehAPjVvJkWeYQ): Metode sintacttice de demonstrare a teoremelor în logica clasică a propozițiilor. 
+
+
 ### Lucrările de laborator:
 
 * [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevăr al formulei. Forme normale. 

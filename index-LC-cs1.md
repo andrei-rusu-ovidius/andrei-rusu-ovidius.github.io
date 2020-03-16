@@ -40,6 +40,13 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * [Informatics, series 1](./info1s1.html), year 1 (info1s1)
 * Mathematics-Informatics, year 2 (2017)
 
+### Online courses:
+* Course 01: Introduction to logic. Algebra of propositions.
+* Course 02: The classical logic of propositions. Tautologies. Inconsistences. 
+* Course 03: Normal forms. Minimization of normal forms. 
+* Course 04: Axiomatization of classical logic. Sequences of deduction. Theorems. 
+* [Course 05](https://yadi.sk/d/P-Ov2qcVqT6oiQ): Sintactic methods for proving theorems in the classical logic of propositions. 
+
 ### Laboratory work:
 
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
