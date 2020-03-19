@@ -37,7 +37,7 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 #### __<span style="color:red">Anunț referitor la activitatea online legat de situația cu virusul nărăvaș</span>__
 
-
+#### <span style="color:red">!!! [Nu uitați să respectați următoarele reguli recomandate de Ministerul Sănătății legate de corona-virus](ANEXA_INSTRUIRE_01.pdf) !!!</span>
 
 __<span style="color:green">
 Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform programului (dacă nu am agreat o altă oră pentru aceasta). Lincurile pentru accesarea sesiunii video vor fi furnizte prin mediile electronice.  
