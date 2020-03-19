@@ -44,6 +44,15 @@ Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform 
 </span>__
 
 #### Programul de întâlniri online la curs
+
+Ne intalnim online pentru cursuri instaland Cisco Webex Meetings. Link-ul canalului meu de prezentare il aveti aici: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach . 
+
+Email-uri trimiteti pe adresele: 
+
+![](andrei-email.png =250x)
+
+
+
 * Cursuri: 
   - info1, seria 1, Logică matematică și computațională, vineri, 10.00.
   - cs1, Mathematical and computational logic, joi, ora 8.00
