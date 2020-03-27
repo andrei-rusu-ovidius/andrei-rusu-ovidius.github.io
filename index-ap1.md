@@ -6,9 +6,9 @@ Lect. dr. Andrei Rusu
 
 ## Suntem și online:
 
-Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
-Discord: https://discord.gg/rWccru
-
+- Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+- Discord: https://discord.gg/rWccru
+- Teams: https://tinyurl.com/r6ytp6w
 
 ## Modul de susținere a examenului/colocviului
 

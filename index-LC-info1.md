@@ -9,9 +9,9 @@
 ---
 
 ### Suntem și online:
-Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
-Discord: https://discord.gg/S3NhqP
-
+- Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+- Discord: https://discord.gg/S3NhqP
+- Teams: https://tinyurl.com/wokuxh3
 
 ### Obiective:
 
