@@ -4,6 +4,11 @@
 
 Lect. dr. Andrei Rusu
 
+## Suntem și online
+Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+Discord: https://discord.gg/UTvEJB
+
+
 ## Modul de susținere a examenului/colocviului
 
 1. Prezență obligatorie la examen/colocviu. 

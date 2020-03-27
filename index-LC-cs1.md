@@ -8,6 +8,12 @@
 
 ---
 
+### Suntem și online: 
+Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+Discord: https://discord.gg/HF5mBc
+
+
+
 ### Goals:
 
 1. Working with the objects used in the proposititional  logic.

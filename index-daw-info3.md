@@ -8,6 +8,11 @@
 
 ---
 
+### Suntem și online: 
+Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+Discord: https://discord.gg/vUUja3
+
+
 ### Obiective:
 
 Cunoașterea principiilor de dezvoltare a aplicațiilor Web folosind framework-uri dedicate în limbajul Java: **Spring** și **Spring Boot**.

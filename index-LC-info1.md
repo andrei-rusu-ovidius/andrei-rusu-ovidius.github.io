@@ -8,6 +8,11 @@
 
 ---
 
+### Suntem și online:
+Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+Discord: https://discord.gg/S3NhqP
+
+
 ### Obiective:
 
 1. Lucrul cu obiectele folosite în logica propozițiilor. 
