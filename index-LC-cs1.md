@@ -10,6 +10,7 @@
 
 ### Suntem și online: 
 - Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+- Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
 - Discord: https://discord.gg/HF5mBc
 - Teams: https://tinyurl.com/urrnazn
 
