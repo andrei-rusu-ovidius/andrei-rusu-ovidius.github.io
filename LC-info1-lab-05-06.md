@@ -19,7 +19,7 @@
 
 ## Condiții de rezolvare și predare a lucrării
 
-1. Fiecare student lucrează, în calitate de exemplu, la o formulă notată cu `F`.
+1. Fiecare student lucrează, în calitate de exemplu, la o formulă notată cu `F` (formula e cea de la primul laborator).
 2. Dacă formula `F` este o tautologie, atunci se va considera conjuncția ei cu formula `((A -> B) v (B ~ C) v (C -> D))`. 
 
 2. Dacă formula este o contradicție, atunci se va considera disjuncția ei cu formula `((A -> B) v (B ~ C) v (C -> D))`.
