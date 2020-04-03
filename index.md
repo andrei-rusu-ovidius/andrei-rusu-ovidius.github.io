@@ -39,6 +39,15 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 #### <span style="color:red">!!! [Nu uitați să respectați următoarele reguli recomandate de Ministerul Sănătății legate de corona-virus](ANEXA_INSTRUIRE_01.pdf) !!!</span>
 
+Sunt pe unul din canalele de webex la curs (mai pică și ele din când în când): 
+
+- [**https://meetingsemea5.webex.com/meet/andrei.rusu**](https://meetingsemea5.webex.com/meet/andrei.rusu) 
+- [**https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach**](https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach) 
+- [**https://meetingsemea8.webex.com/meet/agrusu**](https://meetingsemea8.webex.com/meet/agrusu) 
+
+Alte detalii pentru comunicarea online găsim pe paginile cursurilor. 
+
+
 __<span style="color:green">
 Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform programului (dacă nu am agreat o altă oră pentru aceasta). Lincurile pentru accesarea sesiunii video vor fi furnizte prin mediile electronice.  
 </span>__
