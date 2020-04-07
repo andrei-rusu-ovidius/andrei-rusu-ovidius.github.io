@@ -37,6 +37,10 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 #### __<span style="color:red">Anunț referitor la activitatea online legat de situația cu virusul nărăvaș</span>__
 
+**2020.04.06** - Materialele cursurilor (video, text, discutii) se gasesc  pe paginile destinate cursurilor respective de pe acest site, sau în canalele de comunicare pe care le folosim (Discord, etc). 
+
+**2020.04.07** - E de dorit sa va faceti conturi și pe platformele universității (informații despre elegăsiți și pe site-ul universității https://www.univ-ovidius.ro/info-covid-19): [Moodle](), [Teams]()
+
 #### <span style="color:red">!!! [Nu uitați să respectați următoarele reguli recomandate de Ministerul Sănătății legate de corona-virus](ANEXA_INSTRUIRE_01.pdf) !!!</span>
 
 Sunt pe unul din canalele de webex la curs (mai pică și ele din când în când): 
@@ -47,14 +51,14 @@ Sunt pe unul din canalele de webex la curs (mai pică și ele din când în cân
 
 Alte detalii pentru comunicarea online găsim pe paginile cursurilor. 
 
-
 __<span style="color:green">
 Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform programului (dacă nu am agreat o altă oră pentru aceasta). Lincurile pentru accesarea sesiunii video vor fi furnizte prin mediile electronice.  
 </span>__
 
 #### Programul de întâlniri online la curs
 
-Ne intalnim online pentru cursuri instaland Cisco Webex Meetings. Link-ul canalului meu de prezentare il aveti aici: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach . 
+Ne intalnim online pentru cursuri instaland Cisco Webex Meetings. Link-ul canalului meu de prezentare il aveti aici: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach sau https://meetingsemea5.webex.com/meet/andrei.rusu 
+ 
 
 Email-uri trimiteti pe adresele: 
 
