@@ -1,0 +1,102 @@
+\documentclass{article}
+\usepackage{amssymb,amsfonts}
+
+\begin{document}
+\begin{center}
+Laboratory no. 9-10: Semantics of formulas in predicate calculus. 
+\end{center}
+
+{\bf Goals}: The students will gain the abilities to work with models in terms of formulas of a calculus. 
+
+Every student have to solve a subject from each problem according to their position in the list of the students of the group. Suppose this position is $N$. Let  the total number of variants in a problem is $M$. Then the student have to solve the variant $[N/M]+1$, where $[k/p]$ means the rest of the integer division of $k$ with $p$. For example, if $N=17, M=20$  then student have to solve variant 18. If $N=17, M=5$ then the corresponding variant is 3. 
+
+\bigskip
+
+{\bf 1}. Consider the domain of interpretation $D$ is the set of natural numbers $\{0, 1, 2, \dots\}$ and consider 2 predicates $S(x,y,z)$ and $P(x,y,z)$ on $D$ such that $S(x,y,z) = True$ iff $x+y = z$, and $P(x,y,z) = True$ iff $x*y = z$.  
+
+Write down a formula $F(x)$ of a free variable $x$ such that $F$ is true iff :
+\begin{enumerate}
+	\item $x=0$.
+	\item $x=1$.
+	\item $x=2$.
+	\item $x=3$.
+	\item $x=4$.
+	\item $x=5$.
+	\item $x=6$.
+	\item $x$ is even.
+	\item $x$ is odd.
+	\item $x$ is prime.
+	\item $x$ is divisible with $3$.
+	\item $x$ is divisible with $4$.
+        \item $x$ is divisible with $5$.
+        \item $x$ is divisible with $6$.
+        \item $x\ge 1$.
+        \item $x\ge 2$.
+        \item $x\ge 3$.
+        \item $x\ge 4$.
+        \item $x\ge 5$.
+        \item $x\ge 6$.
+        \item $x\le 1$.
+        \item $x\le 2$.
+        \item $x\le 3$.
+        \item $x\le 4$.
+        \item $x\le 5$.
+        \item $x\le 6$.
+        \item $x\ne 1$.
+        \item $x\ne 2$.
+        \item $x\ne 3$.
+        \item $x\ne 4$.
+        \item $x\ne 5$.
+        \item $x\ne 6$.
+\end{enumerate}
+
+\bigskip
+
+{\bf 2}. Consider the domain of interpretation $D$ is the set of natural numbers $\{0, 1, 2, \dots\}$ and consider 2 predicates $S(x,y,z)$ and $P(x,y,z)$ on $D$ such that $S(x,y,z) = True$ iff $x+y = z$, and $P(x,y,z) = True$ iff $x*y = z$.  
+
+Write down a formula $F(x,y)$ of free variables$x$ and $y$ such that $F$ true iff :
+\begin{enumerate}
+\item $x=y$.
+\item $x\le{y}$.
+\item $x<y$.
+\item $x$ divides $y$.
+\item $x>y$.
+\item $x\ge{y}$.
+\item $x$ is a multiple of  $y$.
+\item $x$ and $y$ has a common divider $3$.
+\end{enumerate}
+
+\bigskip
+
+{\bf 3}.  Consider the domain of interpretation $D$ is the set of natural numbers $\{0, 1, 2, \dots\}$ and consider 2 predicates $S(x,y,z)$ and $P(x,y,z)$ on $D$ such that $S(x,y,z) = True$ iff $x+y = z$, and $P(x,y,z) = True$ iff $x*y = z$.  
+
+Write down a statement $F$ such that $F$ is true iff :
+\begin{enumerate}
+\item $x+y = y +x$.
+\item $(x+y)+z = x+(y+z)$.
+\item $x*y = y *x$.
+\item $(x*y)*z = x*(y*z)$.
+\item $x+1 = y +1$.
+\item $x+1 = y +2$.
+\item $x+1 = y +3$.
+\item $x+1 = y +4$.
+\item $x+1 = y +5$.
+\end{enumerate}
+Are these statements true?
+
+\bigskip
+
+{\bf 4}. Build Herbrand's univers, Herbrand's base and 3 Herbrand's interpretations for the signature:
+\begin{enumerate}
+\item \{P(x,y), Q(x), a, b\}, \{P(x,y,z), Q, f(x)\}
+\item \{R(x), S(x,y,z), a, c\}, \{P(x,y), Q(x), g(x)\}
+\item \{P, Q, R, f(x), a, b\}, \{P(x, g(x,y)\}
+\end{enumerate}
+
+
+\bigskip
+
+{\bf 5}. Write down a program which will generate Herbrand's universe, base and 3 interpretations. If the Universe is infinite generate 10 elements of the universe and 10 elements of the base.  
+
+
+\end{document}
