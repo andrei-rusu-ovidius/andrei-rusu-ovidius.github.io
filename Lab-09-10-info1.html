@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Lab 09-10 : Semantica fomulelor in calculul predicatelor</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Lab 09-10 : Semantica fomulelor in calculul predicatelor</h1>
+</header>
+<p>Lucrarea de laborator nr. 09-10: Semantica formulelor ı̂ calculul predicatelor.</p>
+<p><span><strong>Obiective</strong></span>: Studentul va obtine deprinderea sa opereze cu iner</p>
+<p>Fiecare rezolvă câte un subiect din fiecare problemă conform următoarei reguli: Fie numărul de ordine al studentului este Nst, numărul de subiecte din problema <span class="math inline">\(i\)</span> este Nri, atunci studentul rezolvă subiectul cu numărul: [Nst/Nri]+1, unde [k/p] reprezintă restul de la ı̂mparţirea lui k cu p, ı̂mparţirea se consideră in numere intregi, adica, fie Nst=54, Nri=23, atunci [Nst/Nri]+1=8+1=9.</p>
+<p><span><strong>1</strong></span>. Considerăm că domeniul de interpretare <span class="math inline">\(D\)</span> este mulţimea numerelor naturale, şi avem definite două predicate pe <span class="math inline">\(D\)</span> astfel: <span class="math inline">\(S(x,y,z)=True\)</span> iff <span class="math inline">\(x+y=z\)</span>, şi <span class="math inline">\(P(x,y,z)=True\)</span> iff <span class="math inline">\(x\cdot{y}=z\)</span>. Deci avem o interpretare <span class="math inline">\(\mathfrak{M}=(D;S,P)\)</span>. Scrieţi o formulă de o varibilă liberă <span class="math inline">\(x\)</span> care să fie adevărată dacă şi numai dacă:</p>
+<ol>
+<li><p><span class="math inline">\(x=0\)</span>.</p></li>
+<li><p><span class="math inline">\(x=1\)</span>.</p></li>
+<li><p><span class="math inline">\(x=2\)</span>.</p></li>
+<li><p><span class="math inline">\(x=3\)</span>.</p></li>
+<li><p><span class="math inline">\(x=4\)</span>.</p></li>
+<li><p><span class="math inline">\(x=5\)</span>.</p></li>
+<li><p><span class="math inline">\(x=6\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> este par.</p></li>
+<li><p><span class="math inline">\(x\)</span> este impar.</p></li>
+<li><p><span class="math inline">\(x\)</span> este prim.</p></li>
+<li><p><span class="math inline">\(x\)</span> este divizibil cu <span class="math inline">\(3\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> este divizibil cu <span class="math inline">\(4\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> este divizibil cu <span class="math inline">\(5\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> este divizibil cu <span class="math inline">\(6\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge 1\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge 2\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge 3\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge 4\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge 5\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge 6\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le 1\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le 2\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le 3\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le 4\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le 5\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le 6\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ne 1\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ne 2\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ne 3\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ne 4\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ne 5\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ne 6\)</span>.</p></li>
+</ol>
+<p><span><strong>2</strong></span>. Considerăm că domeniul de interpretare <span class="math inline">\(D\)</span> este mulţimea numerelor naturale, şi avem definite două predicate pe <span class="math inline">\(D\)</span> astfel: <span class="math inline">\(S(x,y,z)=True\)</span> iff <span class="math inline">\(x+y=z\)</span>, şi <span class="math inline">\(P(x,y,z)=True\)</span> iff <span class="math inline">\(x\cdot{y}=z\)</span>. Deci avem o interpretare <span class="math inline">\(\mathfrak{M}=(D;S,P)\)</span>. Scrieţi o formulă de 2 varibile libere <span class="math inline">\(x, y\)</span> care să fie adevărată dacă şi numai dacă:</p>
+<ol>
+<li><p><span class="math inline">\(x=y\)</span>.</p></li>
+<li><p><span class="math inline">\(x\le{y}\)</span>.</p></li>
+<li><p><span class="math inline">\(x&lt;y\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> divide pe <span class="math inline">\(y\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> şi <span class="math inline">\(y\)</span> sunt reciproc prime.</p></li>
+<li><p><span class="math inline">\(x&gt;y\)</span>.</p></li>
+<li><p><span class="math inline">\(x\ge{y}\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> este multiplul lui <span class="math inline">\(y\)</span>.</p></li>
+<li><p><span class="math inline">\(x\)</span> şi <span class="math inline">\(y\)</span> au cel mult un divizor comun.</p></li>
+</ol>
+<p><span><strong>3</strong></span>. Considerăm că domeniul de interpretare <span class="math inline">\(D\)</span> este mulţimea numerelor naturale, şi avem definite două predicate pe <span class="math inline">\(D\)</span> astfel: <span class="math inline">\(S(x,y,z)=True\)</span> iff <span class="math inline">\(x+y=z\)</span>, şi <span class="math inline">\(P(x,y,z)=True\)</span> iff <span class="math inline">\(x\cdot{y}=z\)</span>. Deci avem o interpretare <span class="math inline">\(\mathfrak{M}=(D;S,P)\)</span>. Scrieţi o afirmaţie care să exprime faptul că:</p>
+<ol>
+<li><p>adunarea este comutativă.</p></li>
+<li><p>adunarea este asociativă.</p></li>
+<li><p>ı̂nmulţirea este comutativă.</p></li>
+<li><p>ı̂nmulţirea este asociativă.</p></li>
+<li><p>ı̂nmulţirea este distributivă ı̂n raport cu adunarea.</p></li>
+<li><p>adunarea este distributivă ı̂n raport cu ı̂nmulţirea.</p></li>
+<li><p>mulţimea numerelor prime este infinită.</p></li>
+<li><p>orice număr poate fi reprezentat ca sumă a două patrate.</p></li>
+</ol>
+<p>Sunt oare adevărate aceste afrimaţii?</p>
+<p><span><strong>4</strong></span>. Construiţi/descrieţi universul Herbrand, baza Herbrand şi 3 interpretări Herbrand pentru următoarele alfabete:</p>
+<ol>
+<li><p>{P(x,y), Q(x), a, b}, {P(x,y,z), Q, f(x)}</p></li>
+<li><p>{R(x), S(x,y,z), a, c}, {P(x,y), Q(x), g(x)}</p></li>
+<li><p>{P, Q, R, f(x), a, b}, {P(x, g(x,y)}</p></li>
+</ol>
+<p>Daţi exemple de elemente ce aparţin şi ce nu aparţin universului, bazei şi interpretăii Herbrand respective.</p>
+<p><span><strong>5</strong></span>. Scrieţi un program care să genereze universul şi baza Herbrand (daca̧ sunt finite) din problema 4, sau să prezinte 20 de elemente din fiecare cu menţiunea că mulţimea respectivă este infinită.</p>
+</body>
+</html>

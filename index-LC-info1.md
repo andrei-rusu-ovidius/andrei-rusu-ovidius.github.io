@@ -59,7 +59,7 @@
 * [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
 * [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 
 * [Lab 07-08](./LC-info1-lab-07-08.html): Semantica formulelor în calculul predicatelor.
-* [Lab 09-10](): Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.
+* [Lab 09-10](./Lab-09-10-info1.html): Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.
 * [Lab 11-12](): Semantica formulelor în calculul cu predicate, 2
 * [Lab 13-14](): Elemente de programare declarativă. 
 

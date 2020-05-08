@@ -1,0 +1,99 @@
+\documentclass{article}
+\usepackage{amssymb,amsfonts}
+\title{Lab 09-10 : Semantica fomulelor in calculul predicatelor}
+\begin{document}
+\begin{center}
+Lucrarea de laborator nr. 09-10: Semantica formulelor \^{\i} calculul predicatelor. 
+\end{center}
+
+{\bf Obiective}: Studentul va obtine deprinderea sa opereze cu iner
+
+Fiecare rezolv\u{a} c\^{a}te un subiect din fiecare problem\u{a} conform urm\u{a}toarei reguli: Fie num\u{a}rul de ordine al studentului este Nst, num\u{a}rul de subiecte din problema $i$ este Nri, atunci studentul rezolv\u{a} subiectul cu num\u{a}rul: [Nst/Nri]+1, unde [k/p] reprezint\u{a} restul de la \^{\i}mpar\c{t}irea lui k cu p, \^{\i}mpar\c{t}irea se consider\u{a} in numere intregi, adica, fie Nst=54, Nri=23, atunci [Nst/Nri]+1=8+1=9.  
+
+\bigskip
+
+{\bf 1}. Consider\u{a}m c\u{a} domeniul de interpretare $D$ este mul\c{t}imea numerelor naturale, \c{s}i avem definite dou\u{a} predicate pe $D$ astfel: 
+$S(x,y,z)=True$ iff $x+y=z$, \c{s}i $P(x,y,z)=True$ iff $x\cdot{y}=z$. Deci avem o interpretare $\mathfrak{M}=(D;S,P)$. Scrie\c{t}i o formul\u{a} de o varibil\u{a} liber\u{a} $x$ care s\u{a} fie adev\u{a}rat\u{a} dac\u{a} \c{s}i numai dac\u{a}:
+\begin{enumerate}
+	\item $x=0$.
+	\item $x=1$.
+	\item $x=2$.
+	\item $x=3$.
+	\item $x=4$.
+	\item $x=5$.
+	\item $x=6$.
+	\item $x$ este par.
+	\item $x$ este impar.
+	\item $x$ este prim.
+	\item $x$ este divizibil cu $3$.
+	\item $x$ este divizibil cu $4$.
+        \item $x$ este divizibil cu $5$.
+        \item $x$ este divizibil cu $6$.
+        \item $x\ge 1$.
+        \item $x\ge 2$.
+        \item $x\ge 3$.
+        \item $x\ge 4$.
+        \item $x\ge 5$.
+        \item $x\ge 6$.
+        \item $x\le 1$.
+        \item $x\le 2$.
+        \item $x\le 3$.
+        \item $x\le 4$.
+        \item $x\le 5$.
+        \item $x\le 6$.
+        \item $x\ne 1$.
+        \item $x\ne 2$.
+        \item $x\ne 3$.
+        \item $x\ne 4$.
+        \item $x\ne 5$.
+        \item $x\ne 6$.
+\end{enumerate}
+
+\bigskip
+
+{\bf 2}. Consider\u{a}m c\u{a} domeniul de interpretare $D$ este mul\c{t}imea numerelor naturale, \c{s}i avem definite dou\u{a} predicate pe $D$ astfel: 
+$S(x,y,z)=True$ iff $x+y=z$, \c{s}i $P(x,y,z)=True$ iff $x\cdot{y}=z$. Deci avem o interpretare $\mathfrak{M}=(D;S,P)$. Scrie\c{t}i o formul\u{a} de 2 varibile libere $x, y$ care s\u{a} fie adev\u{a}rat\u{a} dac\u{a} \c{s}i numai dac\u{a}:
+\begin{enumerate}
+\item $x=y$.
+\item $x\le{y}$.
+\item $x<y$.
+\item $x$ divide pe $y$.
+\item $x$ \c{s}i $y$ sunt reciproc prime.
+\item $x>y$.
+\item $x\ge{y}$.
+\item $x$ este multiplul lui $y$.
+\item $x$ \c{s}i $y$ au cel mult un divizor comun.
+\end{enumerate}
+
+\bigskip
+
+{\bf 3}. Consider\u{a}m c\u{a} domeniul de interpretare $D$ este mul\c{t}imea numerelor naturale, \c{s}i avem definite dou\u{a} predicate pe $D$ astfel: 
+$S(x,y,z)=True$ iff $x+y=z$, \c{s}i $P(x,y,z)=True$ iff $x\cdot{y}=z$. Deci avem o interpretare $\mathfrak{M}=(D;S,P)$. Scrie\c{t}i o afirma\c{t}ie care s\u{a} exprime faptul c\u{a}:
+\begin{enumerate}
+\item adunarea este comutativ\u{a}.
+\item adunarea este asociativ\u{a}.
+\item \^{\i}nmul\c{t}irea este comutativ\u{a}.
+\item \^{\i}nmul\c{t}irea este asociativ\u{a}.
+\item \^{\i}nmul\c{t}irea este distributiv\u{a} \^{\i}n raport cu adunarea.
+\item adunarea este distributiv\u{a} \^{\i}n raport cu \^{\i}nmul\c{t}irea.
+\item mul\c{t}imea numerelor prime este infinit\u{a}.
+\item orice num\u{a}r poate fi reprezentat ca sum\u{a} a dou\u{a} patrate.
+\end{enumerate}
+Sunt oare adev\u{a}rate aceste afrima\c{t}ii?
+
+\bigskip
+
+{\bf 4}. Construi\c{t}i/descrie\c{t}i universul Herbrand, baza Herbrand \c{s}i 3 interpret\u{a}ri Herbrand pentru urm\u{a}toarele alfabete:
+\begin{enumerate}
+\item \{P(x,y), Q(x), a, b\}, \{P(x,y,z), Q, f(x)\}
+\item \{R(x), S(x,y,z), a, c\}, \{P(x,y), Q(x), g(x)\}
+\item \{P, Q, R, f(x), a, b\}, \{P(x, g(x,y)\}
+\end{enumerate}
+Da\c{t}i exemple de elemente ce apar\c{t}in \c{s}i ce nu apar\c{t}in universului, bazei \c{s}i interpret\u{a}ii Herbrand respective. 
+
+\bigskip
+
+{\bf 5}. Scrie\c{t}i un program care s\u{a} genereze universul \c{s}i baza Herbrand (dac\c{a} sunt finite) din problema 4, sau s\u{a} prezinte 20 de elemente din fiecare cu men\c{t}iunea c\u{a} mul\c{t}imea respectiv\u{a} este infinit\u{a}. 
+
+
+\end{document}
