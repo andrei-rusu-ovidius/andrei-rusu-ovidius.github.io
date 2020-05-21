@@ -64,10 +64,24 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * [Lab 11-12](./LC-cs1-lab-11-12.html): Semantics of formulas in predicate calculus, 2
 * Lab 13-14: Declarative programming elements.
 
+#### Încărcați lucrările pentru fiecare laborator la adresele indicate mai jos. 
+
+- Lab 01-02: http://s.go.ro/2vwvt9ia
+- Lab 03-04: http://s.go.ro/n35na6wm
+- Lab 05-06: http://s.go.ro/edh8l751
+- Lab 07-08: http://s.go.ro/r3op3h8r
+- Lab 09-10: http://s.go.ro/rbjbe5fg
+- Lab 11-12: http://s.go.ro/dtvu54l9
+
+Numele fisierului trebuie să fie după formatul: 
+**Lab 1-2, Rusu Andrei, andrei.rusu.teach@gmail.com.zip**
+
+Parolele pentru încărcarea fișierelor sunt pe canalul de Discord. 
+
 ### WARNING: The colloquium will take place on:
 
 * ** Friday, May 29, 2020, 10.00, room AB **, (spec: Informatica, year 1, series 1), https://meetingsemea5.webex.com/meet/andrei.rusu
-* ** Thuthday, May 21 or 28, 2019, 8.00, room S1 **, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
+* ** Thuthday, May 28, 2019, 8.00, room S1 **, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
 
 ### Bibliographical sources:
 
