@@ -62,7 +62,7 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * [Lab 07-08](./LC-cs1-lab-07-08.html): Semantics of formulas in predicate calculus
 * [Lab 09-10](./LC-cs1-lab-09-10.html): The Herbrand Universe. Herbrand base. Herbrand's interpretation. 
 * [Lab 11-12](./LC-cs1-lab-11-12.html): Semantics of formulas in predicate calculus, 2
-* Lab 13-14: Declarative programming elements.
+* [Lab 13-14](./index-LC-cs1.html): Declarative programming elements.
 
 #### Încărcați lucrările pentru fiecare laborator la adresele indicate mai jos. 
 
