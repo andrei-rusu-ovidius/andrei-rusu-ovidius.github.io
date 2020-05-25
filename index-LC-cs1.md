@@ -66,6 +66,8 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 #### Încărcați lucrările pentru fiecare laborator la adresele indicate mai jos. 
 
+[Lucrări încărcate](https://drive.google.com/open?id=18tu8nixipjUqjjqVyb4s1a4e3-evHnwx): la 24 mai 2020
+
 - Lab 01-02: http://s.go.ro/2vwvt9ia
 - Lab 03-04: http://s.go.ro/n35na6wm
 - Lab 05-06: http://s.go.ro/edh8l751
