@@ -63,6 +63,8 @@
 * [Lab 11-12](./LC-info1-lab-11-12.html): Semantica formulelor în calculul cu predicate, 2
 * [Lab 13-14](): Totalizarea rezultatelor. 
 
+[Următoarele lucrări au fost încărcate pe storage](https://drive.google.com/open?id=1l4VpmNSfyg5L9H-B4maUMHMBdbsQOfFH) (am specificat în Discord unde trebuie încărcat) 
+
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
 * **Vineri, 22 sau 29 mai 2020, ora 10.00, sala AB1**, (spec: Informatica, anul 1, seria 1),
