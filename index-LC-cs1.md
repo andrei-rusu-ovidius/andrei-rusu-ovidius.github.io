@@ -53,6 +53,7 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * Course 03: Normal forms. Minimization of normal forms. 
 * Course 04: Axiomatization of classical logic. Sequences of deduction. Theorems. 
 * [Course 05](https://yadi.sk/d/P-Ov2qcVqT6oiQ): Sintactic methods for proving theorems in the classical logic of propositions. 
+* Other corces are online on Discord platform. 
 
 ### Laboratory work:
 
@@ -64,9 +65,9 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * [Lab 11-12](./LC-cs1-lab-11-12.html): Semantics of formulas in predicate calculus, 2
 * [Lab 13-14](./index-LC-cs1.html): Declarative programming elements.
 
-#### Încărcați lucrările pentru fiecare laborator la adresele indicate mai jos. 
+#### Upload every laboratory work on the server according to the links. 
 
-[Lucrări încărcate](https://drive.google.com/open?id=18tu8nixipjUqjjqVyb4s1a4e3-evHnwx): la 24 mai 2020
+[Uploaded laboratory works](https://drive.google.com/open?id=18tu8nixipjUqjjqVyb4s1a4e3-evHnwx): la 24 mai 2020
 
 - Lab 01-02: http://s.go.ro/2vwvt9ia
 - Lab 03-04: http://s.go.ro/n35na6wm
@@ -75,15 +76,17 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 - Lab 09-10: http://s.go.ro/rbjbe5fg
 - Lab 11-12: http://s.go.ro/dtvu54l9
 
-Numele fisierului trebuie să fie după formatul: 
+The name of the file must follow the format: 
 **Lab 1-2, Rusu Andrei, andrei.rusu.teach@gmail.com.zip**
 
-Parolele pentru încărcarea fișierelor sunt pe canalul de Discord. 
+Passwords for uploading files are on the Discord channel. 
 
 ### WARNING: The colloquium will take place on:
 
 * ** Friday, May 29, 2020, 10.00, room AB **, (spec: Informatica, year 1, series 1), https://meetingsemea5.webex.com/meet/andrei.rusu
-* ** Thuthday, May 28, 2019, 8.00, room S1 **, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
+* ** Thuthday, May 28, 2020, 8.00, room S1 **, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
+
+[Exam tasks](./) :)
 
 ### Bibliographical sources:
 
