@@ -31,6 +31,10 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 
 ### Semestrul 2 de primăvară, 2019-2020
 
+## __RESTANȚELE ONLINE la adresa: [https://meetingsemea5.webex.com/meet/andrei.rusu](https://meetingsemea5.webex.com/meet/andrei.rusu)__
+
+###[]()
+
 - [**Formular**](https://forms.gle/Nt1rhPyi72ns9GJK8) pentru contactele studenților.
 - **Consultații**: Joi, 12-14, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
 
