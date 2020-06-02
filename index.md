@@ -90,6 +90,10 @@ Email-uri trimiteti pe adresele:
   - cs 1, Mathematical and computational logic
 * <span style="color:blue">Urmează să apară cursurile la</span>:
 
+## __RESTANȚELE ONLINE la adresa: [https://meetingsemea5.webex.com/meet/andrei.rusu](https://meetingsemea5.webex.com/meet/andrei.rusu)__
+
+###[]()
+
 #### Facultatea de matematică și informatică
 
 - [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1)
