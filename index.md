@@ -10,6 +10,10 @@
 
 ## 2019-2020
 
+### Practica (Informatica, anul 2, grupa 2)
+
+Informații despre practică le găsiți [aici](./index-practica-info2-gr2-2020.html). 
+
 ### Protecția muncii în cadrul orelor la clasă
 
 În cadrul orelor la clasă (Curs / Seminar / Laborator / Practică) trebuie urmate regulile de conduită specificate în documentele ce urmează:
