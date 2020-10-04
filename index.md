@@ -38,7 +38,47 @@ Tot aici vor apare și informații pentru studenții înscriși la mine pentru l
 Email-uri trimiteti pe adresele: <br />
 ![](andrei-email.png =250x)
 
-Online mă găsiți pe platforma Discord: 
+### <span style="color:green">**Link-uri către platformele online**</span>
+- Inteligența artificială - 
+[Teams](https://teams.microsoft.com/l/channel/19%3a0fb7d12721b64c41aaab556000366f6d%40thread.tacv2/31-Inteligenta%2520artificiala?groupId=aeb114c4-eeaa-4d7a-94f0-4df41aa5925d&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a) - 
+[Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
+[Discord](https://discord.gg/zF8CX38) - 
+[Moodle](https://moodle.univ-ovidius.ro/course/view.php?id=1430
+) - 
+Spec.: **Matematică-Informatică, anul 1**, FMI
+- Inteligență artificială aplicată - 
+[Teams](https://teams.microsoft.com/l/channel/19%3a52de4382314047d79c1229d6a83de22a%40thread.tacv2/11-Inteligenta%2520artificial%25C4%2583%2520aplicat%25C4%2583?groupId=4136eafc-9193-49f1-a6cd-47d6c30f86c3&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a
+) - 
+[Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
+[Discord](https://discord.gg/7vrduBv
+) - 
+[Moodle](https://moodle.univ-ovidius.ro/course/view.php?id=1425
+) - 
+Spec.:**Medii virtuale multi-modale și distribuite (MVMOD), anul 1**, FMI
+- Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică - 
+[Teams](https://bit.ly/3i38KRX
+) - 
+[Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
+[Discord](https://discord.gg/wdDBjJR
+) - 
+[Moodle]() - 
+Spec.: **Asistență amangerială și administrativă (AMA), anul 1**, FDSA
+- Componente, concepte și tehnologii de rețele de calculatoare - 
+[Teams](https://teams.microsoft.com/l/channel/19%3a20adfdc70ccf4603ae73ad448e950246%40thread.tacv2/1-M4-Componente%2520Concepte%2520si%2520Tehnologii%2520de%2520Retele?groupId=cfc3f50c-e177-4c45-ad62-58d44ab617c5&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a
+) - 
+[Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
+[Discord](https://discord.gg/kwXtNx
+) - 
+[Moodle]() - 
+Spec.: **Administrator rețele de comunicații (ARLC), anul 1**, Colegiul UOC
+- Consultații - 
+[Teams](https://teams.microsoft.com/l/channel/19%3ab79d7ad58eb745f7b4b114227d8c302f%40thread.tacv2/Consultatii?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a
+) - 
+[Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
+[Discord](https://discord.gg/H2STEkj
+) - 
+[Moodle]() - 
+Luni, 8-10 (Să ma anunțați în prealabil despre intenție)
 
 #### <span style="color:red">Facultatea de matematică și informatică</span>
 
