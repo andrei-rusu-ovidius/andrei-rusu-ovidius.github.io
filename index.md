@@ -50,7 +50,7 @@ Spec.: **Matematică-Informatică, anul 1**, FMI
 [Teams](https://teams.microsoft.com/l/channel/19%3a52de4382314047d79c1229d6a83de22a%40thread.tacv2/11-Inteligenta%2520artificial%25C4%2583%2520aplicat%25C4%2583?groupId=4136eafc-9193-49f1-a6cd-47d6c30f86c3&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a
 ) - 
 [Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
-[Discord](https://discord.gg/7vrduBv
+[Discord](https://discord.gg/jwzvme
 ) - 
 [Moodle](https://moodle.univ-ovidius.ro/course/view.php?id=1425
 ) - 
