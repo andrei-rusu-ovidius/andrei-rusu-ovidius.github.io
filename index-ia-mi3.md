@@ -14,8 +14,14 @@ Familiarizarea studenților cu obiectul de studiu al inteligenței artificiale, 
 
 ### Cerințe pentru admiterea la colocviu (examen):
 
-1. Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen (cel puțin 1 lucrare trebuie să fie predată și susținută).
-2. Efectuarea unui proiect de laborator din [lista de proiecte](https://yadi.sk/d/Aa19vI4JkGDc7) (sau orice alt proiect agreat), predarea și susținerea lui în termen.
+1. Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen. 
+<!--(cel puțin 1 lucrare trebuie să fie predată și susținută).-->
+2. Efectuarea unui proiect de laborator din 
+o listă de proiecte (care urmează să apară în curând).
+<!--
+[lista de proiecte](https://yadi.sk/d/Aa19vI4JkGDc7) 
+-->
+(sau orice alt proiect agreat), predarea și susținerea lui în termen.
 3. Prezența la colocviu (examen) în ziua și la ora programată.
 
 ### Calculul  notei finale se face conform algoritmului:
@@ -39,6 +45,7 @@ Familiarizarea studenților cu obiectul de studiu al inteligenței artificiale, 
 
 * [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)
 * [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+<!--
 * [Cursul 03](https://yadi.sk/d/lG82A8qw32ZAu3)
 * [Cursul 04](https://yadi.sk/d/T06E4p2v32ZB2M)
 * [Cursul 05](https://yadi.sk/d/C4qmMCi232ZB96)
@@ -48,19 +55,21 @@ Familiarizarea studenților cu obiectul de studiu al inteligenței artificiale, 
 * [Cursul 10](https://yadi.sk/d/1k5g7FBG32ZBjN)
 * [Cursul 11-12](https://yadi.sk/d/1k5g7FBG32ZBjN)
 * [Cursul 13-14](https://yadi.sk/d/RhxOf2UB32ZBxt)
+-->
 
 Suplimentar: 
-
+<!--
 - [Bayesian reasoning](https://yadi.sk/i/NHI0XMXuSRCucg).
 - [Fuzzy reasoning](https://yadi.sk/i/_lWFsYHzZFu0XA)
 - [Pearl's Scheme for Evidential Reasoning](https://yadi.sk/i/kIAVjkoKnp32lw)
-
+-->
 
 
 #### Lucrările de laborator:
 
 * **GIT** totul ce ține versionarea softului / documentației
 * [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-1-2-git-latex.htm)
+<!--
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
 * [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
 * [Lab 04-05](https://yadi.sk/d/V0Gl1fC5l_Glmw)
@@ -69,12 +78,12 @@ Suplimentar:
   - Exemple de rețele neuronale simple
     - [Recunoasterea cifrei 5](https://yadi.sk/i/AIOO56hndBiXJA)
     - [Determinarea ecuatiei de regresie](https://yadi.sk/i/Yv82bkCJG5PlTA)
-
+-->
 
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **30 ianuarie, 2020, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
+* **?? ianuarie/februarie, 2021, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
 
 ### Surse bibliografice:
 
@@ -94,6 +103,6 @@ Polirom, 2004, 288 p.
 
 ---
 
-(c) Andrei Rusu, 2004-2019
+(c) Andrei Rusu, 2004-2020
 
 
