@@ -67,8 +67,8 @@ Suplimentar:
 
 #### Lucrările de laborator:
 
-* Lab 01-02: Versionarea proiectelor (**git**), **Anaconda**, **IDE** pt Java (**Eclipse**, **NetBeans**, **IntelliJ**) 
-[pdf](https://yadi.sk/d/80cYqQn01BzIKA), [html](Lab-01-02-ia-mi3.html)
+* **GIT** totul ce ține versionarea softului / documentației
+* [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-1-2-git-latex.htm)
 <!--
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
 * [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
