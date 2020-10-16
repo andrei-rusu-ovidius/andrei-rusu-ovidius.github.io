@@ -24,7 +24,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 ***
 
 - [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
-- [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici?
+- [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici? 
 
 <!-- 
 * [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici?

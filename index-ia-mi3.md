@@ -45,8 +45,8 @@ o listă de proiecte (care urmează să apară în curând).
 
 * [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)
 * [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
-<!--
 * [Cursul 03](https://yadi.sk/d/lG82A8qw32ZAu3)
+<!--
 * [Cursul 04](https://yadi.sk/d/T06E4p2v32ZB2M)
 * [Cursul 05](https://yadi.sk/d/C4qmMCi232ZB96)
 * [Cursul 06-07](https://yadi.sk/d/4AM-rnFf32ZBQM)
@@ -68,9 +68,9 @@ Suplimentar:
 #### Lucrările de laborator:
 
 * **GIT** totul ce ține versionarea softului / documentației
-* [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-1-2-git-latex.htm)
-<!--
+* [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
+<!--
 * [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
 * [Lab 04-05](https://yadi.sk/d/V0Gl1fC5l_Glmw)
 * [Lab 05-06](https://yadi.sk/d/fzBOsDQXhF6jEg)
