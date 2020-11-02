@@ -26,8 +26,11 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 - [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
 - [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici? 
 - [Cursul 5-6](https://yadi.sk/d/ce5mhHO8zVY8s): Cum functioneaza algoritmii genetici?
+- [Cursul 7-8-9](https://yadi.sk/d/fy2DLu3VzVYNu): Metode euristice pentru rezolvarea problemelor de transport.
 
 <!-- 
+* [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
+* [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici? 
 * [Cursul 5-6](https://yadi.sk/d/ce5mhHO8zVY8s): Cum functioneaza algoritmii genetici?
 * [Cursul 7-8](https://yadi.sk/d/fy2DLu3VzVYNu): Metode euristice pentru rezolvarea problemelor de transport.
 * [Cursul 9-10](https://yadi.sk/d/0b1Xq0jkzVYaV): Cum putem aborda problemele de optimizare cu restrictii arbitrare?
@@ -40,7 +43,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 * [Lab. 01-02](https://yadi.sk/d/1dERVMo1wrZ8q): Configurarea spatiului de lucru cu agentii Jade. Configurarea [JADE+Eclipse](https://yadi.sk/i/AUrB5ZnAZXDxRg) si asta [Instalare Maven si configurarea cu Eclipse + un proiect](https://yadi.sk/i/Phkmo1bVfndK-Q)
 * [Lab. 02-03](https://yadi.sk/d/h0BbH-wJuT6q8A): Exemple simple de agenti
 * [Lab. 03-04](https://yadi.sk/d/Pdqvcg-LzVedX): Cum putem automatiza lucrul cu agentii din linia de comanda?
-* [Lab. 05-06](https://yadi.sk/d/WjAQHX-CzVfDm): Comportamentele + comunicarea agentilor.
+* [Lab. 05-06-07-08](https://yadi.sk/d/WjAQHX-CzVfDm): Comportamentele + comunicarea agentilor.
 <!--
 * [Lab. 01-02](https://yadi.sk/d/1dERVMo1wrZ8q): Configurarea spatiului de lucru cu agentii Jade. Configurarea [JADE+Eclipse](https://yadi.sk/i/AUrB5ZnAZXDxRg) si asta [Instalare Maven si configurarea cu Eclipse + un proiect](https://yadi.sk/i/Phkmo1bVfndK-Q)
 * [Lab. 02-03](https://yadi.sk/d/h0BbH-wJuT6q8A): Exemple simple de agenti
