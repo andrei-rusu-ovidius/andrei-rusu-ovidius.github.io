@@ -2,7 +2,7 @@
 
 ### **Disciplina**: Inteligență artificială
 
-### **Specializarea**: Matematică-Informatică, anul 3
+### **Specializarea**: Matematică-Informatică, anul 3 (a^2+b^2=c^2)
 
 #### Prof.: lect. dr. Andrei RUSU
 
@@ -47,6 +47,7 @@ o listă de proiecte (care urmează să apară în curând).
 * [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * [Cursul 03](https://yadi.sk/d/lG82A8qw32ZAu3)
 * [Cursul 04](https://yadi.sk/d/T06E4p2v32ZB2M)
+* [Cursul 05](https://yadi.sk/d/C4qmMCi232ZB96)
 <!--
 * [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)
 * [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
@@ -75,6 +76,7 @@ Suplimentar:
 * [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
 * [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
+* [Lab 04-05](https://yadi.sk/d/V0Gl1fC5l_Glmw)
 <!--
 * **GIT** totul ce ține versionarea softului / documentației
 * [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
