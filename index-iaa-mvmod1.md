@@ -27,6 +27,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 - [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici? 
 - [Cursul 5-6](https://yadi.sk/d/ce5mhHO8zVY8s): Cum functioneaza algoritmii genetici?
 - [Cursul 7-8-9](https://yadi.sk/d/fy2DLu3VzVYNu): Metode euristice pentru rezolvarea problemelor de transport.
+- [Cursul 9-10](https://yadi.sk/d/0b1Xq0jkzVYaV): Cum putem aborda problemele de optimizare cu restrictii arbitrare? 
 
 <!-- 
 * [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
