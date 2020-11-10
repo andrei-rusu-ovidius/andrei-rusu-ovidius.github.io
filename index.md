@@ -59,7 +59,7 @@ Spec.:**Medii virtuale multi-modale și distribuite (MVMOD), anul 1**, FMI
 [Teams](https://bit.ly/3i38KRX
 ) - 
 [Webex](https://meetingsemea5.webex.com/meet/andrei.rusu) - 
-[Discord](https://discord.gg/wdDBjJR
+[Discord](https://discord.gg/V7NkjPTDV3
 ) - 
 [Moodle]() - 
 Spec.: **Asistență amangerială și administrativă (AMA), anul 1**, FDSA
