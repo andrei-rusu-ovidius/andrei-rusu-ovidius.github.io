@@ -19,7 +19,12 @@
 
 ### Teme de licență / master / grad 1
 
-**<span style="color:red;" >Pentru comunicare mai rapidă și poate mai comodă</span>** cu cei cărora le sunt îndrumător la lucrare de licență/master sau doresc să le fiu îndrumător va rog să folosiți și acest grup de pe [**WhatsApp**](https://chat.whatsapp.com/LE2osoVwhku0kolaWaPIiE). 
+**<span style="color:red;" >Pentru comunicare mai rapidă și poate mai comodă</span>** cu cei cărora le sunt îndrumător la lucrare de licență/master sau doresc să le fiu îndrumător va rog să folosiți și acest grup de pe:
+
+- [**WhatsApp**](https://chat.whatsapp.com/LE2osoVwhku0kolaWaPIiE) - intenționez sa-l folosesc pentru anunțuri și evident comunicare în grup,  
+- [**Discord**](https://discord.gg/f2nk7XX3hb) - server pentru consultații cu un cananl dedicat pentru lucrări licență/master. 
+
+Informații curente legate de examenul de [**licență**](https://fmi.univ-ovidius.ro/academic/studii-de-licenta/licenta-documente/)/[**master**](https://fmi.univ-ovidius.ro/academic/studii-de-masterat/masterat-documente/) sunt pe site-ul facultății: https://fmi.univ-ovidius.ro/ .
 
 [**Lista temelor de 
 licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](.) <!-- Teme_lic_mas_grad.html --> - urmează să apară
