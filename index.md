@@ -19,6 +19,8 @@
 
 ### Teme de licență / master / grad 1
 
+**<span style="color:red;" >Pentru comunicare mai rapidă și poate mai comodă</span>** cu cei cărora le sunt îndrumător la lucrare de licență/master sau doresc să le fiu îndrumător va rog să folosiți și acest grup de pe [**WhatsApp**](https://chat.whatsapp.com/LE2osoVwhku0kolaWaPIiE). 
+
 [**Lista temelor de 
 licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](.) <!-- Teme_lic_mas_grad.html --> - urmează să apară
  
