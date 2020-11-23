@@ -14,7 +14,7 @@ Cursul își propune să familiarizeze studenții cu tehnicile din inteligența 
 
 ## Cerințe pentru admiterea la colocviu (examen) și modul de evaluare:
 
-Pentru admiterea la examen este necesar să fie susținut în prealabil un proiect din [**lista propusă**](https://yadi.sk/d/Zsx0mYM8zVXJf) (se poate realiza și un alt proiect agreat din timp). Examenul va consta dintr-o discuție asupra proiectului si a altor subiecte discutate în cadrul cursului si eventual a unui test-grilă cu subiecte din curs și laborator. 
+Pentru admiterea la examen este necesar să fie susținut în prealabil un proiect din [**lista propusă**](https://yadi.sk/d/sGli7FdmpBudwA) (se poate realiza și un alt proiect agreat din timp). Examenul va consta dintr-o discuție asupra proiectului si a altor subiecte discutate în cadrul cursului si eventual a unui test-grilă cu subiecte din curs și laborator. 
 
 ## Conținutul cursului
 
