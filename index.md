@@ -27,7 +27,9 @@
 Informații curente legate de examenul de [**licență**](https://fmi.univ-ovidius.ro/academic/studii-de-licenta/licenta-documente/)/[**master**](https://fmi.univ-ovidius.ro/academic/studii-de-masterat/masterat-documente/) sunt pe site-ul facultății: https://fmi.univ-ovidius.ro/ .
 
 [**Lista temelor de 
-licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](.) <!-- Teme_lic_mas_grad.html --> - urmează să apară
+licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](.) <!-- Teme_lic_mas_grad.html --> - sunt afisate pe noul site al facultății.  
+
+<span style="color:green">**Cine deja a discutat cu mine, să-mi trimită cererea semnată scanată apoi semnez și eu în pdf, și cererea finală o transmiteți prin email la secretariat: https://fmi.univ-ovidius.ro/en/secretariat/ **</span>
  
 Referitor la titlurile temelor de licență și master, dacă doriți să susțineți cu mine o altă temă - Vă rog să mă anunțați, să îmi spuneți cam la ce temă Vă gândiți, ce plan de acțiune aveți. Apoi vom vedea dacă o mai putem adăuga în lista temelor aprobate de facultate (de obicei se aprobă).
 
