@@ -35,9 +35,13 @@ Referitor la titlurile temelor de licență și master, dacă doriți să susți
 
 Tot aici vor apare și informații pentru studenții înscriși la mine pentru lucrarea de licență, disertație sau grad 1.   
 
+#### Teme de licență și master încă neluate (libere)
+[Lista](./teme-libere.html)  temelor libere.
+
+<!--
 #### Studenți înscriși și teme rezervate (formal încă libere)
 
-[Lista temelor luate / rezervate](.) - urmează să fie precizată
+[Lista temelor luate / rezervate](.) - urmează să fie precizată -->
 <!-- Teme_luate_rezervate.html -->
 
 ### Semestrul 1 de toamnă, 2020-2021
