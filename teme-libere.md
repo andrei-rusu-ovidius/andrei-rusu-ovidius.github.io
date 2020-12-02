@@ -11,5 +11,5 @@
 6. (M) Tehnici inteligente utilizate în gestiunea admiterii la facultate.
 7. (M) Agenți software inteligenți pentru asistență la rezolvarea problemelor de transport.
 8. (M) Aplicație web inteligentă pentru gestiunea orarului.
-
-
+9. (L) Aplicașie MEAN pentru gestiunea studenților la examenul de licență.
+10. (L) Chatbot pentru programare la medic.
