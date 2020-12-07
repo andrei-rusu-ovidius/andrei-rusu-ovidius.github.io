@@ -22,10 +22,10 @@ Lect. dr. Andrei Rusu
 
 ### Lista temelor pentru referate
 
-- [Lista temelor pentru referate](.) - urmează să apară 
-<!-- /Lista_temelor.html -->
-- Alocarea temelor către studenți - urmează să apară
-<!-- - [Alocarea temelor către studenți](ama1_teme.html).  (./ap1_teme.html).-->
+- [Lista temelor pentru referate](./Lista-teme-ama1-2020.htm) -  
+
+<!-- /Lista_temelor.html 
+- Alocarea temelor către studenți - urmează să apară - [Alocarea temelor către studenți](ama1_teme.html).  (./ap1_teme.html).-->
 
 
 ### Data examenului: 
