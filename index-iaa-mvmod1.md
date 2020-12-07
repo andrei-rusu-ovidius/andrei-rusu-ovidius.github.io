@@ -16,6 +16,8 @@ Cursul își propune să familiarizeze studenții cu tehnicile din inteligența 
 
 Pentru admiterea la examen este necesar să fie susținut în prealabil un proiect din [**lista propusă**](https://yadi.sk/d/sGli7FdmpBudwA) (se poate realiza și un alt proiect agreat din timp). Examenul va consta dintr-o discuție asupra proiectului si a altor subiecte discutate în cadrul cursului si eventual a unui test-grilă cu subiecte din curs și laborator. 
 
+[lista temelor alocate](https://yadi.sk/d/2eakYdAskYMuVA) - în general putem modifica această listă, putem venicu propuneri, etc.
+
 ## Conținutul cursului
 
 - **[Fișa disciplinei](https://yadi.sk/d/vdUJx5q9wrXnL)**.
@@ -28,6 +30,8 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 - [Cursul 5-6](https://yadi.sk/d/ce5mhHO8zVY8s): Cum functioneaza algoritmii genetici?
 - [Cursul 7-8-9](https://yadi.sk/d/fy2DLu3VzVYNu): Metode euristice pentru rezolvarea problemelor de transport.
 - [Cursul 9-10](https://yadi.sk/d/0b1Xq0jkzVYaV): Cum putem aborda problemele de optimizare cu restrictii arbitrare? 
+- [Cursul 11-12](https://yadi.sk/d/qgwpj9WPzVeQi): Ce comportamente pot avea agentii?
+- [Cursul 13-14](https://yadi.sk/d/iF1uFsvnzVev3): Cum comunica agentii intre ei?
 
 <!-- 
 * [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
