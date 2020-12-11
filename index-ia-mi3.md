@@ -48,7 +48,6 @@ o listă de proiecte (care urmează să apară în curând).
 * [Cursul 03](https://yadi.sk/d/lG82A8qw32ZAu3)
 * [Cursul 04](https://yadi.sk/d/T06E4p2v32ZB2M)
 * [Cursul 05](https://yadi.sk/d/C4qmMCi232ZB96)
-<!--
 * [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)
 * [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * [Cursul 03](https://yadi.sk/d/lG82A8qw32ZAu3)
@@ -60,6 +59,7 @@ o listă de proiecte (care urmează să apară în curând).
 * [Cursul 10](https://yadi.sk/d/1k5g7FBG32ZBjN)
 * [Cursul 11-12](https://yadi.sk/d/1k5g7FBG32ZBjN)
 * [Cursul 13-14](https://yadi.sk/d/RhxOf2UB32ZBxt)
+<!--
 -->
 
 Suplimentar: 
@@ -77,7 +77,6 @@ Suplimentar:
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
 * [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
 * [Lab 04-05](https://yadi.sk/d/V0Gl1fC5l_Glmw)
-<!--
 * **GIT** totul ce ține versionarea softului / documentației
 * [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
@@ -88,12 +87,13 @@ Suplimentar:
   - Exemple de rețele neuronale simple
     - [Recunoasterea cifrei 5](https://yadi.sk/i/AIOO56hndBiXJA)
     - [Determinarea ecuatiei de regresie](https://yadi.sk/i/Yv82bkCJG5PlTA)
+<!--
 -->
 
 
-### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
+### ATENȚIE: Lucrarea de colocviu/examen va avea loc în data de:
 
-* **?? ianuarie/februarie, 2021, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
+* **10 februarie, 2021, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
 
 ### Surse bibliografice:
 
