@@ -29,9 +29,9 @@ Lect. dr. Andrei Rusu
 - Alocarea temelor către studenți - urmează să apară - [Alocarea temelor către studenți](ama1_teme.html).  (./ap1_teme.html).-->
 
 
-### Data examenului: 
+### *<span style="color:red;" >Data examenului</span>: 
 
-* **O vom stabili**. Sala o va stabili secretariatul. 
+* **09 februarie 2021**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 08 februarie 2021. Locația unde încărcăm voi preciza mai târziu. 
 
 ## Subiecte discutate
 
