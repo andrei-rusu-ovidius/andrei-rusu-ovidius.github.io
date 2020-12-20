@@ -31,7 +31,7 @@ Lect. dr. Andrei Rusu
 
 ### *<span style="color:red;" >Data examenului</span>: 
 
-* **09 februarie 2021**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 08 februarie 2021. Locația unde încărcăm voi preciza mai târziu. 
+* **09 februarie 2021, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 08 februarie 2021. Locația unde încărcăm voi preciza mai târziu. 
 
 ## Subiecte discutate
 

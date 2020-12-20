@@ -93,7 +93,7 @@ Suplimentar:
 
 ### ATENȚIE: Lucrarea de colocviu/examen va avea loc în data de:
 
-* **10 februarie, 2021, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3)
+* **10 februarie, 2021, ora 10.00, sala urmează să fie stabilită (urmăriți anunțurile oficiale)**, (spec: Matematică-Informatica, anul 3). Am cerut să fie modificată data examenului în 11 februarie, 2021, dar încă nu știu dacă este acceptată modificarea. 
 
 ### Surse bibliografice:
 

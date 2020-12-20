@@ -65,9 +65,9 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 Încă nu sunt. 
 
 
-### Lucrarea de colocviu va avea loc în data de ?:
+### Întâlnirea pentru examen va avea loc în data de 08.02.2021, ora 14:
 
-* **Urmează să o stabilim**, ()
+* **Urmează să o stabilim o programare prealabilă pentru prezentarea lucrărilor la examen** ()
 
 ## Surse bibliografice:
 
