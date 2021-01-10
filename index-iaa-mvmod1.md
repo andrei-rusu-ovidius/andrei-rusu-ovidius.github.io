@@ -69,6 +69,10 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 
 * **Urmează să o stabilim o programare prealabilă pentru prezentarea lucrărilor la examen** ()
 
+Vă rog să încărcați lucrările la adresa: http://s.go.ro/5fkd6wuz | parola: 121473 
+
+Dați nume sugestiv arhivei. 
+
 ## Surse bibliografice:
 
 1. David B. Lamkins, Successful Lisp How to Understand and Use Common Lisp, 2004, Ed.: bookfix.com , 360p, ISBN-13: 978-3937526003
