@@ -31,7 +31,17 @@ Lect. dr. Andrei Rusu
 
 ### *<span style="color:red;" >Data examenului</span>: 
 
-* **09 februarie 2021, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 08 februarie 2021. Locația unde încărcăm voi preciza mai târziu. 
+* **09 februarie 2021, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 08 februarie 2021. Locația unde încărcăm voi preciza mai târziu.
+
+**Atenție:** Încărcăm referatele menționate mai sus la adresa: 
+
+http://s.go.ro/szis19ws | parola: 352004 
+
+unde să încărcați referatele pt examen. Dati nume fisierului de tipul: **Rusu-Andrei-var-07.docx**. Dacă mai  vreți să modificați fișierul, îi adăugați la coadă ceva diferit, de exemplu: **Rusu-Andrei-var07-a.docx**
+(am adăugat litera *a* la sfârșit). Astfel el va fi diferit de documentul inițial Rusu-Andrei-var-07.docx
+​Eu le voi găsi pe server la mine și voi considera ultima variantă (conform datei de încărcare). Dacă încercați să încărcați încă o dată un fișier cu același nume cred că dă eroare la încărcare. 
+  
+ 
 
 ## Subiecte discutate
 
