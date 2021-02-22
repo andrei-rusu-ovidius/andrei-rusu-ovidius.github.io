@@ -22,7 +22,7 @@
 
 ### Cerințe pentru admiterea la colocviu (examen):
 
-1. Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen (cel puțin 1 lucrare trebuie să fie predată și susținută).
+1. Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen (cel puțin 1 lucrare trebuie să fie predată și **susținută**).
 2. Prezența la colocviu (examen) în ziua și la ora programată.
 
 ### Calculul  notei finale se face conform algoritmului:
@@ -30,11 +30,17 @@
 1. Nota la lucrarea de examen (colocviu) – 50%,
    a. test-grilă – 50%,
    b. rezolvarea unor probleme dintr-o listă de probleme (de obicei, 2 probleme din 4) - 50%,
-2. Nota pentru activitatea de laborator - 50%
-   a. Lucrare scrisă: - cel mult 10%,
+2. Nota pentru activitatea de laborator/curs - 50%
+   a. Lucrări scrise/teste grilă la curs: - cel mult 20%,
    b. Elaborarea, predarea și susținerea în timp rezonabil a lucrărilor de laborator – cel puțin 80%,
    c. Activitate la laborator - cel mult 10%,
 3. Bonus (pentru activitate în cadrul activităților de la curs și laborator + prezență): – cel mult 10%. 
+
+##### Lista studenților (la curs): 
+
+* [Computer Science](./cs1.html), anul 1 (cs1)
+* [Informatica, seria 1](./info1s1.html), anul 1 (info1s1)
+* [Informatica, seria 2](./info1s2.html), anul 1 (info1s2)
 
 #### Observație: 
 
