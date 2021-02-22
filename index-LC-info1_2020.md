@@ -9,10 +9,9 @@
 ---
 
 ### Suntem și online:
-- Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
-- Discord: 
-- Teams: 
-- Moodle:
+- Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
+- Discord: https://discord.gg/S3NhqP
+- Teams: https://tinyurl.com/wokuxh3
 
 ### Obiective:
 
@@ -58,22 +57,18 @@
 
 * [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevăr al formulei. Forme normale. 
 * [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
-<!--
 * [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 
 * [Lab 07-08](./LC-info1-lab-07-08.html): Semantica formulelor în calculul predicatelor.
 * [Lab 09-10](./LC-info1-lab-09-10.html): Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.
 * [Lab 11-12](./LC-info1-lab-11-12.html): Semantica formulelor în calculul cu predicate, 2
 * [Lab 13-14](): Totalizarea rezultatelor. 
--->
 
-<!--
 [Următoarele lucrări au fost încărcate pe storage](https://drive.google.com/open?id=1l4VpmNSfyg5L9H-B4maUMHMBdbsQOfFH) (am specificat în Discord unde trebuie încărcat) 
--->
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **Luni, 24 sau 31 mai 2021**, (spec: Informatica, anul 1, seria 1),
-* **Luni, 24 sau 31 mai 2021**, (spec: Computer Science, anul 1). 
+* **Vineri, 22 sau 29 mai 2020, ora 10.00, sala AB1**, (spec: Informatica, anul 1, seria 1),
+* **Joi, 21 sau 28 mai 2020, ora 8.00, sala S1**, (spec: Computer Science, anul 1). 
 
 ### Surse bibliografice:
 
@@ -88,6 +83,6 @@
 
 ---
 
-(c) Andrei Rusu, 2004-2021
+(c) Andrei Rusu, 2004-2020
 
 
