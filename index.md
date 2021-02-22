@@ -105,7 +105,7 @@ Email-uri trimiteti pe adresele:
 
 #### Facultatea de matematică și informatică
 
-- [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1)
+- [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1+2)
 - [**Mathematical and computational logic**](./index-LC-cs1.html) (Licență: Informatică în limba engleză (Computer Science), anul 1)
 - [**Modelare cu algoritmi genetici**](./index-mag-mti2.htm) (Master: Modelare și tehnologii informatice (MTI), anul 2) 
 - [**Dezvoltarea aplicațiilor Web (2020)**](./index-daw-info3.html) (Licență: Informatică, anul 3 (info3), ...)

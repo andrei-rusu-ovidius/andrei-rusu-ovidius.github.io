@@ -54,7 +54,7 @@
 * [Cursul 05](https://yadi.sk/d/rehAPjVvJkWeYQ): Metode sintacttice de demonstrare a teoremelor în logica clasică a propozițiilor. 
 
 
-### Lucrările de laborator:
+### Lucrările de laborator (Info 1, seria 1):
 
 * [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevăr al formulei. Forme normale. 
 * [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
@@ -72,7 +72,7 @@
 
 ### ATENȚIE: Lucrarea de colocviu va avea loc în data de:
 
-* **Luni, 24 sau 31 mai 2021**, (spec: Informatica, anul 1, seria 1),
+* **Luni, 24 sau 31 mai 2021**, (spec: Informatica, anul 1, seria 1+2),
 * **Luni, 24 sau 31 mai 2021**, (spec: Computer Science, anul 1). 
 
 ### Surse bibliografice:
