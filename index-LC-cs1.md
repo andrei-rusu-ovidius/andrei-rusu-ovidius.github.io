@@ -10,9 +10,9 @@
 
 ### We are also online: 
 - Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
-- Discord: 
+- Discord: https://discord.gg/UbyF7ZvVw3
 - Teams: 
-- Moodle: 
+- Moodle: https://moodle.univ-ovidius.ro/course/view.php?id=2178
 
 
 ### Goals:
