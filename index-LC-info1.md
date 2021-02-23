@@ -10,7 +10,7 @@
 
 ### Suntem și online:
 - Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
-- Discord: 
+- Discord: https://discord.gg/fStykVt9pK
 - Teams: 
 - Moodle:
 
