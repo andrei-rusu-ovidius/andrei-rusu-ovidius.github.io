@@ -12,7 +12,7 @@
 - Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
 - Discord: https://discord.gg/fStykVt9pK
 - Teams: 
-- Moodle:
+- Moodle: https://moodle.univ-ovidius.ro/course/view.php?id=2210 
 
 ### Obiective:
 
