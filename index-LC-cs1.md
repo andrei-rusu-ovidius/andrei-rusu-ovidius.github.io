@@ -60,7 +60,9 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 ### Laboratory work:
 
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
+* [Lab 03-04](./LC-cs1-lab-03-04.html): Normal forms. Minimal normal forms.
 <!--
+* [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
 * [Lab 07-08](./LC-cs1-lab-07-08.html): Semantics of formulas in predicate calculus
@@ -80,12 +82,12 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 - Lab 07-08: http://s.go.ro/r3op3h8r
 - Lab 09-10: http://s.go.ro/rbjbe5fg
 - Lab 11-12: http://s.go.ro/dtvu54l9
--->
 
 The name of the file must follow the format: 
-**Lab 1-2, Rusu Andrei, andrei.rusu.teach@gmail.com.zip**
+**Lab 01-02, Rusu Andrei, andrei.rusu.teach@gmail.com.zip**
 
 Passwords for uploading files are on the Discord channel. 
+-->
 
 ### WARNING: The colloquium will take place on:
 
