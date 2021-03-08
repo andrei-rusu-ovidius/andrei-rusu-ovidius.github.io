@@ -21,11 +21,10 @@
 
 1. If the formula `F` is a tautology then consider its conjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`. 
 2. If the formula `F` is a contradiction then consider its disjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`. 
-
 2. If the formula `F` contains less than 4 distinct propositional variables, then consider its conjunction with the formula `((A -> B) v (B ~ C) v (C -> D))`.
-
+2. In the following we consider the formula `F` is the last formula obtained as a result of the previous actions. 
 4. Every student work at the formula from the **[list](./LC_Lab_01_Lista_formule.html)**  in accordance with the variant given by its number in the list of students:
-   * [Computer Science](./cs1.html),
+   * **[Computer Science](./cs1.html)**,
    * [Informatică](./info1s1.html). 
 5. Any programming language can be used, for example, **C, C++, Java, Prolog, Lisp, Python, PHP,** etc.
 6. Any program should state clearly:
@@ -48,4 +47,4 @@ d. Design and program the algorithms for above mentioned tasks. (rest of the poi
 
 ---
 
-(c) Andrei RUSU, 2004 - 2019
+(c) Andrei RUSU, 2004 - 2021
