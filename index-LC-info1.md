@@ -20,7 +20,7 @@
 2. Abordarea exercițiilor folosind limbaje imperative și declarative de programare. 
 3. Implementarea algoritmilor discutaţi în cadrul cursurilor.
 
-### Cerințe pentru admiterea la colocviu (examen):
+### Cerințe pentru admiterea la colocviu (examen): 
 
 1. Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen (cel puțin 1 lucrare trebuie să fie predată și **susținută**).
 2. Prezența la colocviu (examen) în ziua și la ora programată.
