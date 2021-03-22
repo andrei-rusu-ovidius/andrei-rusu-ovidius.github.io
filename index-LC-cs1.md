@@ -61,6 +61,7 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Normal forms. Minimal normal forms.
+* [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
 <!--
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Minimal normal forms.
