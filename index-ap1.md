@@ -1,6 +1,6 @@
 # Elemente de tehnologia informației. Informatică pentru administrație publică
 
-**Administrație publică**, anul 1, 2018-2019
+**Administrație publică**, anul 1, 2020-2021
 
 Lect. dr. Andrei Rusu
 
