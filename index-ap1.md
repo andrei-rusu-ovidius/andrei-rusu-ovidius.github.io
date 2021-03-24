@@ -6,9 +6,10 @@ Lect. dr. Andrei Rusu
 
 ## Suntem și online:
 
-- Webex: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach
-- Discord: https://discord.gg/rWccru
-- Teams: https://tinyurl.com/r6ytp6w
+- Webex: 
+- Discord: 
+- Teams: 
+- Moodle: 
 
 ## Modul de susținere a examenului/colocviului
 
@@ -21,14 +22,18 @@ Lect. dr. Andrei Rusu
    - Să conțină o listă de tabele
    - Fiecare capitol trebuie să înceapă pe pagină nouă și la orice modificare a textului capitolul oricum trebuie să înceapă pe pagină nouă. 
    - Să conțină bibliografie care să fie citată în cadrul textului. 
+   - Să conțină un stil personalizat cu numele și prenumele Dumneavoastra. 
 3. Scriem lucrarea, care va conține întrebări legate de referat. 
 4. Susținerea unei probe practice. 
+5. Predarea în timp util a temelor de casă.
+6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
 
 ### Lista temelor pentru referate
 
-- [Lista temelor](./Lista_temelor.html).
+- [Lista temelor și alocarea lor](./Lista-teme-AP1-2020-2021.htm).
+<!--
 - [Alocarea temelor către studenți](./ap1_teme.html).
-
+-->
 ## Subiecte discutate
 
 1. Introducere. 
