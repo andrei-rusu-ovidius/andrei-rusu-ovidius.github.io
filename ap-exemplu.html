@@ -1,0 +1,200 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel="stylesheet" href="qrc:/scripts/mermaid/mermaid.css">
+<script src="qrc:/scripts/mermaid/mermaid.full.min.js"></script>
+
+<style>/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+/**
+ * https://github.com/rhiokim/markdown-css
+ * solarized-light style
+ * made by rhio.kim
+ * powered by http://ethanschoonover.com/solarized
+ */
+body {
+  padding: 20px;
+  color: #737373;
+  font-size: 1em;
+  font-family: Sans-serif;
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: #1e6ea7;
+}
+a:hover {
+  color: #268bd2;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #404040;
+}
+h2 {
+  border-bottom: 1px solid #cccccc;
+}
+h6 {
+  color: #666666;
+}
+hr {
+  border: 1px solid #e6e6e6;
+}
+pre > code {
+/*  font-size: .9em;*/
+  font-family: Consolas, Inconsolata, Courier, monospace;
+}
+blockquote {
+  padding: 0 15px;
+  font-style: italic;
+}
+blockquote:before {
+  content: "\201C";
+  font-size: 40px;
+  margin-left: -20px;
+  color: #aaa;
+}
+table {
+  background-color: #ffffff;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+table tr th,
+table tr td {
+  border: 0px;
+  padding: .2em 1em;
+}
+table tr th {
+  border-bottom: 1px solid #bfbfbf;
+}
+table tr td {
+  border-bottom: 1px solid #d9d9d9;
+}
+table tr:nth-child(2n) {
+  background-color: #ffffff;
+}
+/**
+ * after less
+ */
+</style>
+</head>
+<body>
+<h1 id="Titlu.1">Titlu 1</h1>
+
+<h2 id="Titlu.2">Titlu 2</h2>
+
+<h3 id="Titlu.3">Titlu 3</h3>
+
+<h4 id="Titlu.4">Titlu 4</h4>
+
+<h5 id="Titlu.5">Titlu 5</h5>
+
+<h6 id="Titlu.6">Titlu 6</h6>
+
+<p>Aliniat obișnuit care se delimitează de următorul aliniat printr-un rand gol.</p>
+
+<p>Acum urmează cel de al doilea aliniat, care este separat în fișier de aliniatul anterior printr-un rând gol.</p>
+
+<p>Ca de obicei orice aliniat (în Word, LaTex, etc) se termină prin apăsarea tastei <strong>Enter</strong>, și pentru a creu un rând nou mai dăm o dată pe tasta <strong>Enter</strong>.</p>
+
+<p>Pentru a crea liste neordonate (adică fără ordonare după numărul de ordine, de exemplu, în fața item-ului avem bulină) folosim simbolul &lsquo;-&rsquo;.</p>
+
+<ul>
+<li>primul element</li>
+<li>al doilea element</li>
+<li>al treilea element.</li>
+</ul>
+
+
+<p>Dacă avem nevoie să creăm liste deitemi în cadrul altor liste facem la fel cași la crearea primei liste, doar că mutăm rândul cu 2 poziții:</p>
+
+<ul>
+<li>primul element
+
+<ul>
+<li>elementul 1.1.</li>
+<li>elementul 1.2
+
+<ul>
+<li>e 1.2.1</li>
+<li>e 1.2.2</li>
+</ul>
+</li>
+<li>elementul 1.3</li>
+</ul>
+</li>
+<li>al doilea element</li>
+<li>al treilea element.</li>
+</ul>
+
+
+<p>Pentru a avea liste ordonate (adică liste numerotate) folosim în loc de simbolurile &lsquo;-&rsquo; sau &lsquo;*&rsquo; litere sau numere. De exemplu:</p>
+
+<ol>
+<li>Unu</li>
+<li>Doi</li>
+<li>Trei</li>
+<li>Patru</li>
+</ol>
+
+
+<p>Lafel putem avea liste ordonate în cadrul listelor ordonate. De exemplu:</p>
+
+<ol>
+<li><p>Unu</p>
+
+<ol>
+<li>Asta e 1.1.</li>
+<li>Acesta este 2.</li>
+<li>Asta este 3.</li>
+</ol>
+</li>
+<li><p>Doi</p>
+
+<ol type="a">
+<li>Asta e.</li>
+<li>Da, da.</li>
+<li>Ia te uită.</li>
+</ol>
+</li>
+<li>Trei
+
+<ol type="a">
+<li>Ha Ha.</li>
+<li>Ei da?</li>
+</ol>
+</li>
+<li>Patru</li>
+</ol>
+
+
+<h2 id="Link-uri...i.poze">Link-uri și poze</h2>
+
+<h3 id="Link-uri">Link-uri</h3>
+
+<p>Inserarea unui link se face relativ simplu:
+<a href="./Lista-teme-AP1-2020-2021.htm">Lista temelor și alocarea lor</a></p>
+
+<h3 id="Poze">Poze</h3>
+
+<p>Să dăm explu niște poze:</p>
+
+<p><img src="./imagini/2021-04-01_07-54-23.png" alt="Imaginea 1" /></p>
+
+<p><img src="./imagini/2021-03-25_11-41-06.png" alt="Imaginea 1" /></p>
+
+<p><img
+src=“imagini/2021-03-26_09-09-35.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/></p>
+</body>
+</html>

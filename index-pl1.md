@@ -28,6 +28,11 @@ Lect. dr. Andrei Rusu
 5. Predarea în timp util a temelor de casă.
 6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
 
+## <span style="color: red; font-size: 36px">EXAMEN:</span> 18.06.2021, ora 10:00. Plaforma online: Teams
+
+**Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă (link-ul respectiv urmează să fie precizat ulterior). 
+
+
 ### Lista temelor pentru referate
 
 - [Lista temelor + alocarea lor](./Lista-teme-PL1-2020-2021.htm).
