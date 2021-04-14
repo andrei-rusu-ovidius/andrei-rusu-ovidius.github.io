@@ -28,6 +28,10 @@ Lect. dr. Andrei Rusu
 5. Predarea în timp util a temelor de casă.
 6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
 
+## <span style="color: red">EXAMEN</span>: 11.06.2021, ora 10.00, platforma Teams
+
+**Referatul trebuie încărcat până în ziua examenului, 10.06.2021, ora 20.00.** Numele documentului trebuie să fie de forma: __Nume-Prenume-var-nrVarianta.docx__. Link-ul pentru încărcarea documentului va fi comunicat suplimentar mai târziu. 
+
 ### Lista temelor pentru referate
 
 - [Lista temelor și alocarea lor](./Lista-teme-AP1-2020-2021.htm).
