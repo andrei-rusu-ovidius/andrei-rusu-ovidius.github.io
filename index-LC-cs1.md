@@ -54,7 +54,7 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * Course 02: The classical logic of propositions. Tautologies. Inconsistences. 
 * Course 03: Normal forms. Minimization of normal forms. 
 * Course 04: Axiomatization of classical logic. Sequences of deduction. Theorems. 
-* [Course 05](https://yadi.sk/d/P-Ov2qcVqT6oiQ): Sintactic methods for proving theorems in the classical logic of propositions. 
+* [Course 05](): Sintactic methods for proving theorems in the classical logic of propositions. 
 * Other corces are online on Discord platform. 
 
 ### Laboratory work:
@@ -62,6 +62,7 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Normal forms. Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
+* [Lab 07-08](./LC-cs1-lab-07-08.html): Semantics of formulas in predicate calculus
 <!--
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Minimal normal forms.
