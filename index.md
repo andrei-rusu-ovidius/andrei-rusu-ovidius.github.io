@@ -28,7 +28,11 @@ Informații despre practică le găsiți aici
  
 Referitor la titlurile temelor de licență și master, dacă doriți să susțineți cu mine o altă temă - Vă rog să mă anunțați, să îmi spuneți cam la ce temă Vă gândiți, ce plan de acțiune aveți. Apoi vom vedea dacă o mai putem adăuga în lista temelor aprobate de facultate (de obicei se aprobă).
 
-Tot aici vor apare și informații pentru studenții înscriși la mine pentru lucrarea de licență, disertație sau grad 1.   
+Tot aici vor apare și informații pentru studenții înscriși la mine pentru lucrarea de licență, disertație sau grad 1.
+
+__Model (FMI) de lucrare de licență/master__, poate fi vizualizat [**online**](https://www.overleaf.com/read/hsyyrfdwjhdh). 
+
+__Alte informații__ din [__FMI__](https://fmi.univ-ovidius.ro/) legate de examenul absolvire de [__licență__](https://fmi.univ-ovidius.ro/academic/studii-de-licenta/licenta-documente/) sau [__masterat__](https://fmi.univ-ovidius.ro/academic/studii-de-masterat/masterat-documente/). 
 
 <!--
 #### Studenți înscriși și teme rezervate (formal încă libere)
