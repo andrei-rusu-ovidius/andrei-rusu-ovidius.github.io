@@ -24,6 +24,7 @@ Cine vrea să efectueze practica în cadrul unei firme trebuie să țină cont d
   - analiza (formularea cerințelor, etc)
   - proiectarea (în baza analizei și tehnologiilor alese - limbaj de programare, etc)
   - implementarea (realizarea aplicației)
+  - testarea (testarea pe unitate, functională, de integrare, etc)
   - desfășurarea (de exemplu, în cazul aplicațiilor web - pe Heroku sau Github, Gitlab, etc)
 - Scrierea unui raport de practică în LaTeX (mostra va apare tot aici).
   - Și acum mostra de raport în LaTeX ([pdf](https://www.overleaf.com/read/tsgkmrfqjbgz), [LaTeX](https://www.overleaf.com/read/tsgkmrfqjbgz))
