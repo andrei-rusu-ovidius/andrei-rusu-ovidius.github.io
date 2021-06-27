@@ -81,7 +81,7 @@ Ne intalnim online pentru cursuri instaland Cisco Webex Meetings. Link-ul canalu
 
 Email-uri trimiteti pe adresele: 
 
-![](andrei-email.png =250x)
+![](andrei-email-365.png =250x)
 
 <!--
 * Cursuri: 
@@ -120,6 +120,14 @@ Email-uri trimiteti pe adresele:
 - [**Utilizarea tehnologiilor informatice**](./index-pl1.html) (Licență: Poliție locală, anul 1)
 
 ### Practica 2021
+#### Fac. de Matematică și Informatică
+
+- [Informatica, anul 2, grupa 2](./index-practica-info2-gr2-2021.html)
+
+#### Colegiul UOC
+
+- Analist-Programator
+- Administrator retele locale si comunicatii 
 
 <!--
 ### Semestrul 1 de toamnă, 2019-2020
