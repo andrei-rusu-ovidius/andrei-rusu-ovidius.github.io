@@ -28,7 +28,8 @@ Cine vrea să efectueze practica în cadrul unei firme trebuie să țină cont d
   - desfășurarea (de exemplu, în cazul aplicațiilor web - pe Heroku sau Github, Gitlab, etc)
 - Scrierea unui raport de practică în LaTeX (mostra va apare tot aici).
   - Și acum mostra de raport în LaTeX ([pdf](https://www.overleaf.com/read/tsgkmrfqjbgz), [LaTeX](https://www.overleaf.com/read/tsgkmrfqjbgz))
-  - Editor LaTeX online [Overleaf](https://www.overleaf.com?r=bcec7732&rm=d&rs=b).  
+  - Editor LaTeX online [Overleaf](https://www.overleaf.com?r=bcec7732&rm=d&rs=b).
+  - [**Șablonul** lucrării de licență din facultate](https://www.overleaf.com/read/hsyyrfdwjhdh) (pe Overleaf).  
 
 Îmi scieți pe Discord sau email despre problema pe care doriți să o soluționați în cadrul practicii (dacă nu aveți nici o idee - îmi scrieți și Vă dau eu o problemă). Email-urile le trimiteți pe una din adrese: 
 
