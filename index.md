@@ -77,7 +77,7 @@ Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform 
 
 Ne intalnim online pentru cursuri instaland Cisco Webex Meetings. Link-ul canalului meu de prezentare il aveti aici: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach sau https://meetingsemea5.webex.com/meet/andrei.rusu 
 -->
- 
+ ****
 
 Email-uri trimiteti pe adresele: 
 
@@ -99,13 +99,14 @@ Email-uri trimiteti pe adresele:
   - Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, AP 1.
   - Utilizarea tehnologiilor informatice, PL 1. 
   - Modelare cu algoritmi genetici, mti 2 - cursurile sunt aproape toate online. 
-  - info 1, Logică matematică și computațională
-  - cs 1, Mathematical and computational logic
-* <span style="color:blue">Urmează să apară cursurile la</span>:
-
-## __RESTANȚELE ONLINE la adresa: [https://meetingsemea5.webex.com/meet/andrei.rusu](https://meetingsemea5.webex.com/meet/andrei.rusu)__
+  - info 1, Logică matematică și computațională">**RESTANȚE 2021**</span>
 -->
-###[]()
+### <span style="color:red; font-size:36pt">RESTANȚE 2021</span>
+
+Pentru restanțe ne întâlnim pe: 
+  
+  - <span style="font-size: 20pt">Webex: https://meetingsemea5.webex.com/meet/andrei.rusu</span>
+  - <span style="font-size: 20pt">Discord: https://discord.gg/m5QuS2fF</span> 
 
 #### Facultatea de matematică și informatică
 
