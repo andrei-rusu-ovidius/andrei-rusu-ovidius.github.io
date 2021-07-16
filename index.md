@@ -101,13 +101,33 @@ Email-uri trimiteti pe adresele:
   - Modelare cu algoritmi genetici, mti 2 - cursurile sunt aproape toate online. 
   - info 1, Logică matematică și computațională">**RESTANȚE 2021**</span>
 -->
+<!--
 ### <span style="color:red; font-size:36pt">RESTANȚE 2021</span>
 
 Pentru restanțe ne întâlnim pe: 
   
   - <span style="font-size: 20pt">Webex: https://meetingsemea5.webex.com/meet/andrei.rusu</span>
   - <span style="font-size: 20pt">Discord: https://discord.gg/m5QuS2fF</span> 
+-->
+### Sesiunea de restanțe 12-25.07.2021
 
+- **Faclutatea de Drept și Științe Administrative**
+
+  - Spec.: **AMA, anul 1**, <span style="color:red">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 13:00, TEAMS
+  - Spec.: **AP, anul 1**, <span style="color:red">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 14:00, TEAMS
+  - Spec.: **PL, anul 1**, <span style="color:red">Utilizarea tehnologiilor informatice</span>, 21.07.2021, ora 15:00, TEAMS
+
+- **Facultatea de Matematică și Informatică**
+  - Spec.: **INFO, anul 1**, <span style="color:red">Logica matematică și computațională</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+  - Spec.: **CS, anul 1**, <span style="color:red">Mathematical and Computational Logic</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+  - Spec.: **MVMOD, anul 1**, <span style="color:red">Inteligență artificială aplicată</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+
+- **Colegiul UOC**
+  - Spec.: **ARLC**, sem. 1, M4-CCTRC, 15.07.2021, ora 17:00, TEAMS
+  - Spec.: **AP**, sem. 2, M4-CCTRC, 15.07.2021, ora 18:00, TEAMS
+
+
+### Cursuri semestrul 2
 #### Facultatea de matematică și informatică
 
 - [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1+2)
