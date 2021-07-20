@@ -113,18 +113,19 @@ Pentru restanțe ne întâlnim pe:
 
 - **Faclutatea de Drept și Științe Administrative**
 
-  - Spec.: **AMA, anul 1**, <span style="color:red">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 13:00, TEAMS
-  - Spec.: **AP, anul 1**, <span style="color:red">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 14:00, TEAMS
-  - Spec.: **PL, anul 1**, <span style="color:red">Utilizarea tehnologiilor informatice</span>, 21.07.2021, ora 15:00, TEAMS
+  - Spec.: **AMA, anul 1**, <span style="color:red; font-weight: bold;">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 13:00, TEAMS
+  - Spec.: **AP, anul 1**, <span style="color:red; font-weight: bold;">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 14:00, TEAMS
+  - Spec.: **PL, anul 1**, <span style="color:red; font-weight: bold;">Utilizarea tehnologiilor informatice</span>, 21.07.2021, ora 15:00, TEAMS
 
 - **Facultatea de Matematică și Informatică**
-  - Spec.: **INFO, anul 1**, <span style="color:red">Logica matematică și computațională</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
-  - Spec.: **CS, anul 1**, <span style="color:red">Mathematical and Computational Logic</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
-  - Spec.: **MVMOD, anul 1**, <span style="color:red">Inteligență artificială aplicată</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+  - Spec.: **INFO, anul 1**, <span style="color:red; font-weight: bold;">Logica matematică și computațională</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+  - Spec.: **CS, anul 1**, <span style="color:red; font-weight: bold;">Mathematical and Computational Logic</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+  - Spec.: **INFO, anul 2, grupa 2**, <span style="color:red; font-weight: bold;">Practica</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
+  - Spec.: **MVMOD, anul 1**, <span style="color:red; font-weight: bold;">Inteligență artificială aplicată</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
 
 - **Colegiul UOC**
-  - Spec.: **ARLC**, sem. 1, M4-CCTRC, 15.07.2021, ora 17:00, TEAMS
-  - Spec.: **AP**, sem. 2, M4-CCTRC, 15.07.2021, ora 18:00, TEAMS
+  - Spec.: **ARLC**, sem. 1, **M4-CCTRC**, 15.07.2021, ora 17:00, TEAMS
+  - Spec.: **AP**, sem. 2, **M4-CCTRC**, 15.07.2021, ora 18:00, TEAMS
 
 
 ### Cursuri semestrul 2
