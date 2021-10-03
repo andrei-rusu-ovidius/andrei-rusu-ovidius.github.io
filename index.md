@@ -8,12 +8,33 @@
 - Servicii de masini virtuale, simplu de creat, simplu de gestionat: [Digital Ocean](https://m.do.co/c/c5eb1086fd76).
 - [Analele științifice ale Universității Ovidius din Constanța. Matematica.](http://www.anstuocmath.ro)
 
-## 2020-2021
+## 2021-2022
+### Contacte: 
 
-### Practica (Informatica, anul 2, grupa 2)
+- **Email**: ![](andrei-email-365.png =260x)
+- [**Webex**](https://meetingsemea5.webex.com/meet/andrei.rusu)
+- [**MS Teams UOC**](https://teams.microsoft.com/)
+- [**Moodle UOC**](https://moodle.univ-ovidius.ro/)
+- [**Discord**](https://discord.gg/38DE42843T)
+- **Consultații**: Luni, 8-10. Mă anunțați din timp că vreți să discutăm. În general mă puteți contacta oricând, dar nu după orele 21. 
+- [__Programul activităților__](./A.Rusu-2021-sem-1.png)
 
-Informații despre practică le găsiți aici
-[//]: # [aici](./index-practica-info2-gr2-2020.html). 
+### Cursuri semestrul 1
+#### Facultatea de matematică și informatică
+
+- [**Inteligență artificială**](./index-ia-mi3.html) (Licență: Matematică-Informatică (mi), anul 3)
+- [**Elective VII - Software Engineering**](./index-se-cs3.html) (Licență: Informatică în limba engleză (Computer Science), anul 3)
+- [**Inteligență artificială aplicată**](./index-iaa-mvmod1.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1)
+- [**Sisteme multi-agent**](./index-sma-mvmod2.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 2) 
+- [**Dezvoltarea aplicațiilor Web (2020)**](./index-daw-info3.html) (Licență: Informatică, anul 3 (info3), ...)
+
+#### Facultatea de drept și științe administrative
+
+- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ama1.html) (Licență: Asistență managerială și administrativă, anul 1)
+
+#### Colegiul UOC
+- [**2-M1 - Conectarea calculatoarelor la rețea**](./index-cclr-arlc3.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
+- [**2-M4 - Întreținerea echipamentelor de rețea**](./index-iedr-arlc3.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
 
 ### Protecția muncii în cadrul orelor la clasă
 
@@ -22,8 +43,12 @@ Informații despre practică le găsiți aici
 - **Reguli specifice în cadrul FMI** [aici](https://yadi.sk/i/zcu9X_4Q2DC2kw) sau [aici](http://s.go.ro/ko81hljz), 
 - **Reguli în caz de cutremur** [aici](https://yadi.sk/d/hR2C0_PhpMMBPw) sau [aici](http://s.go.ro/fnubqwes). 
 
+
 ### Teme de licență / master / grad 1
 
+Urmează să apară informații.
+
+<!--
 [//]: # [**Lista temelor de licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](Teme_lic_mas_grad.html)
  
 Referitor la titlurile temelor de licență și master, dacă doriți să susțineți cu mine o altă temă - Vă rog să mă anunțați, să îmi spuneți cam la ce temă Vă gândiți, ce plan de acțiune aveți. Apoi vom vedea dacă o mai putem adăuga în lista temelor aprobate de facultate (de obicei se aprobă).
@@ -34,134 +59,10 @@ __Model (FMI) de lucrare de licență/master__, poate fi vizualizat [**online**]
 
 __Alte informații__ din [__FMI__](https://fmi.univ-ovidius.ro/) legate de examenul absolvire de [__licență__](https://fmi.univ-ovidius.ro/academic/studii-de-licenta/licenta-documente/) sau [__masterat__](https://fmi.univ-ovidius.ro/academic/studii-de-masterat/masterat-documente/). 
 
-<!--
-#### Studenți înscriși și teme rezervate (formal încă libere)
-
-[Lista temelor luate / rezervate](Teme_luate_rezervate.html)
-
--->
-### Semestrul 2 de primăvară, 2020-2021
-
-<!-- 
-## __RESTANȚELE ONLINE la adresa: [https://meetingsemea5.webex.com/meet/andrei.rusu](https://meetingsemea5.webex.com/meet/andrei.rusu)__
--->
-
-###[]()
-
-- [**Formular**](https://forms.gle/Nt1rhPyi72ns9GJK8) pentru contactele studenților.
-- **Consultații**: Joi, 12-14, sătmămâna impară, sala PC02 / P19 (Rog să mă anunțați prin email/tel/whatsapp când intenționați să ne întâlnim. În principiu ora și ziua pot fi adaptate la necesitate.)
-
-<!--
-#### __<span style="color:red">Anunț referitor la activitatea online legat de situația cu virusul nărăvaș</span>__
-
-**2020.04.06** - Materialele cursurilor (video, text, discutii) se gasesc  pe paginile destinate cursurilor respective de pe acest site, sau în canalele de comunicare pe care le folosim (Discord, etc). 
-
-**2020.04.07** - E de dorit sa va faceti conturi și pe platformele universității (informații despre elegăsiți și pe site-ul universității https://www.univ-ovidius.ro/info-covid-19): [Moodle](), [Teams]()
-
-#### <span style="color:red">!!! [Nu uitați să respectați următoarele reguli recomandate de Ministerul Sănătății legate de corona-virus](ANEXA_INSTRUIRE_01.pdf) !!!</span>
--->
-
-Sunt pe unul din canalele de webex la curs (mai pică și ele din când în când): 
-
-- [**https://meetingsemea5.webex.com/meet/andrei.rusu**](https://meetingsemea5.webex.com/meet/andrei.rusu) 
-<!--
-- [**https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach**](https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach) 
-- [**https://meetingsemea8.webex.com/meet/agrusu**](https://meetingsemea8.webex.com/meet/agrusu) 
-Alte detalii pentru comunicarea online găsim pe paginile cursurilor. 
-
-__<span style="color:green">
-Ne întâlnim pentru a discuta despre conținutul cursurilor în online conform programului (dacă nu am agreat o altă oră pentru aceasta). Lincurile pentru accesarea sesiunii video vor fi furnizte prin mediile electronice.  
-</span>__
-
-#### Programul de întâlniri online la curs
-
-Ne intalnim online pentru cursuri instaland Cisco Webex Meetings. Link-ul canalului meu de prezentare il aveti aici: https://andreirusuteach.my.webex.com/meet/andrei.rusu.teach sau https://meetingsemea5.webex.com/meet/andrei.rusu 
--->
- ****
-
-Email-uri trimiteti pe adresele: 
-
-![](andrei-email-365.png =250x)
-
-<!--
-* Cursuri: 
-  - info1, seria 1, Logică matematică și computațională, vineri, 10.00.
-  - cs1, Mathematical and computational logic, joi, ora 8.00
-  - info3, Dezvoltarea aplicațiilor web, vineri, 8.00
-  - mti2, Modelare cu algoritmi genetici, miercuri, 18.00
-  - PL1, Utilizarea tehnologiilor informatice, miercuri, 16.00
-  - AP1, Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, joi, 12.00
-* Laboratoare:
-  -  Va stau la dispozitie tot restul timpului online pe platformele online. 
-
-* <span style="color:magenta">Au apărut cursurile la</span>: 
-  - Dezvoltarea aplicațiilor Web, info 3.
-  - Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică, AP 1.
-  - Utilizarea tehnologiilor informatice, PL 1. 
-  - Modelare cu algoritmi genetici, mti 2 - cursurile sunt aproape toate online. 
-  - info 1, Logică matematică și computațională">**RESTANȚE 2021**</span>
--->
-<!--
-### <span style="color:red; font-size:36pt">RESTANȚE 2021</span>
-
-Pentru restanțe ne întâlnim pe: 
-  
-  - <span style="font-size: 20pt">Webex: https://meetingsemea5.webex.com/meet/andrei.rusu</span>
-  - <span style="font-size: 20pt">Discord: https://discord.gg/m5QuS2fF</span> 
--->
-### Sesiunea de restanțe 12-25.07.2021
-
-- **Faclutatea de Drept și Științe Administrative**
-
-  - Spec.: **AMA, anul 1**, <span style="color:red; font-weight: bold;">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 13:00, TEAMS
-  - Spec.: **AP, anul 1**, <span style="color:red; font-weight: bold;">Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică</span>, 21.07.2021, ora 14:00, TEAMS
-  - Spec.: **PL, anul 1**, <span style="color:red; font-weight: bold;">Utilizarea tehnologiilor informatice</span>, 21.07.2021, ora 15:00, TEAMS
-
-- **Facultatea de Matematică și Informatică**
-  - Spec.: **INFO, anul 1**, <span style="color:red; font-weight: bold;">Logica matematică și computațională</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
-  - Spec.: **CS, anul 1**, <span style="color:red; font-weight: bold;">Mathematical and Computational Logic</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
-  - Spec.: **INFO, anul 2, grupa 2**, <span style="color:red; font-weight: bold;">Practica</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
-  - Spec.: **MVMOD, anul 1**, <span style="color:red; font-weight: bold;">Inteligență artificială aplicată</span>, 21.07.2021, ora 16:00, https://meetingsemea5.webex.com/meet/andrei.rusu
-
-- **Colegiul UOC**
-  - Spec.: **ARLC**, sem. 1, **M4-CCTRC**, 15.07.2021, ora 17:00, TEAMS
-  - Spec.: **AP**, sem. 2, **M4-CCTRC**, 15.07.2021, ora 18:00, TEAMS
-
-
-### Cursuri semestrul 2
-#### Facultatea de matematică și informatică
-
-- [**Logică matematică și computațională**](./index-LC-info1.html) (Licență: Informatică (Info), anul 1, seria 1+2)
-- [**Mathematical and computational logic**](./index-LC-cs1.html) (Licență: Informatică în limba engleză (Computer Science), anul 1)
-- [**Modelare cu algoritmi genetici**](./index-mag-mti2.htm) (Master: Modelare și tehnologii informatice (MTI), anul 2) 
-- [**Dezvoltarea aplicațiilor Web (2020)**](./index-daw-info3.html) (Licență: Informatică, anul 3 (info3), ...)
-
-#### Facultatea de drept și științe administrative
-
-- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ap1.html) (Licență: Administrație publică, anul 1)
-- [**Utilizarea tehnologiilor informatice**](./index-pl1.html) (Licență: Poliție locală, anul 1)
-
-### Practica 2021
-#### Fac. de Matematică și Informatică
-
-- [Informatica, anul 2, grupa 2](./index-practica-info2-gr2-2021.html)
-
-#### Colegiul UOC
-
-- Analist-Programator
-- Administrator retele locale si comunicatii 
-
-<!--
-### Semestrul 1 de toamnă, 2019-2020
-
-
-### Semestrul 1 de toamnă, 2018-2019
-
-### Semestrul 2 de primăvară, 2018-2019
-
--->
 
 [//]: # (This syntax works like a comment, and won't appear in any output. Formularul vechi   https://forms.gle/W2ei1nKSqsb3FbURA)
 [//]: # (It’s a little bizarre, but it works with MacDown and Pandoc.)
+
+-->
 
 <!-- And this comment will appear in html output as a comment -->
