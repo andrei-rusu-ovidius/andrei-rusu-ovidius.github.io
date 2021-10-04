@@ -37,7 +37,7 @@
 
 #### Note:
 
-as programming language, you can use C, C ++, Java, unless it is explicitly stated that Prolog is used as the programming language. A short introduction to Java can be found here (Part 1, Part 2, ...). You can also find a multitude of tutorials for C and C ++.
+As programming language, you can use C, C ++, Java, etc unless it is explicitly stated that Prolog is used as the programming language. A short introduction to Java can be found here (Part 1, Part 2, ...). You can also find a multitude of tutorials for C and C ++.
 
 ### The number of the individual variation for each work:
 
