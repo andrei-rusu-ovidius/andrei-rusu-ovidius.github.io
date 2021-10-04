@@ -7,6 +7,7 @@
 - Servicii de hosting gratuit. Pare sa fie chiar asa. Spatiu de 20 GB, Trafic – 150GB, PHP (orice versiune), MySql la alegere. Chiar este curios cat va dura. Oricum in alta forma acelasi lucru il ofera si Google, si Dropbox, etc. 
 - Servicii de masini virtuale, simplu de creat, simplu de gestionat: [Digital Ocean](https://m.do.co/c/c5eb1086fd76).
 - [Analele științifice ale Universității Ovidius din Constanța. Matematica.](http://www.anstuocmath.ro)
+- [Orarul FMI](http://www.andreirusu.nl/orar.html)
 
 ## 2021-2022
 ### Contacte: 
