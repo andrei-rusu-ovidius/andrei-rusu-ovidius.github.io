@@ -23,24 +23,24 @@
 ### Cursuri semestrul 1
 #### Facultatea de matematică și informatică
 
-- [**Inteligență artificială**](./index-ia-mi3.html) (Licență: Matematică-Informatică (mi), anul 3)
-- [**Elective VII - Software Engineering**](./index-se-cs3.html) (Licență: Informatică în limba engleză (Computer Science), anul 3)
-- [**Inteligență artificială aplicată**](./index-iaa-mvmod1.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1)
-- [**Sisteme multi-agent**](./index-sma-mvmod2.htm) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 2) 
-- [**Dezvoltarea aplicațiilor Web (2020)**](./index-daw-info3.html) (Licență: Informatică, anul 3 (info3), ...)
+- [**Inteligență artificială**](./index-mi3-ia.html) (Licență: Matematică-Informatică (mi), anul 3)
+- [**Elective VII - Software Engineering**](./index-cs3-se.html) (Licență: Informatică în limba engleză (Computer Science), anul 3)
+- [**Inteligență artificială aplicată**](./index-mvmod1-iaa.html) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1)
+- [**Sisteme multi-agent**](./index-mvmod2-sma.html) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 2) 
+- [**Dezvoltarea aplicațiilor Web (2020)**](./index-info3-daw.html) (Licență: Informatică, anul 3 (info3), ...)
 
 #### Facultatea de drept și științe administrative
 
 - [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ama1.html) (Licență: Asistență managerială și administrativă, anul 1)
 
 #### Colegiul UOC
-- [**2-M1 - Conectarea calculatoarelor la rețea**](./index-cclr-arlc3.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
-- [**2-M4 - Întreținerea echipamentelor de rețea**](./index-iedr-arlc3.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
+- [**2-M1 - Conectarea calculatoarelor la rețea**](./index-arlc3-cclr.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
+- [**2-M4 - Întreținerea echipamentelor de rețea**](./index-arlc3-iedr.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
 
 <hr />
 
-- [**1-M4 - Componente,concepte și tehnologii de rețele**](./index-cctr-arlc1.html) ((Calificare profesională postliceală: Administrator retele locale și comunicații, anul 1, sem.1)) - 2020-2021
-- [**1-M11 - Crearea site-urilor web**](./index-csw-ap2.html) ((Calificare profesională postliceală: Analist programator, anul 1, sem.2)) - 2020-2021
+- [**1-M4 - Componente,concepte și tehnologii de rețele**](./index-arlc1-cctr.html) ((Calificare profesională postliceală: Administrator retele locale și comunicații, anul 1, sem.1)) - 2020-2021
+- [**1-M11 - Crearea site-urilor web**](./index-ap2-csw.html) ((Calificare profesională postliceală: Analist programator, anul 1, sem.2)) - 2020-2021
 
 ### Protecția muncii în cadrul orelor la clasă
 
