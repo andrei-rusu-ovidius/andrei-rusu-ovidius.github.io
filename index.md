@@ -3,7 +3,7 @@
 ## Util
 
 - Vrei lucrarea de licenta/disertatie sa arate impecabil? Foloseste LaTeX! Vrei sa inveti rapid a utila LaTeX? Nimic mai simplu, nu trebuie sa instalezi nimic, e suficient sa-ti deschizi un cont gratuit pe [writeLaTeX.com](https://www.overleaf.com?r=bcec7732&rm=d&rs=b) sau [ShareLaTex](https://www.overleaf.com?r=bcec7732&rm=d&rs=b). 
-- Cum scriem direct cu diacritice în LaTeX? Nimic mai simplu, vezi [template-ul](./diacritice_latex.htm) Diacritice în LaTeX.
+- Cum scriem direct cu diacritice în LaTeX? Nimic mai simplu, vezi [template-ul](./diacritice_latex.htm) Diacritice în LaTeX. _Observație: Acum se pare nu mai sunt necesare aceste artificii pentru a scrie cu diacritice._ 
 - Servicii de hosting gratuit. Pare sa fie chiar asa. Spatiu de 20 GB, Trafic – 150GB, PHP (orice versiune), MySql la alegere. Chiar este curios cat va dura. Oricum in alta forma acelasi lucru il ofera si Google, si Dropbox, etc. 
 - Servicii de masini virtuale, simplu de creat, simplu de gestionat: [Digital Ocean](https://m.do.co/c/c5eb1086fd76).
 - [Analele științifice ale Universității Ovidius din Constanța. Matematica.](http://www.anstuocmath.ro)
@@ -37,6 +37,11 @@
 - [**2-M1 - Conectarea calculatoarelor la rețea**](./index-cclr-arlc3.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
 - [**2-M4 - Întreținerea echipamentelor de rețea**](./index-iedr-arlc3.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
 
+<hr />
+
+- [**1-M4 - Componente,concepte și tehnologii de rețele**](./index-cctr-arlc1.html) ((Calificare profesională postliceală: Administrator retele locale și comunicații, anul 1, sem.1)) - 2020-2021
+- [**1-M11 - Crearea site-urilor web**](./index-csw-ap2.html) ((Calificare profesională postliceală: Analist programator, anul 1, sem.2)) - 2020-2021
+
 ### Protecția muncii în cadrul orelor la clasă
 
 În cadrul orelor la clasă (Curs / Seminar / Laborator / Practică) trebuie urmate regulile de conduită specificate în documentele ce urmează:
@@ -47,7 +52,7 @@
 
 ### Teme de licență / master / grad 1
 
-Urmează să apară informații.
+Temele studenților (Licență / Master) rămași din anii trecuți rămân după ei (doar să-mi confirme acest lucru). Lista temelor pentru acest an urmează să apară. Dacă aveți sugestii de teme la care ați dori să lucrați - sunteți bineveniți (trimiteți titlul și o scurtă descriere). Ale informații urmează să apară. 
 
 <!--
 [//]: # [**Lista temelor de licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](Teme_lic_mas_grad.html)
