@@ -73,7 +73,7 @@ Suplimentar:
 #### Lucrările de laborator:
 
 * **GIT** totul ce ține versionarea softului / documentației
-* [Lab 01-02](https://ovidius.andrei-rusu.ro/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
+* [Lab 01-02](https://www.andreirusu.nl/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
 <!--
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
 * [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
