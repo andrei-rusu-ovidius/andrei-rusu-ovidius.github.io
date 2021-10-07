@@ -26,6 +26,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 ***
 
 - [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
+<!--
 - [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici? 
 - [Cursul 5-6](https://yadi.sk/d/ce5mhHO8zVY8s): Cum functioneaza algoritmii genetici?
 - [Cursul 7-8-9](https://yadi.sk/d/fy2DLu3VzVYNu): Metode euristice pentru rezolvarea problemelor de transport.
@@ -33,7 +34,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 - [Cursul 11-12](https://yadi.sk/d/qgwpj9WPzVeQi): Ce comportamente pot avea agentii?
 - [Cursul 13-14](https://yadi.sk/d/iF1uFsvnzVev3): Cum comunica agentii intre ei?
 
-<!-- 
+ 
 * [Cursul 1-2](https://yadi.sk/d/pI1cARjowrY7B): Ce sunt agenții?
 * [Cursul 3-4](https://yadi.sk/d/l1MFjFtmzVXgZ): Ce sunt algoritmii genetici? 
 * [Cursul 5-6](https://yadi.sk/d/ce5mhHO8zVY8s): Cum functioneaza algoritmii genetici?
@@ -46,6 +47,7 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 ***
 
 * [Lab. 01-02](https://yadi.sk/d/1dERVMo1wrZ8q): Configurarea spatiului de lucru cu agentii Jade. Configurarea [JADE+Eclipse](https://yadi.sk/i/AUrB5ZnAZXDxRg) si asta [Instalare Maven si configurarea cu Eclipse + un proiect](https://yadi.sk/i/Phkmo1bVfndK-Q)
+<!--
 * [Lab. 02-03](https://yadi.sk/d/h0BbH-wJuT6q8A): Exemple simple de agenti
 * [Lab. 03-04](https://yadi.sk/d/Pdqvcg-LzVedX): Cum putem automatiza lucrul cu agentii din linia de comanda?
 * [Lab. 05-06-07-08](https://yadi.sk/d/WjAQHX-CzVfDm): Comportamentele + comunicarea agentilor.
@@ -65,13 +67,15 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 Încă nu sunt. 
 
 
-### Întâlnirea pentru examen va avea loc în data de 08.02.2021, ora 14:
+### Întâlnirea pentru examen va avea loc în data de ...:
 
 * **Urmează să o stabilim o programare prealabilă pentru prezentarea lucrărilor la examen** ()
 
+<!--
 Vă rog să încărcați lucrările la adresa: http://s.go.ro/5fkd6wuz | parola: 121473 
 
 Dați nume sugestiv arhivei. 
+-->
 
 ## Surse bibliografice:
 
@@ -91,5 +95,5 @@ Polirom, 2004, 288 p.
 
 ---
 
-(c) Andrei Rusu, 2007-2020
+(c) Andrei Rusu, 2007-2021
 
