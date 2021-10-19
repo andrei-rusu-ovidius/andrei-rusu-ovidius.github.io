@@ -43,9 +43,9 @@ o listă de proiecte (care urmează să apară în curând).
 
 #### Cursurile:
 
-* [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)
-* [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
-* [Cursul 03](https://yadi.sk/d/lG82A8qw32ZAu3)
+* [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)- Introducere
+* [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) - Elemente de teorie a informației
+* [Cursul 03](https://yadi.sk/d/Us-zSgmuLEmq0A) - Căutări neinformate
 <!--
 * [Cursul 04](https://yadi.sk/d/T06E4p2v32ZB2M)
 * [Cursul 05](https://yadi.sk/d/C4qmMCi232ZB96)
