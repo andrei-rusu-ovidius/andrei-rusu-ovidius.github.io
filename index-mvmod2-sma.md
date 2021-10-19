@@ -72,8 +72,11 @@ Pentru admiterea la examen este necesar să fie susținut în prealabil un proie
 Vă rog să încărcați lucrările la adresa: http://s.go.ro/5fkd6wuz | parola: 121473 
 
 Dați nume sugestiv arhivei. 
+-->
 
 ## Surse bibliografice:
+
+1. [Developing-Multi-Agent-Systems-with-JADE](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiBzfmWyLjzAhXjhv0HHf_cC6o4KBAWegQIHhAB&url=https%3A%2F%2Fwww.mit.bme.hu%2Fsystem%2Ffiles%2Foktatas%2Ftargyak%2F8671%2FDeveloping-Multi-Agent-Systems-with-JADE.pdf&usg=AOvVaw35aKm-iO9oGK_kzHckz3n1)
 
 1. David B. Lamkins, Successful Lisp How to Understand and Use Common Lisp, 2004, Ed.: bookfix.com , 360p, ISBN-13: 978-3937526003
 2. Stuart J. Russell , Peter Norvig, Artificial Intelligence - A Modern Approach, 2003 (ed

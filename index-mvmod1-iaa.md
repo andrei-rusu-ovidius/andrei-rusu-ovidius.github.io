@@ -7,6 +7,17 @@
 #### Prof.: lect. dr. Andrei RUSU
 
 ---
+## Contacte:
+
+- **Email**: ![](andrei-email-365.png =260x)
+- [**Webex**](https://meetingsemea5.webex.com/meet/andrei.rusu)
+- [**MS Teams UOC**](https://teams.microsoft.com/)
+- [**Moodle UOC**](https://moodle.univ-ovidius.ro/)
+- [**Discord**](https://discord.gg/38DE42843T)
+- **Consultații**: Luni, 8-10. Mă anunțați din timp că vreți să discutăm. În general mă puteți contacta oricând, dar nu după orele 21. 
+- [__Programul activităților__](./A.Rusu-2021-sem-1.png)
+
+---
 
 ## Obiective:
 
