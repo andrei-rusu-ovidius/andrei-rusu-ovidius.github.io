@@ -46,6 +46,8 @@ o listă de proiecte (care urmează să apară în curând).
 * [Cursul 01](https://yadi.sk/d/rNIhbEC732ZAbn)- Introducere
 * [Cursul 02](https://yadi.sk/d/JNQ08Tjq32ZAoT), [Lucrarea de referință](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) - Elemente de teorie a informației
 * [Cursul 03](https://yadi.sk/d/Us-zSgmuLEmq0A) - Căutări neinformate
+* [Cursul 04](https://yadi.sk/d/mZmxwVjc37rNgw) - Căutări cu cost minim și căutare prin interație în adâncime
+* [Cursul 04-05](https://yadi.sk/d/MUFRmKi8XrqMsQ) - Căutări informate - greedy + A*
 <!--
 * [Cursul 04](https://yadi.sk/d/T06E4p2v32ZB2M)
 * [Cursul 05](https://yadi.sk/d/C4qmMCi232ZB96)
@@ -75,7 +77,8 @@ Suplimentar:
 * **GIT** totul ce ține versionarea softului / documentației
 * [Lab 01-02](https://www.andreirusu.nl/Lab-01-02-ia-mi3.html) - configurarea instrumentelor necesare (Anaconda, Eclipse, Netbeans, git)
 * [Lab 02-03](https://yadi.sk/d/4-nTOcnUpq3pbg)
-* [Lab 03-04](https://yadi.sk/d/uO2aRolMY0A5Dg)
+* [Lab 03-04-a](https://yadi.sk/d/uO2aRolMY0A5Dg)
+* [Lab 03-04-b](https://yadi.sk/d/9Qp8yyeN274D5w) - Cautări - aplicații  Java
 <!--
 * [Lab 04-05](https://yadi.sk/d/V0Gl1fC5l_Glmw)
 * **GIT** totul ce ține versionarea softului / documentației
