@@ -34,8 +34,8 @@ f.  Elaboraţi programele respective, care V-ar permite relativ uşor să răspu
 
 ---
 
-[Studenților](./) --> [LMC](./index-LC-info1.htm) --> [Lab. 01-02]()
+[Studenților](./) --> [LMC](./index-info1-lmc.htm) --> [Lab. 01-02]()
 
 ---
 
-(c) Andrei RUSU, 2004 - 2019
+(c) Andrei RUSU, 2004 - 2021
