@@ -17,24 +17,42 @@
 - [**Webex**](https://meetingsemea5.webex.com/meet/andrei.rusu)
 - [**MS Teams UOC**](https://teams.microsoft.com/)
 - [**Moodle UOC**](https://moodle.univ-ovidius.ro/)
-- [**Discord**](https://discord.gg/38DE42843T) 
+- [**Discord**](https://discord.gg/CptPYbtRUk) 
 - **Consultații**: Luni, 8-10. Mă anunțați din timp că vreți să discutăm. În general mă puteți contacta oricând, dar nu după orele 21. 
-- [__Programul activităților__](./A.Rusu-2021-sem-1.png)
+- [__Programul activităților__](./A.Rusu-2021-2022-sem-2.png)
 
-### Cursuri semestrul 1
+### Cursuri semestrul 2
 #### Facultatea de matematică și informatică
 
+- [**Logică matematică și computațională**](./index-info1-lmc.html) (Licență: Informatică - INFO, anul 1)
+- [**Mathematical and computational logic**](./index-cs1-lmc.html) (Licență: Informatică (în limba engleză) - CS, anul 1)
+- [**Modelare cu algoritmi genetici**](./index-mti2-mag.html) (Master: Modelare și tehnologii informatice (MTI), anul 2)
+
+<!--
 - [**Inteligență artificială**](./index-mi3-ia.html) (Licență: Matematică-Informatică (mi), anul 3)
 - [**Elective VII - Software Engineering**](./index-cs3-se.html) (Licență: Informatică în limba engleză (Computer Science), anul 3)
 - [**Inteligență artificială aplicată**](./index-mvmod1-iaa.html) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 1)
 - [**Sisteme multi-agent**](./index-mvmod2-sma.html) (Master: Medii virtuale multi-modale și distribuite (MVMOD), anul 2) 
 - [**Dezvoltarea aplicațiilor Web (2020)**](./index-info3-daw.html) (Licență: Informatică, anul 3 (info3), ...)
+-->
 
 #### Facultatea de drept și științe administrative
 
-- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ama1.html) (Licență: Asistență managerială și administrativă, anul 1)
+- [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ap1.html) (Licență: Administrație publică, anul 1)
+- [**Utilizarea tehnologiei informatice**](./index-pl1.html) (Licență: Poliție locală, anul 1)
+
+#### Facultatea de Ștințe Economice
+
+- [**Sisteme informatice de asistare a deciziilor**](./index-cig3.html) (Licență: Contabilitate și informatică de gestiune, anul 3)
+
+- [**Matematică aplicată în economie**](./index-ef3.html) (Licență: Economia firmei, anul 1)
+
 
 #### Colegiul UOC
+
+- **Pregătirea lucrării de absolvire.** Mă contactați pe Discord, email, Teams (indicate mai sus la **Contacte**). 
+
+<!--
 - [**2-M1 - Conectarea calculatoarelor la rețea**](./index-arlc3-cclr.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
 - [**2-M4 - Întreținerea echipamentelor de rețea**](./index-arlc3-iedr.html) (Calificare profesională postliceală: Administrator retele locale și comunicații, anul 2, sem.3)
 
@@ -42,7 +60,7 @@
 
 - [**1-M4 - Componente,concepte și tehnologii de rețele**](./index-arlc1-cctr.html) ((Calificare profesională postliceală: Administrator retele locale și comunicații, anul 1, sem.1)) - 2020-2021
 - [**1-M11 - Crearea site-urilor web**](./index-ap2-csw.html) ((Calificare profesională postliceală: Analist programator, anul 1, sem.2)) - 2020-2021
-
+-->
 ### Protecția muncii în cadrul orelor la clasă
 
 În cadrul orelor la clasă (Curs / Seminar / Laborator / Practică) trebuie urmate regulile de conduită specificate în documentele ce urmează:
@@ -53,7 +71,7 @@
 
 ### Teme de licență / master / grad 1
 
-Temele studenților (Licență / Master) rămași din anii trecuți rămân după ei (doar să-mi confirme acest lucru). Lista temelor pentru acest an urmează să apară. Dacă aveți sugestii de teme la care ați dori să lucrați - sunteți bineveniți (trimiteți titlul și o scurtă descriere). Ale informații urmează să apară. 
+Temele studenților (Licență / Master) rămași din anii trecuți rămân după ei (doar să-mi confirme acest lucru - am trimis mail la inceput de octombrie 2021). Lista temelor pentru acest an a apărut deja. Dacă aveți sugestii de teme la care ați dori să lucrați anii viitori - sunteți bineveniți (trimiteți titlul și o scurtă descriere). Ale informații urmează să apară. Anul acesta (2021-2022) **nu mai accept studenți pentru lucrarea de licență** (sunt prea mulți deja). 
 
 <!--
 [//]: # [**Lista temelor de licență (info + cs) / master (mvmod + mti) / grad 1 (mate + info)**](Teme_lic_mas_grad.html)
