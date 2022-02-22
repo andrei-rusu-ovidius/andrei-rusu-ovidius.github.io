@@ -1,0 +1,467 @@
+<<<<<<< HEAD
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel="stylesheet" href="qrc:/scripts/mermaid/mermaid.css">
+<script src="qrc:/scripts/mermaid/mermaid.full.min.js"></script>
+
+<style>/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+/**
+ * https://github.com/rhiokim/markdown-css
+ * solarized-light style
+ * made by rhio.kim
+ * powered by http://ethanschoonover.com/solarized
+ */
+body {
+  padding: 20px;
+  color: #737373;
+  font-size: 1em;
+  font-family: Sans-serif;
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: #1e6ea7;
+}
+a:hover {
+  color: #268bd2;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #404040;
+}
+h2 {
+  border-bottom: 1px solid #cccccc;
+}
+h6 {
+  color: #666666;
+}
+hr {
+  border: 1px solid #e6e6e6;
+}
+pre > code {
+/*  font-size: .9em;*/
+  font-family: Consolas, Inconsolata, Courier, monospace;
+}
+blockquote {
+  padding: 0 15px;
+  font-style: italic;
+}
+blockquote:before {
+  content: "\201C";
+  font-size: 40px;
+  margin-left: -20px;
+  color: #aaa;
+}
+table {
+  background-color: #ffffff;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+table tr th,
+table tr td {
+  border: 0px;
+  padding: .2em 1em;
+}
+table tr th {
+  border-bottom: 1px solid #bfbfbf;
+}
+table tr td {
+  border-bottom: 1px solid #d9d9d9;
+}
+table tr:nth-child(2n) {
+  background-color: #ffffff;
+}
+/**
+ * after less
+ */
+</style>
+</head>
+<body>
+<h2 id="Logic...matematic.....i.computa..ional..">Logică matematică și computațională</h2>
+
+<h3 id="L.strong.Disciplina..strong.:.Logic...matematic.....i.computa..ional.."><strong>Disciplina</strong>: Logică matematică și computațională</h3>
+
+<h3 id="L.strong.Specializarea..strong.:.Informatic....anul.1..Computer.Science..1st.year"><strong>Specializarea</strong>: Informatică, anul 1; Computer Science, 1st year</h3>
+
+<h4 id="Prof.:.lect..dr..Andrei.RUSU">Prof.: lect. dr. Andrei RUSU</h4>
+
+<hr />
+
+<h3 id="Suntem...i.online:">Suntem și online:</h3>
+
+<ul>
+<li>Vezi secțiunea <a href="./index.html">contacte</a>:</li>
+</ul>
+
+
+<h3 id="Obiective:">Obiective:</h3>
+
+<ol>
+<li>Lucrul cu obiectele folosite în logica propozițiilor.</li>
+<li>Abordarea exercițiilor folosind limbaje imperative și declarative de programare.</li>
+<li>Implementarea algoritmilor discutaţi în cadrul cursurilor.</li>
+</ol>
+
+
+<h3 id="Cerin..e.pentru.admiterea.la.colocviu..examen.:">Cerințe pentru admiterea la colocviu (examen):</h3>
+
+<ol>
+<li>Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen (cel puțin 1 lucrare trebuie să fie predată și <strong>susținută</strong>).</li>
+<li>Prezența la colocviu (examen) în ziua și la ora programată.</li>
+</ol>
+
+
+<h3 id="Calculul..notei.finale.se.face.conform.algoritmului:">Calculul  notei finale se face conform algoritmului:</h3>
+
+<ol>
+<li>Nota la lucrarea de examen (colocviu) – 50%,
+
+<ol type="a">
+<li>test-grilă – 50%,</li>
+<li>rezolvarea unor probleme dintr-o listă de probleme (de obicei, 2 probleme din 4-5-6) - 50%,</li>
+</ol>
+</li>
+<li>Nota pentru activitatea de laborator/curs - 50%
+
+<ol type="a">
+<li>Lucrări scrise/teste grilă la curs: - cel mult 20%,</li>
+<li>Elaborarea, predarea și susținerea în timp rezonabil a lucrărilor de laborator – cel puțin 80%,</li>
+<li>Activitate la laborator - cel mult 10%,</li>
+</ol>
+</li>
+<li>Bonus (pentru activitate în cadrul activităților de la curs și laborator + prezență): – cel mult 10%.</li>
+</ol>
+
+
+<h5 id="Lista.studen..ilor..la.curs.:">Lista studenților (la curs):</h5>
+
+<ul>
+<li><a href="./cs1.html">Computer Science</a>, anul 1 (cs1)</li>
+<li><a href="./info1.html">Informatica</a>, anul 1 (info1, gr.1,2,3,4,5)</li>
+</ul>
+
+
+<h4 id="Observa..ie:">Observație:</h4>
+
+<p>în calitate de limbaj de programare putem folosi C, C++, Java, Python, JavaSCript până nu se specifică expres că în calitate de limbaj  de programare se folosește Prolog-ul.</p>
+
+<h3 id="Numarul.variantei.individuale.pt.fiecare.lucrare:">Numarul variantei individuale pt fiecare lucrare:</h3>
+
+<ul>
+<li><a href="./cs1.html">Computer Science</a>, anul 1 (cs1)</li>
+<li><a href="./info1.html">Informatica</a>, anul 1 (info1)</li>
+</ul>
+
+
+<h3 id="Cursurile.online:">Cursurile online:</h3>
+
+<ul>
+<li>Cursul 01: Introducere în logică. Algebra propozițiilor.</li>
+</ul>
+
+
+<!--
+* Cursul 02: Logica clasică a propozițiilor. Tautologii. Contradicții. 
+* Cursul 03: Forme normale. Minimizarea formelor normale. 
+* Cursul 04: Axiomatizarea logicii clasice. Șiruri de deducție. Teoreme. 
+* [Cursul 05](https://yadi.sk/d/rehAPjVvJkWeYQ): Metode sintacttice de demonstrare a teoremelor în logica clasică a propozițiilor. 
+-->
+
+
+<h3 id="Lucr..rile.de.laborator..Info.1..seria.1.:">Lucrările de laborator (Info 1, seria 1):</h3>
+
+<ul>
+<li><a href="./LC-info1-lab-01.html">Lab 01-02</a>: Tabelul de adevăr al formulei. Forme normale.</li>
+</ul>
+
+
+<!--
+* [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
+* [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 
+* [Lab 07-08](./LC-info1-lab-07-08.html): Semantica formulelor în calculul predicatelor.
+* [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 
+* [Lab 07-08](./LC-info1-lab-07-08.html): Semantica formulelor în calculul predicatelor.
+* [Lab 09-10](./LC-info1-lab-09-10.html): Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.
+* [Lab 11-12](./LC-info1-lab-11-12.html): Semantica formulelor în calculul cu predicate, 2
+* [Lab 13-14](): Totalizarea rezultatelor. 
+-->
+
+
+
+
+<!--
+[Următoarele lucrări au fost încărcate pe storage](https://drive.google.com/open?id=1l4VpmNSfyg5L9H-B4maUMHMBdbsQOfFH) (am specificat în Discord unde trebuie încărcat) 
+-->
+
+
+<h3 id="ATEN..IE:.Lucrarea.de.colocviu.va.avea.loc...n.data.de:">ATENȚIE: Lucrarea de colocviu va avea loc în data de:</h3>
+
+<ul>
+<li><strong>&hellip; de obicei in ultima saptamana, la ultimul curs &hellip;</strong>, (spec: Informatica, anul 1),</li>
+<li><strong>&hellip; de obicei in ultima saptamana, la ultimul curs&hellip;</strong>, (spec: Computer Science, anul 1).</li>
+</ul>
+
+
+<h3 id="Surse.bibliografice:">Surse bibliografice:</h3>
+
+<ol>
+<li>Cucu I., Rusu A., Rusu E., Elemente de logica matematică (curs de lecţii), Chişinău, USM, 2003.</li>
+<li>Ben-Ari M., Mathematical logic for computer science, (2ed., Springer, 2001)(ISBN 1852333197)(K)(T)(309s)</li>
+<li>Abramsky, Gabbay, Maibaum. Handbook of logic in computer science. Vol.1, 2, 3 , 4, 5 (OUP, 2000)(ISBN 0198537816)(T)(555s)</li>
+<li>Mendelson E., Introduction to mathematical logic, (4ed., CRC, 1997)(ISBN 0412808307)(KA)(T)(446s)</li>
+</ol>
+
+
+<hr />
+
+<p><a href="./">Studenților</a> -> <a href="">Logică matematică și computațională</a></p>
+
+<hr />
+
+<p>&copy; Andrei Rusu, 2004-2022</p>
+</body>
+</html>
+=======
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel="stylesheet" href="qrc:/scripts/mermaid/mermaid.css">
+<script src="qrc:/scripts/mermaid/mermaid.full.min.js"></script>
+
+<style>/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+/**
+ * https://github.com/rhiokim/markdown-css
+ * solarized-light style
+ * made by rhio.kim
+ * powered by http://ethanschoonover.com/solarized
+ */
+body {
+  padding: 20px;
+  color: #737373;
+  font-size: 1em;
+  font-family: Sans-serif;
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: #1e6ea7;
+}
+a:hover {
+  color: #268bd2;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #404040;
+}
+h2 {
+  border-bottom: 1px solid #cccccc;
+}
+h6 {
+  color: #666666;
+}
+hr {
+  border: 1px solid #e6e6e6;
+}
+pre > code {
+/*  font-size: .9em;*/
+  font-family: Consolas, Inconsolata, Courier, monospace;
+}
+blockquote {
+  padding: 0 15px;
+  font-style: italic;
+}
+blockquote:before {
+  content: "\201C";
+  font-size: 40px;
+  margin-left: -20px;
+  color: #aaa;
+}
+table {
+  background-color: #ffffff;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+table tr th,
+table tr td {
+  border: 0px;
+  padding: .2em 1em;
+}
+table tr th {
+  border-bottom: 1px solid #bfbfbf;
+}
+table tr td {
+  border-bottom: 1px solid #d9d9d9;
+}
+table tr:nth-child(2n) {
+  background-color: #ffffff;
+}
+/**
+ * after less
+ */
+</style>
+</head>
+<body>
+<h2 id="Logic...matematic.....i.computa..ional..">Logică matematică și computațională</h2>
+
+<h3 id="L.strong.Disciplina..strong.:.Logic...matematic.....i.computa..ional.."><strong>Disciplina</strong>: Logică matematică și computațională</h3>
+
+<h3 id="L.strong.Specializarea..strong.:.Informatic....anul.1..Computer.Science..1st.year"><strong>Specializarea</strong>: Informatică, anul 1; Computer Science, 1st year</h3>
+
+<h4 id="Prof.:.lect..dr..Andrei.RUSU">Prof.: lect. dr. Andrei RUSU</h4>
+
+<hr />
+
+<h3 id="Suntem...i.online:">Suntem și online:</h3>
+
+<ul>
+<li>Vezi secțiunea <a href="./index.html">contacte</a>:</li>
+</ul>
+
+
+<h3 id="Obiective:">Obiective:</h3>
+
+<ol>
+<li>Lucrul cu obiectele folosite în logica propozițiilor.</li>
+<li>Abordarea exercițiilor folosind limbaje imperative și declarative de programare.</li>
+<li>Implementarea algoritmilor discutaţi în cadrul cursurilor.</li>
+</ol>
+
+
+<h3 id="Cerin..e.pentru.admiterea.la.colocviu..examen.:">Cerințe pentru admiterea la colocviu (examen):</h3>
+
+<ol>
+<li>Efectuarea lucrărilor de laborator, predarea și susținerea lor la termen (cel puțin 1 lucrare trebuie să fie predată și <strong>susținută</strong>).</li>
+<li>Prezența la colocviu (examen) în ziua și la ora programată.</li>
+</ol>
+
+
+<h3 id="Calculul..notei.finale.se.face.conform.algoritmului:">Calculul  notei finale se face conform algoritmului:</h3>
+
+<ol>
+<li>Nota la lucrarea de examen (colocviu) – 50%,
+
+<ol type="a">
+<li>test-grilă – 50%,</li>
+<li>rezolvarea unor probleme dintr-o listă de probleme (de obicei, 2 probleme din 4-5-6) - 50%,</li>
+</ol>
+</li>
+<li>Nota pentru activitatea de laborator/curs - 50%
+
+<ol type="a">
+<li>Lucrări scrise/teste grilă la curs: - cel mult 20%,</li>
+<li>Elaborarea, predarea și susținerea în timp rezonabil a lucrărilor de laborator – cel puțin 80%,</li>
+<li>Activitate la laborator - cel mult 10%,</li>
+</ol>
+</li>
+<li>Bonus (pentru activitate în cadrul activităților de la curs și laborator + prezență): – cel mult 10%.</li>
+</ol>
+
+
+<h5 id="Lista.studen..ilor..la.curs.:">Lista studenților (la curs):</h5>
+
+<ul>
+<li><a href="./cs1.html">Computer Science</a>, anul 1 (cs1)</li>
+<li><a href="./info1.html">Informatica</a>, anul 1 (info1, gr.1,2,3,4,5)</li>
+</ul>
+
+
+<h4 id="Observa..ie:">Observație:</h4>
+
+<p>în calitate de limbaj de programare putem folosi C, C++, Java, Python, JavaSCript până nu se specifică expres că în calitate de limbaj  de programare se folosește Prolog-ul.</p>
+
+<h3 id="Numarul.variantei.individuale.pt.fiecare.lucrare:">Numarul variantei individuale pt fiecare lucrare:</h3>
+
+<ul>
+<li><a href="./cs1.html">Computer Science</a>, anul 1 (cs1)</li>
+<li><a href="./info1.html">Informatica</a>, anul 1 (info1)</li>
+</ul>
+
+
+<h3 id="Cursurile.online:">Cursurile online:</h3>
+
+<ul>
+<li>Cursul 01: Introducere în logică. Algebra propozițiilor.</li>
+</ul>
+
+
+<!--
+* Cursul 02: Logica clasică a propozițiilor. Tautologii. Contradicții. 
+* Cursul 03: Forme normale. Minimizarea formelor normale. 
+* Cursul 04: Axiomatizarea logicii clasice. Șiruri de deducție. Teoreme. 
+* [Cursul 05](https://yadi.sk/d/rehAPjVvJkWeYQ): Metode sintacttice de demonstrare a teoremelor în logica clasică a propozițiilor. 
+-->
+
+
+<h3 id="Lucr..rile.de.laborator..Info.1..seria.1.:">Lucrările de laborator (Info 1, seria 1):</h3>
+
+<ul>
+<li><a href="./LC-info1-lab-01.html">Lab 01-02</a>: Tabelul de adevăr al formulei. Forme normale.</li>
+</ul>
+
+
+<!--
+* [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
+* [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 
+* [Lab 07-08](./LC-info1-lab-07-08.html): Semantica formulelor în calculul predicatelor.
+* [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 
+* [Lab 07-08](./LC-info1-lab-07-08.html): Semantica formulelor în calculul predicatelor.
+* [Lab 09-10](./LC-info1-lab-09-10.html): Universul Herbrand. Baza Herbrand. Interpretarea Herbrand.
+* [Lab 11-12](./LC-info1-lab-11-12.html): Semantica formulelor în calculul cu predicate, 2
+* [Lab 13-14](): Totalizarea rezultatelor. 
+-->
+
+
+
+
+<!--
+[Următoarele lucrări au fost încărcate pe storage](https://drive.google.com/open?id=1l4VpmNSfyg5L9H-B4maUMHMBdbsQOfFH) (am specificat în Discord unde trebuie încărcat) 
+-->
+
+
+<h3 id="ATEN..IE:.Lucrarea.de.colocviu.va.avea.loc...n.data.de:">ATENȚIE: Lucrarea de colocviu va avea loc în data de:</h3>
+
+<ul>
+<li><strong>&hellip; de obicei in ultima saptamana, la ultimul curs &hellip;</strong>, (spec: Informatica, anul 1),</li>
+<li><strong>&hellip; de obicei in ultima saptamana, la ultimul curs&hellip;</strong>, (spec: Computer Science, anul 1).</li>
+</ul>
+
+
+<h3 id="Surse.bibliografice:">Surse bibliografice:</h3>
+
+<ol>
+<li>Cucu I., Rusu A., Rusu E., Elemente de logica matematică (curs de lecţii), Chişinău, USM, 2003.</li>
+<li>Ben-Ari M., Mathematical logic for computer science, (2ed., Springer, 2001)(ISBN 1852333197)(K)(T)(309s)</li>
+<li>Abramsky, Gabbay, Maibaum. Handbook of logic in computer science. Vol.1, 2, 3 , 4, 5 (OUP, 2000)(ISBN 0198537816)(T)(555s)</li>
+<li>Mendelson E., Introduction to mathematical logic, (4ed., CRC, 1997)(ISBN 0412808307)(KA)(T)(446s)</li>
+</ol>
+
+
+<hr />
+
+<p><a href="./">Studenților</a> -> <a href="">Logică matematică și computațională</a></p>
+
+<hr />
+
+<p>&copy; Andrei Rusu, 2004-2022</p>
+</body>
+</html>
+>>>>>>> 11b8f56b14846a8386cef39d6d5630541c787d7e
