@@ -1,0 +1,190 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<link rel="stylesheet" href="qrc:/scripts/mermaid/mermaid.css">
+<script src="qrc:/scripts/mermaid/mermaid.full.min.js"></script>
+
+<style>/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+/**
+ * https://github.com/rhiokim/markdown-css
+ * solarized-light style
+ * made by rhio.kim
+ * powered by http://ethanschoonover.com/solarized
+ */
+body {
+  padding: 20px;
+  color: #737373;
+  font-size: 1em;
+  font-family: Sans-serif;
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: #1e6ea7;
+}
+a:hover {
+  color: #268bd2;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #404040;
+}
+h2 {
+  border-bottom: 1px solid #cccccc;
+}
+h6 {
+  color: #666666;
+}
+hr {
+  border: 1px solid #e6e6e6;
+}
+pre > code {
+/*  font-size: .9em;*/
+  font-family: Consolas, Inconsolata, Courier, monospace;
+}
+blockquote {
+  padding: 0 15px;
+  font-style: italic;
+}
+blockquote:before {
+  content: "\201C";
+  font-size: 40px;
+  margin-left: -20px;
+  color: #aaa;
+}
+table {
+  background-color: #ffffff;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+table tr th,
+table tr td {
+  border: 0px;
+  padding: .2em 1em;
+}
+table tr th {
+  border-bottom: 1px solid #bfbfbf;
+}
+table tr td {
+  border-bottom: 1px solid #d9d9d9;
+}
+table tr:nth-child(2n) {
+  background-color: #ffffff;
+}
+/**
+ * after less
+ */
+</style>
+</head>
+<body>
+<h1 id="Lab.0:.Introducere...n.managementul.proiectelor.software">Lab 0: Introducere în managementul proiectelor software</h1>
+
+<h2 id="Specializarea:.Informatica..anul.1">Specializarea: Informatica, anul 1</h2>
+
+<h2 id="Disciplina:.Logic...matematic.....i.computa..ional..">Disciplina: Logică matematică și computațională</h2>
+
+<h3 id="Prof.:.Lect.dr..Andrei.Rusu">Prof.: Lect.dr. Andrei Rusu</h3>
+
+<h2 id="Obiectiv:">Obiectiv:</h2>
+
+<p>Managementul codului proiectului software folosind siteme distribuite și centralizate:</p>
+
+<ul>
+<li>git, mercurial</li>
+<li>SVN, Perforce</li>
+</ul>
+
+
+<p>Utilizarea instrucțiunilor <strong>git</strong>:</p>
+
+<ul>
+<li>init</li>
+<li>add</li>
+<li>commit</li>
+<li>log</li>
+<li>branch</li>
+<li>checkout</li>
+<li>push</li>
+<li>pull</li>
+<li>fetch</li>
+<li>merge</li>
+<li>&hellip;</li>
+</ul>
+
+
+<h2 id="Con..inut">Conținut</h2>
+
+<p>Utilizarea unui sistem de versionare a codului are 2 aspecte:</p>
+
+<ul>
+<li>utilizarea locală</li>
+<li>utilizarea unui server extern</li>
+</ul>
+
+
+<p>În general este suficient în scopuri personale să utilizăm doar  clientul local, dar pentru a colabora cu persoane terțe, sau pentru a utiliza <strong>git</strong> din diferite locații locale este util să folosim un server <strong>git</strong>. Exemple de servere <strong>git</strong> utilizate pe larg sunt:</p>
+
+<ul>
+<li>github</li>
+<li>gitlab</li>
+<li>bitbucket</li>
+</ul>
+
+
+<h3 id="Ac..iuni.pentru.a.lucra.cu.clientul.local">Acțiuni pentru a lucra cu clientul local</h3>
+
+<ol>
+<li><p>Instalați local un client <strong>git</strong>:</p>
+
+<ul>
+<li>Cautam pe <strong>google</strong> (sau alt sistem de căutare) <strong>git download</strong> și urmăm instrucțiunile de instalare.</li>
+<li>Dacă nu ne-am descurcat cu punctul anterior, accesăm <a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a> și urmăm instrucțiunile de instalare în dependență de sistemul de operare utilizat.</li>
+</ul>
+</li>
+<li><p>Urmați orice tutorial disponibil pe net (se găsește ușor prin căutare). Se folosesc instrucțiunile <strong>git</strong>:</p>
+
+<ul>
+<li><strong>git init</strong> - inițializarea unui repozitoriu</li>
+<li><strong>git status</strong> - verificarea statutului repozitoriului</li>
+<li><strong>git add</strong> - adăugarea fișierelor în lista obiectelor indexate (urmărite / track-uite) de <strong>git</strong></li>
+<li><strong>git commit</strong> - înregistrarea stării curente a proiectului</li>
+<li><strong>git log</strong> - urmărirea înregistrărilor efectuate</li>
+<li><strong>git branch</strong> - crearea ramurilor/variantelor de dezvoltare a proiectului</li>
+<li><strong>git checkout</strong> - selectarea ramurii/variantei active
+a proiectului</li>
+</ul>
+</li>
+</ol>
+
+
+<h3 id="Lucrul.cu.serverul..strong.git..strong.">Lucrul cu serverul <strong>git</strong></h3>
+
+<ol>
+<li>Crearea unui cont pe oricare platformă online (este de dorit să admită posibilitatea creării repozitoriilor private): <strong>github</strong>, <strong>gitlab</strong>, <strong>bitbucket</strong>, etc.</li>
+<li>Crearea unui repozitoriu remote (pe platforma online).</li>
+<li><p>Încărcarea repozitoriului local pe platforma remote.</p>
+
+<ul>
+<li><strong>git push</strong></li>
+</ul>
+</li>
+<li><p>Descărcarea locală unui repozitoriu remote</p>
+
+<ul>
+<li><strong>git pull</strong></li>
+<li><strong>git fetch</strong></li>
+</ul>
+</li>
+</ol>
+
+</body>
+</html>
