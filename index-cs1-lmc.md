@@ -10,10 +10,8 @@
 ---
 
 ### We are also online: 
-- Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
-- Discord: https://discord.gg/UbyF7ZvVw3
-- Teams: 
-- Moodle: https://moodle.univ-ovidius.ro/course/view.php?id=2178
+
+- See Contacte section on homepage http://www.andreirusu.nl/
 
 
 ### Goals:
@@ -52,19 +50,21 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 ### Online courses:
 * Course 01: Introduction to logic. Algebra of propositions.
+<!--
 * Course 02: The classical logic of propositions. Tautologies. Inconsistences. 
 * Course 03: Normal forms. Minimization of normal forms. 
 * Course 04: Axiomatization of classical logic. Sequences of deduction. Theorems. 
 * [Course 05](): Sintactic methods for proving theorems in the classical logic of propositions. 
 * Other corces are online on Discord platform. 
-
+-->
 ### Laboratory work:
 
+* [Lab 00](./Lab-00 - git.html): Introduction in project management with __git__.
+<!--
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Normal forms. Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
 * [Lab 07-08](./LC-cs1-lab-07-08.html): Semantics of formulas in predicate calculus
-<!--
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
@@ -94,10 +94,7 @@ Passwords for uploading files are on the Discord channel.
 
 ### WARNING: The colloquium will take place on:
 
-* ** Monday, May 24/31, 2021 **, (spec: Informatica, year 1, series 1), https://meetingsemea5.webex.com/meet/andrei.rusu
-* ** Monday, May 24/31, 2021**, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
-
-[Exam tasks](./) :)
+* ** ... will be specified later **, (spec: Informatica, year 1, series 1), https://meetingsemea5.webex.com/meet/andrei.rusu
 
 ### Bibliographical sources:
 
@@ -166,19 +163,21 @@ as programming language, you can use C, C ++, Java, unless it is explicitly stat
 
 ### Online courses:
 * Course 01: Introduction to logic. Algebra of propositions.
+<!--
 * Course 02: The classical logic of propositions. Tautologies. Inconsistences. 
 * Course 03: Normal forms. Minimization of normal forms. 
 * Course 04: Axiomatization of classical logic. Sequences of deduction. Theorems. 
 * [Course 05](): Sintactic methods for proving theorems in the classical logic of propositions. 
 * Other corces are online on Discord platform. 
-
+-->
 ### Laboratory work:
 
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
+<!--
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Normal forms. Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
 * [Lab 07-08](./LC-cs1-lab-07-08.html): Semantics of formulas in predicate calculus
-<!--
+
 * [Lab 01-02](./LC-cs1-lab-01-02.html): The truth table of the formula. Normal shapes.
 * [Lab 03-04](./LC-cs1-lab-03-04.html): Minimal normal forms.
 * [Lab 05-06](./LC-cs1-lab-05-06.html): Resolution method to determine logical consequences.
@@ -208,8 +207,7 @@ Passwords for uploading files are on the Discord channel.
 
 ### WARNING: The colloquium will take place on:
 
-* ** Monday, May 24/31, 2021 **, (spec: Informatica, year 1, series 1), https://meetingsemea5.webex.com/meet/andrei.rusu
-* ** Monday, May 24/31, 2021**, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
+* ** May/June ..., 2022**, (spec: Computer Science, year 1). https://meetingsemea5.webex.com/meet/andrei.rusu 
 
 [Exam tasks](./) :)
 
@@ -226,5 +224,4 @@ Passwords for uploading files are on the Discord channel.
 
 ---
 
->>>>>>> 11b8f56b14846a8386cef39d6d5630541c787d7e
-(c) Andrei Rusu, 2004-2021
+(c) Andrei Rusu, 2004-2022

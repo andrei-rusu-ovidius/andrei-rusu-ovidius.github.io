@@ -42,7 +42,7 @@
 
 #### Facultatea de Ștințe Economice
 
-- [**Sisteme informatice de asistare a deciziilor**](./index-cig3.html) (Licență: Contabilitate și informatică de gestiune, anul 3)
+- [**Sisteme informatice de asistare a deciziilor**](./index-fse-cig3-siad.html) (Licență: Contabilitate și informatică de gestiune, anul 3)
 - [**Matematică aplicată în economie**](./index-ef3.html) (Licență: Economia firmei, anul 1)
 
 

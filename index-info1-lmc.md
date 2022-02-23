@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Logică matematică și computațională
 
 ### **Disciplina**: Logică matematică și computațională
@@ -36,8 +35,12 @@
 
 ##### Lista studenților (la curs): 
 
+* [Informatica](), anul 1 (info1, gr.1,2,3,4,5)
+
+<!--
 * [Computer Science](./cs1.html), anul 1 (cs1)
 * [Informatica](./info1.html), anul 1 (info1, gr.1,2,3,4,5)
+-->
 
 #### Observație: 
 
@@ -58,8 +61,11 @@
 -->
 
 ### Lucrările de laborator (Info 1, seria 1):
+
 * [Lab 00](./LC-info1-lab-00.html): Introducere - __git__, etc
+
 <!--
+* [Lab 00](./LC-info1-lab-00.html): Introducere - __git__, etc
 * [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevăr al formulei. Forme normale. 
 * [Lab 03-04](./LC-info1-lab-03-04.html): Forme normale minimale.
 * [Lab 05-06](./LC-info1-lab-05-06.html): Metoda rezoluțiilor pentru determinarea consecințelor logice. 

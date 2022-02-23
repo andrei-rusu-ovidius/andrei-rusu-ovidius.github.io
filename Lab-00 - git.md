@@ -1,8 +1,4 @@
-# Lab 0: Introducere în managementul proiectelor software
-
-## Specializarea: Informatica, anul 1 
-
-## Disciplina: Logică matematică și computațională
+# Lab 01: Introducere în managementul proiectelor software
 
 ### Prof.: Lect.dr. Andrei Rusu
 
