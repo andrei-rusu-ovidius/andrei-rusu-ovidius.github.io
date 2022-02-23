@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Mathematical and computational logic
 
 ### ** Discipline **: Mathematical and computational logic
