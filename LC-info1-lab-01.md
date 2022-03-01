@@ -18,8 +18,7 @@
 
 a. O predare în prealabil se consideră şi predarea folosind serviciul de e-mail sau oricare altă posibilitate electronică de predare, dar predarea lucrării propriu-zisă se consideră la ora de laborator din săptămâna respectivă. Întârzierea în predarea lucrării se penalizează cu 1 punct pentru fiecare 2 saptamâni.
 b. Fiecare student lucrează asupra formulei din  **[lista](./LC_Lab_01_Lista_formule.html)** în concordanță cu varianta dată de numărul său:
-   * [Computer Science](./cs1.html),
-   * [Informatică](./info1s1.html). 
+   * [info1, gr3](./Info 1 - gr3.htm). 
 c. În calitate de limbaj de programare puteţi folosi: C, C++, Java, Prolog, Lisp, Python, PHP, etc. 
    * Lab_01_Lista_formule.html
 

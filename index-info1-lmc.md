@@ -63,6 +63,7 @@
 ### Lucrările de laborator (Info 1, seria 1):
 
 * [Lab 00](./LC-info1-lab-00.html): Introducere - __git__, etc
+* [Lab 01-02](./LC-info1-lab-01.html): Tabelul de adevăr al formulei. Forme normale. 
 
 <!--
 * [Lab 00](./LC-info1-lab-00.html): Introducere - __git__, etc
