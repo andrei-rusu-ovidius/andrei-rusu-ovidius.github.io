@@ -42,6 +42,7 @@ Utilizarea unui sistem de versionare a codului are 2 aspecte:
    - Dacă nu ne-am descurcat cu punctul anterior, accesăm https://git-scm.com/downloads și urmăm instrucțiunile de instalare în dependență de sistemul de operare utilizat.
 
 2. Urmați orice tutorial disponibil pe net (se găsește ușor prin căutare). Se folosesc instrucțiunile __git__:
+   - __git config__ - configurarea cu nume și email
    - __git init__ - inițializarea unui repozitoriu
    - __git status__ - verificarea statutului repozitoriului
    - __git add__ - adăugarea fișierelor în lista obiectelor indexate (urmărite / track-uite) de __git__
