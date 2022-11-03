@@ -1,11 +1,10 @@
-<!-- title: index -->
+<!-- title: index.html -->
 # Andrei Rusu's page for students
 
 ## Util
 
 - Vrei lucrarea de licenta/disertatie sa arate impecabil? Foloseste LaTeX! Vrei sa inveti rapid a utila LaTeX? Nimic mai simplu, nu trebuie sa instalezi nimic, e suficient sa-ti deschizi un cont gratuit pe [writeLaTeX.com](https://www.overleaf.com?r=bcec7732&rm=d&rs=b) sau [ShareLaTex](https://www.overleaf.com?r=bcec7732&rm=d&rs=b). 
 - Cum scriem direct cu diacritice în LaTeX? Nimic mai simplu, vezi [template-ul](./diacritice_latex.htm) Diacritice în LaTeX. _Observație: Acum se pare nu mai sunt necesare aceste artificii pentru a scrie cu diacritice._ 
-- Servicii de hosting gratuit. Pare sa fie chiar asa. Spatiu de 20 GB, Trafic – 150GB, PHP (orice versiune), MySql la alegere. Chiar este curios cat va dura. Oricum in alta forma acelasi lucru il ofera si Google, si Dropbox, etc. 
 - Servicii de masini virtuale, simplu de creat, simplu de gestionat: [Digital Ocean](https://m.do.co/c/c5eb1086fd76).
 - [Analele științifice ale Universității Ovidius din Constanța. Matematica.](http://www.anstuocmath.ro)
 - [Model lucrare licență/Master](https://www.overleaf.com/read/hsyyrfdwjhdh)
