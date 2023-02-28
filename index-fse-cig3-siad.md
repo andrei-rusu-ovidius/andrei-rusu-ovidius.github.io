@@ -17,4 +17,4 @@ Laboratoare:
 
 ---
 
-(c) Andrei Rusu, 2004-2019
+(c) Andrei Rusu, 2004-2023
