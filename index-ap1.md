@@ -1,15 +1,16 @@
 # Elemente de tehnologia informației. Informatică pentru administrație publică
 
-**Administrație publică**, anul 1, 2020-2021
+**Facultatea**: Drept și Științe Administrative <br />
+**Specializare**: Administrație publică, anul 1 
 
 Lect. dr. Andrei Rusu
 
 ## Suntem și online:
 
-- Webex: 
-- Discord: 
-- Teams: 
-- Moodle: 
+- Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
+- Discord: https://discord.gg/tNfUfVgHhj
+- Teams: [Link](https://teams.microsoft.com/l/channel/19%3a597ade34c60e4aa282112e6da50b13d6%40thread.tacv2/AP1%2520-%2520Informatica?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a)
+- Moodle: ---
 
 ## Modul de susținere a examenului/colocviului
 
@@ -17,8 +18,8 @@ Lect. dr. Andrei Rusu
 2. Predarea referatului pe o temă din lista temelor care urnmează să fie specificată mai jos. Referatul trebuie să respecte următoarele reguli:
    - Șă conțină 3 capitole, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
    - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. 
-   - Să conțină cuprinsul. 
-   - Să conțină o listă de desene. 
+   - Să conțină cuprinsul desfășurat pe 3 nivele (capitol, subcapitol, subsubcapitol). 
+   - Să conțină o listă de desene/figuri. 
    - Să conțină o listă de tabele
    - Fiecare capitol trebuie să înceapă pe pagină nouă și la orice modificare a textului capitolul oricum trebuie să înceapă pe pagină nouă. 
    - Să conțină bibliografie care să fie citată în cadrul textului. 
@@ -28,14 +29,15 @@ Lect. dr. Andrei Rusu
 5. Predarea în timp util a temelor de casă.
 6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
 
-## <span style="color: red">EXAMEN</span>: 11.06.2021, ora 10.00, platforma Teams
+## <span style="color: red">EXAMEN</span>: ??.06.2023, ora 10.00, sala ??
 
-**Referatul trebuie încărcat până în ziua examenului, 10.06.2021, ora 20.00.** Numele documentului trebuie să fie de forma: __Nume-Prenume-var-nrVarianta.docx__. Link-ul pentru încărcarea documentului va fi comunicat suplimentar mai târziu. 
+**Referatul trebuie încărcat până în ziua examenului, ora 20.00.** Numele documentului trebuie să fie de forma: __Nume-Prenume-var-nrVarianta.docx__. Link-ul pentru încărcarea documentului va fi comunicat suplimentar mai târziu. 
 
 ### Lista temelor pentru referate
 
-- [Lista temelor și alocarea lor](./Lista-teme-AP1-2020-2021.htm).
+- [Lista temelor și alocarea lor]() - urmează să apară.
 <!--
+./Lista-teme-AP1-2020-2021.htm
 - [Alocarea temelor către studenți](./ap1_teme.html).
 -->
 ## Subiecte discutate

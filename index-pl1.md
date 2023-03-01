@@ -1,14 +1,15 @@
 # Utilizarea tehnologiilor informatice
 
-**Poliție locală**, anul 1, 2020-2021
+**Facultatea**: Drept și Științe Administrative <br />
+**Specializare**: Poliție locală, anul 1 
 
 Lect. dr. Andrei Rusu
 
 ## Suntem și online
-- Webex: 
-- Discord: 
-- Teams: 
-- Moodle: 
+- **Webex**: https://meetingsemea5.webex.com/meet/andrei.rusu
+- **Discord**: https://discord.gg/DMKpEryeJq
+- **Teams**: [Link](https://teams.microsoft.com/l/channel/19%3a87c8cf10cf7b4c02af2b00a470027de5%40thread.tacv2/PL1%2520-%2520Informatica?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a)
+- **Moodle**: ---
 
 
 ## Modul de susținere a examenului/colocviului
@@ -28,14 +29,15 @@ Lect. dr. Andrei Rusu
 5. Predarea în timp util a temelor de casă.
 6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
 
-## <span style="color: red; font-size: 36px">EXAMEN:</span> 18.06.2021, ora 10:00. Plaforma online: Teams
+## <span style="color: red; font-size: 36px">EXAMEN:</span> ??.06.2023, ora 10:00. Sala: ??
 
 **Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă (link-ul respectiv urmează să fie precizat ulterior). 
 
 
 ### Lista temelor pentru referate
 
-- [Lista temelor + alocarea lor](./Lista-teme-PL1-2020-2021.htm).
+- [Lista temelor + alocarea lor]() -  urmează să apară.
+<!-- ./Lista-teme-PL1-2020-2021.htm -->
 
 ## Subiecte discutate
 
