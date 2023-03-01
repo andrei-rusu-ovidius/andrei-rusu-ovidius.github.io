@@ -31,7 +31,7 @@ Lect. dr. Andrei Rusu
 
 ## <span style="color: red">EXAMEN</span>: ??.06.2023, ora 10.00, sala ??
 
-**Referatul trebuie încărcat până în ziua examenului, ora 20.00.** Numele documentului trebuie să fie de forma: __Nume-Prenume-var-nrVarianta.docx__. Link-ul pentru încărcarea documentului va fi comunicat suplimentar mai târziu. 
+**Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă până în ziua examenului (link-ul platformei respective urmează să fie precizat ulterior).
 
 ### Lista temelor pentru referate
 

@@ -6,9 +6,9 @@
 Lect. dr. Andrei Rusu
 
 ## Suntem și online
-- **Webex**: https://meetingsemea5.webex.com/meet/andrei.rusu
-- **Discord**: https://discord.gg/DMKpEryeJq
-- **Teams**: [Link](https://teams.microsoft.com/l/channel/19%3a87c8cf10cf7b4c02af2b00a470027de5%40thread.tacv2/PL1%2520-%2520Informatica?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a)
+- **Webex**: https://meetingsemea5.webex.com/meet/andrei.rusu - pentru întâlniri online (când este necesar). Nu necesită instalarea uni soft pentru a participa la întâlniri online. 
+- **Discord**: https://discord.gg/DMKpEryeJq - platformă pentru discuții pe subiect la orice oră. La fel postăm unele materiale aici. 
+- **Teams**: [Link](https://teams.microsoft.com/l/channel/19%3a87c8cf10cf7b4c02af2b00a470027de5%40thread.tacv2/PL1%2520-%2520Informatica?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a) - platformă similară cu cea de mai sus. 
 - **Moodle**: ---
 
 
@@ -31,7 +31,7 @@ Lect. dr. Andrei Rusu
 
 ## <span style="color: red; font-size: 36px">EXAMEN:</span> ??.06.2023, ora 10:00. Sala: ??
 
-**Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă (link-ul respectiv urmează să fie precizat ulterior). 
+**Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă până în ziua examenului (link-ul către platforma respectivă urmează să fie precizat ulterior). 
 
 
 ### Lista temelor pentru referate
