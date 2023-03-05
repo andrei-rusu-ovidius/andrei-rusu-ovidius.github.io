@@ -26,7 +26,7 @@ Evaluarea este așa cum știu ca colocviu. Pentru a fi evaluați este necesar:
   - Test-grilă la colocviu - **20**%
   - Referat încărcat (împreună cu prezentarea PowerPoint corespunzătoare) - **50**%
     - [Temele referatelor](https://disk.yandex.com/d/YBTXGvg5PbTXGQ) - se pot adăuga
-    - [Distribuirea temelor](https://disk.yandex.com/d/u5_cdd3Y3lMhzQ) - se poate modifica
+    - [Distribuirea temelor](https://disk.yandex.com/d/h60YjO_1-8ZxiA) - se poate modifica
     - [Cerințele pentru referat]() - urmează să le adaug
   - Laboratoare efectuate (4 laboratoare): **50**% (Materialele vor fi puse și pe Teams în canalul privar corespunzaător)Ș
     - [**Lab 1**](https://disk.yandex.com/d/pQasuvTL-TFPXQ): Sistemul **git** de versionare 
