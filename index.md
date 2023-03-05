@@ -67,7 +67,9 @@
 
 - [**Sisteme informatice de asistare a deciziilor**](./index-fse-cig3-if-siad.html) (Licență: Contabilitate și informatică de gestiune, **IF**, anul 3)
 - [**Sisteme informatice de asistare a deciziilor**](./index-fse-cig3-id-siad.html) (Licență: Contabilitate și informatică de gestiune, **ID**, anul 3)
+<!--
 - [**Matematică aplicată în economie**]() (Licență: Contabilitate și Informatică de Gestiune, anul 1)
+-->
 
 
 #### Colegiul UOC
