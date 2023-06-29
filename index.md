@@ -37,6 +37,8 @@
 #### Facultatea de matematică și informatică
 - [**Logică matematică și computațională**](./index-mi2-lmc.html) (Licență: Matematică-Informatică - MI, anul 2)
 
+- [**Practica**](./index-practica-info2gr2.html) (Licență: Informatică - Info, anul 2, gr. 2)
+
 <!--
 - [**Logică matematică și computațională**](./index-info1-lmc.html) (Licență: Informatică - INFO, anul 1)
 - [**Mathematical and computational logic**](./index-cs1-lmc.html) (Licență: Informatică (în limba engleză) - CS, anul 1)

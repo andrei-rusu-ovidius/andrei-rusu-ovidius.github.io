@@ -1,0 +1,41 @@
+﻿INPUT:
+------
+Formula: F = (A & !B) -> ((C v D) ~ A)
+unde:
+  A, B, C, D - variabile
+  & - conjunctie
+  v - disjunctie
+  -> - implicatie
+  ! - negatie
+  ~ - echivalenta
+------
+
+OUTPUT:
+------
+a. Tabelul de adevar:
+----------
+A B C D  F
+----------
+0 0 0 0  0
+0 0 0 1  0
+0 0 1 0  1
+0 0 1 1  1
+0 1 0 0  0
+0 1 0 1  0
+0 1 1 0  1
+0 1 1 1  0
+1 0 0 0  0
+1 0 0 1  0
+1 0 1 0  0
+1 0 1 1  0
+1 1 0 0  0
+1 1 0 1  0
+1 1 1 0  0
+1 1 1 1  0
+----------
+b. Numarul de subformule = 10
+c. Numarul de variabile distincte = 4
+d. Numarul de aparitii a variabilelor: A - 2, B - 1, C - 1, D - 1.
+e. Lungimea logica (ordinul formulei): 5
+
+
