@@ -27,6 +27,8 @@
 
 #### Lista temelor, specializarea și starea lor
 
+[**Modele de Anexa 5 și listă de subiecte**](https://s.go.ro/oe7rnlql). Completați/modificați ce e de completat/modificat, le listați și le aduceți să le semnez. 
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSdA3iSWxtFC2FpnlBM0XUbsELPgggBYj60bDlivcyx4ze50F9VbyxwScrnwVnXLKg4Nnu9_b5J3kJq/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="90%" height="400px" scroll="true"></iframe>
 
 - Studenții din anii anteriori la care am fost îndrumător, dar care nu au susținut lucrarea, însă doresc să continuă să le fiu îndrumător trebuie să mă anunțe, căci trebuie să facă din nou cerere, și tema respectivă trebuie să apară în lista dată (precum și în lista oficială de la facultate). 
