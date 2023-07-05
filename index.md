@@ -27,7 +27,7 @@
 
 #### Lista temelor, specializarea și starea lor
 
-[**Modele de Anexa 5 și listă de subiecte**](https://s.go.ro/oe7rnlql). Completați/modificați ce e de completat/modificat, le listați și le aduceți să le semnez. 
+[**Modele de Anexa 5 și listă de subiecte**](https://s.go.ro/oe7rnlql). Completați/modificați ce e de completat/modificat, le listați și le aduceți să le semnez. Eu voi completa pe loc valorile coeficienților **CS1** și **CS2**. 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSdA3iSWxtFC2FpnlBM0XUbsELPgggBYj60bDlivcyx4ze50F9VbyxwScrnwVnXLKg4Nnu9_b5J3kJq/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="90%" height="400px" scroll="true"></iframe>
 
