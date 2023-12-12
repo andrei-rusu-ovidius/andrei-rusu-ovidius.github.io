@@ -31,7 +31,7 @@ Lect. dr. Andrei Rusu
 
 ### *<span style="color:red;" >Data examenului</span>: 
 
-* **06 februarie 2023, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 05 februarie 2021. Locația unde încărcăm voi preciza mai târziu.
+* **05 februarie 2023, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 20:00 04 februarie 2023. Locația unde încărcăm voi preciza mai târziu.
 
 **Atenție:** Încărcăm referatele menționate mai sus la adresa: (urmează să precizăm)
 
