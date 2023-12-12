@@ -11,15 +11,15 @@ Lect. dr. Andrei Rusu
    - Șă conțină 3 capitole, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
    - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. 
    - Să conțină cuprinsul. 
-   - Să conțină o listă de desene. 
+   - Să conțină o listă de desene/figuri. 
    - Să conțină o listă de tabele
-   - Fiecare capitol trebuie să înceapă pe pagină nouă și la orice modificare a textului capitolul oricum trebuie să înceapă pe pagină nouă. 
-   - Să conțină bibliografie care să fie citată în cadrul textului. 
-   - Să conțină un stil personalizat cu numele și prenumele Dumneavoastra. 
+   - Fiecare capitol trebuie să înceapă pe pagină nouă automat, adică la orice modificare a textului din conținutul capitolului oricum trebuie să înceapă pe pagină nouă. 
+   - Să conțină bibliografie care să fie citată în cadrul textului. Bibliografia trebuie să fie gestionată automat (adică, dacă modificăm oridinea de citare, sau adăugăm surse noi în lista bibliografie, numerotarea surselor să se facă automat). 
+   - Să conțină un stil personalizat cu numele și prenumele Dumneavoastra. Stilul personalizat va avea culoarea fontului așbastru, dimnesiunea fontului de 16 pt. Fundalul stilului va fi unul ușor azuriu.
 3. Scriem lucrarea, care va conține întrebări legate de referat. 
 4. Susținerea unei probe practice. 
 5. Predarea în timp util a temelor de casă.
-6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
+6. Punctarea finală = 80% referat + 40% teme de casă = 100% 
 
 ### Lista temelor pentru referate
 
@@ -31,11 +31,13 @@ Lect. dr. Andrei Rusu
 
 ### *<span style="color:red;" >Data examenului</span>: 
 
-* **09 februarie 2021, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 08 februarie 2021. Locația unde încărcăm voi preciza mai târziu.
+* **06 februarie 2023, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 8.00 05 februarie 2021. Locația unde încărcăm voi preciza mai târziu.
 
-**Atenție:** Încărcăm referatele menționate mai sus la adresa: 
+**Atenție:** Încărcăm referatele menționate mai sus la adresa: (urmează să precizăm)
 
+<!--
 http://s.go.ro/szis19ws | parola: 352004 
+-->
 
 unde să încărcați referatele pt examen. Dati nume fisierului de tipul: **Rusu-Andrei-var-07.docx**. Dacă mai  vreți să modificați fișierul, îi adăugați la coadă ceva diferit, de exemplu: **Rusu-Andrei-var07-a.docx**
 (am adăugat litera *a* la sfârșit). Astfel el va fi diferit de documentul inițial Rusu-Andrei-var-07.docx
