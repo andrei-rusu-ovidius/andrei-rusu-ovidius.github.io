@@ -9,15 +9,15 @@
 - [Analele științifice ale Universității Ovidius din Constanța. Matematica.](http://www.anstuocmath.ro)
 - [Model lucrare licență/Master](https://www.overleaf.com/read/hsyyrfdwjhdh)
 
-## 2022-2023
+## 2023-2024
 ### Contacte: 
 
 - **Email**: ![](andrei-email-365.png =260x)
 - [**Webex**](https://meetingsemea5.webex.com/meet/andrei.rusu)
 - [**MS Teams UOC**](https://teams.microsoft.com/l/team/19%3aef55a7d4ec384fab9bd864dd274e8059%40thread.tacv2/conversations?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a)
-- [**Moodle UOC**](https://moodle.univ-ovidius.ro/)
-- [**Discord**](https://discord.gg/g8VjdgjmVW) 
-- **Consultații**: Miercuri, 18-20, săptămâna IMPARĂ. Mă anunțați din timp că vreți să discutăm. În general mă puteți contacta oricând, dar nu după orele 21. 
+- [**Moodle UOC**](https://moodle.univ-ovidius.ro/) - Sunt la Fac de Matematica si Informatica
+- [**Discord**](https://discord.gg/TAbnDF7nYT) 
+- **Consultații**: Miercuri, 14-16, săptămâna IMPARĂ, sala P02 (in Piata Chiliei) sau P19 (in sediul vechi de pe Bd. Mamaia 124 - intrarea prin spate). Mă anunțați din timp că vreți să discutăm. În general mă puteți contacta oricând, dar nu după orele 21. 
 
 <!--
 - [__Programul activităților__](./A.Rusu-2021-2022-sem-2.png)
@@ -38,6 +38,8 @@
 ### Cursuri semestrul 2
 #### Facultatea de matematică și informatică
 - [**Logică matematică și computațională**](./index-mi2-lmc.html) (Licență: Matematică-Informatică - MI, anul 2)
+
+- [**Opțional X: Administrare rețele**]() (Licență: Informatică - INFO, anul 3 - doar laboratoarele)
 
 - [**Practica**](./index-practica-info2gr2.html) (Licență: Informatică - Info, anul 2, gr. 2)
 
@@ -67,11 +69,11 @@
 - [**Elemente de tehnologia informațiilor. Informatica pentru adminstrația publică**](./index-ap1.html) (Licență: Administrație publică, anul 1)
 - [**Utilizarea tehnologiei informatice**](./index-pl1.html) (Licență: Poliție locală, anul 1)
 
+<!--
 #### Facultatea de Ștințe Economice
 
 - [**Sisteme informatice de asistare a deciziilor**](./index-fse-cig3-if-siad.html) (Licență: Contabilitate și informatică de gestiune, **IF**, anul 3)
 - [**Sisteme informatice de asistare a deciziilor**](./index-fse-cig3-id-siad.html) (Licență: Contabilitate și informatică de gestiune, **ID**, anul 3)
-<!--
 - [**Matematică aplicată în economie**]() (Licență: Contabilitate și Informatică de Gestiune, anul 1)
 -->
 

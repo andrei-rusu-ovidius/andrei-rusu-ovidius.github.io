@@ -8,30 +8,32 @@ Lect. dr. Andrei Rusu
 
 1. Prezență obligatorie la examen/colocviu. 
 2. Predarea referatului pe o temă din lista temelor care urnmează să fie specificată mai jos. Referatul trebuie să respecte următoarele reguli:
-   - Șă conțină 3 capitole, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
-   - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. 
-   - Să conțină cuprinsul. 
-   - Să conțină o listă de desene/figuri. 
-   - Să conțină o listă de tabele
+   - Șă conțină 3 capitole + Introducere + Concluzii, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
+   - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. Numerotarea tabelelor si a desenelor/figurilor treb uie să se facă automat (adică, dacă adăugăm între 2 imagini încă una, după update trebuie să se renumeroteze automat tabelele / figurile). 
+   - Să conțină cuprinsul (generat automat). 
+   - Să conțină o listă de desene/figuri (generat automat). 
+   - Să conțină o listă de tabele (generat automat).
    - Fiecare capitol trebuie să înceapă pe pagină nouă automat, adică la orice modificare a textului din conținutul capitolului oricum trebuie să înceapă pe pagină nouă. 
-   - Să conțină bibliografie care să fie citată în cadrul textului. Bibliografia trebuie să fie gestionată automat (adică, dacă modificăm oridinea de citare, sau adăugăm surse noi în lista bibliografie, numerotarea surselor să se facă automat). 
-   - Să conțină un stil personalizat cu numele și prenumele Dumneavoastra. Stilul personalizat va avea culoarea fontului așbastru, dimnesiunea fontului de 16 pt. Fundalul stilului va fi unul ușor azuriu.
+   - Să conțină bibliografie care să fie citată în cadrul textului. Bibliografia trebuie să fie gestionată automat (adică, dacă modificăm oridinea de citare, sau adăugăm surse noi în lista bibliografie, numerotarea surselor să se facă automat). Biubliografia va conține cel puțin 5 surse de tipul: Pagină web, Carte, Conference Proceedings, Journal Article. 
+   - Să conțină un stil personalizat in Introducere cu numele și prenumele Dumneavoastra. Stilul personalizat va avea culoarea fontului așbastru, dimnesiunea fontului de 16 pt. Fundalul stilului va fi unul ușor azuriu.
+   - Referatul va contin per total 15 pag. 
 3. Scriem lucrarea, care va conține întrebări legate de referat. 
 4. Susținerea unei probe practice. 
-5. Predarea în timp util a temelor de casă.
+5. Predarea în timp util a temelor de casă. 
 6. Punctarea finală = 80% referat + 40% teme de casă = 100% 
 
 ### Lista temelor pentru referate
 
-- [Lista temelor pentru referate](./Lista-teme-ama1-2020-a.htm) -  
 
 <!-- /Lista_temelor.html 
+- [Lista temelor pentru referate](./Lista-teme-ama1-2020-a.htm) -  
+
 - Alocarea temelor către studenți - urmează să apară - [Alocarea temelor către studenți](ama1_teme.html).  (./ap1_teme.html).-->
 
 
 ### *<span style="color:red;" >Data examenului</span>: 
 
-* **05 februarie 2023, ora 10.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 20:00 04 februarie 2023. Locația unde încărcăm voi preciza mai târziu.
+* **05 februarie 2023, ora 12.00**. Sala o va stabili secretariatul. __Referatele__ trebuie predate (încărcate până la ora 20:00 04 februarie 2023. Locația unde încărcăm voi preciza mai târziu.
 
 **Atenție:** Încărcăm referatele menționate mai sus la adresa: (urmează să precizăm)
 
