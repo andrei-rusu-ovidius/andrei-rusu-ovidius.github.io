@@ -16,27 +16,28 @@ Lect. dr. Andrei Rusu
 
 1. Prezență obligatorie la examen/colocviu. 
 2. Predarea referatului pe o temă din lista temelor care urnmează să fie specificată mai jos. Referatul trebuie să respecte următoarele reguli:
-   - Șă conțină 3 capitole, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
-   - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. 
-   - Să conțină cuprinsul. 
-   - Să conțină o listă de desene. 
-   - Să conțină o listă de tabele
-   - Fiecare capitol trebuie să înceapă pe pagină nouă și la orice modificare a textului capitolul oricum trebuie să înceapă pe pagină nouă. 
-   - Să conțină bibliografie care să fie citată în cadrul textului. 
-   - Să conțină un stil personalizat cu numele și prenumele Dumneavoastra. 
-3. Scriem lucrarea, care va conține întrebări legate de referat. 
-4. Susținerea unei probe practice. 
-5. Predarea în timp util a temelor de casă.
-6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
+   - Șă conțină 3 capitole + Introducere + Concluzii, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
+   - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. Numerotarea tabelelor si a desenelor/figurilor treb uie să se facă automat (adică, dacă adăugăm între 2 imagini încă una, după update trebuie să se renumeroteze automat tabelele / figurile). 
+   - Să conțină cuprinsul (generat automat). 
+   - Să conțină o listă de desene/figuri (generat automat). 
+   - Să conțină o listă de tabele (generat automat).
+   - Fiecare capitol trebuie să înceapă pe pagină nouă automat, adică la orice modificare a textului din conținutul capitolului oricum trebuie să înceapă pe pagină nouă. 
+   - Să conțină bibliografie care să fie citată în cadrul textului. Bibliografia trebuie să fie gestionată automat (adică, dacă modificăm oridinea de citare, sau adăugăm surse noi în lista bibliografie, numerotarea surselor să se facă automat). Biubliografia va conține cel puțin 5 surse de tipul: Pagină web, Carte, Conference Proceedings, Journal Article. 
+   - Să conțină un stil personalizat in Introducere cu numele și prenumele Dumneavoastra. Stilul personalizat va avea culoarea fontului așbastru, dimnesiunea fontului de 16 pt. Fundalul stilului va fi unul ușor azuriu.
+   - Referatul va contin per total 15 pag. 
+3. Scriem lucrarea, care va conține întrebări legate de referat (posibil). 
+4. Susținerea unei probe practice (posibil). 
+5. Predarea în timp util a temelor de casă (nu e cazul). 
+6. Punctarea finală = 80% referat + 40% teme de casă = 100% 
 
-## <span style="color: red; font-size: 36px">EXAMEN:</span> ??.06.2023, ora 10:00. Sala: ??
+## <span style="color: red; font-size: 36px">EXAMEN:</span> 20.06.2024, ora 10:00. Sala: E211 (dar trebuie de precizat in orarul examenelor sau la secretariat)
 
 **Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă până în ziua examenului (link-ul către platforma respectivă urmează să fie precizat ulterior). 
 
 
 ### Lista temelor pentru referate
 
-- [Lista temelor + alocarea lor]() -  urmează să apară.
+- [Lista temelor + alocarea lor](https://disk.yandex.com/d/4PgBqUX90HBleA) -  Descărcați din acest link.
 <!-- ./Lista-teme-PL1-2020-2021.htm -->
 
 ## Subiecte discutate

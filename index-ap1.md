@@ -1,45 +1,52 @@
 # Elemente de tehnologia informației. Informatică pentru administrație publică
 
-**Facultatea**: Drept și Științe Administrative <br />
-**Specializare**: Administrație publică, anul 1 
+**Asistență managerială și administrativă**, anul 1
 
 Lect. dr. Andrei Rusu
-
-## Suntem și online:
-
-- Webex: https://meetingsemea5.webex.com/meet/andrei.rusu
-- Discord: https://discord.gg/tNfUfVgHhj
-- Teams: [Link](https://teams.microsoft.com/l/channel/19%3a597ade34c60e4aa282112e6da50b13d6%40thread.tacv2/AP1%2520-%2520Informatica?groupId=f03e8a8e-3245-477d-9c5f-a9c4474b1572&tenantId=0ae86a88-e993-4850-9db2-1ff1884f9c8a)
-- Moodle: ---
 
 ## Modul de susținere a examenului/colocviului
 
 1. Prezență obligatorie la examen/colocviu. 
 2. Predarea referatului pe o temă din lista temelor care urnmează să fie specificată mai jos. Referatul trebuie să respecte următoarele reguli:
-   - Șă conțină 3 capitole, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
-   - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. 
-   - Să conțină cuprinsul desfășurat pe 3 nivele (capitol, subcapitol, subsubcapitol). 
-   - Să conțină o listă de desene/figuri. 
-   - Să conțină o listă de tabele
-   - Fiecare capitol trebuie să înceapă pe pagină nouă și la orice modificare a textului capitolul oricum trebuie să înceapă pe pagină nouă. 
-   - Să conțină bibliografie care să fie citată în cadrul textului. 
-   - Să conțină un stil personalizat cu numele și prenumele Dumneavoastra. 
-3. Scriem lucrarea, care va conține întrebări legate de referat. 
-4. Susținerea unei probe practice. 
-5. Predarea în timp util a temelor de casă.
-6. Punctarea finală = 70% referat + 50% teme de casă = 100% 
-
-## <span style="color: red">EXAMEN</span>: ??.06.2023, ora 10.00, sala ??
-
-**Referatul pentru examen** va fi denumit astfel **<code><span style="font-size: 20px; font-face:bold; color: blue">Nume-Prenume-gr-nrGrupa-var-nrVarriantă.docx</span></code>** De exemplu: **<code><span style="font-size: 20px; font-face:bold; color: blue">Rusu-Andrei-gr-2-var-37.docx</span></code>**. Referatul va fi încărcat pe platformă până în ziua examenului (link-ul platformei respective urmează să fie precizat ulterior).
+   - Șă conțină 3 capitole + Introducere + Concluzii, în fiecare dintre ele să avem cel puțin câte 2 subcapitole și cel puțin în jumătate dintre subcapitole să avem subsubcapitole. 
+   - să avem 3 imagini și 2 tabele. Fiecare tabel și imagine trebuie să fie numerotată și să conțină un text explicativ. Numerotarea tabelelor si a desenelor/figurilor treb uie să se facă automat (adică, dacă adăugăm între 2 imagini încă una, după update trebuie să se renumeroteze automat tabelele / figurile). 
+   - Să conțină cuprinsul (generat automat). 
+   - Să conțină o listă de desene/figuri (generat automat). 
+   - Să conțină o listă de tabele (generat automat).
+   - Fiecare capitol trebuie să înceapă pe pagină nouă automat, adică la orice modificare a textului din conținutul capitolului oricum trebuie să înceapă pe pagină nouă. 
+   - Să conțină bibliografie care să fie citată în cadrul textului. Bibliografia trebuie să fie gestionată automat (adică, dacă modificăm oridinea de citare, sau adăugăm surse noi în lista bibliografie, numerotarea surselor să se facă automat). Biubliografia va conține cel puțin 5 surse de tipul: Pagină web, Carte, Conference Proceedings, Journal Article. 
+   - Să conțină un stil personalizat in Introducere cu numele și prenumele Dumneavoastra. Stilul personalizat va avea culoarea fontului așbastru, dimnesiunea fontului de 16 pt. Fundalul stilului va fi unul ușor azuriu.
+   - Referatul va contin per total 15 pag. 
+3. Scriem lucrarea, care va conține întrebări legate de referat (posibil). 
+4. Susținerea unei probe practice (posibil). 
+5. Predarea în timp util a temelor de casă. 
+6. Punctarea finală = 80% referat + 40% teme de casă = 100% 
 
 ### Lista temelor pentru referate
 
-- [Lista temelor și alocarea lor]() - urmează să apară.
+
+<!-- /Lista_temelor.html 
+- [Lista temelor pentru referate](./Lista-teme-ama1-2020-a.htm) -  
+
+- Alocarea temelor către studenți - urmează să apară - [Alocarea temelor către studenți](ama1_teme.html).  (./ap1_teme.html).-->
+
+
+### *<span style="color:red;" >Data examenului</span>: 
+
+* **12 iunie 2024, ora 10.00**. Sala 211 (trebuie de precizat la secretariat si pe orarul examenelor). __Referatele__ trebuie predate (încărcate până la ora 22:00 11 iunie 2024. Locația unde încărcăm voi preciza mai târziu.
+
+**Atenție:** Încărcăm referatele menționate mai sus la adresa: (urmează să precizăm)
+
 <!--
-./Lista-teme-AP1-2020-2021.htm
-- [Alocarea temelor către studenți](./ap1_teme.html).
+http://s.go.ro/szis19ws | parola: 352004 
 -->
+
+unde să încărcați referatele pt examen. Dati nume fisierului de tipul: **Rusu-Andrei-var-07.docx**. Dacă mai  vreți să modificați fișierul, îi adăugați la coadă ceva diferit, de exemplu: **Rusu-Andrei-var07-a.docx**
+(am adăugat litera *a* la sfârșit). Astfel el va fi diferit de documentul inițial Rusu-Andrei-var-07.docx
+​Eu le voi găsi pe server la mine și voi considera ultima variantă (conform datei de încărcare). Dacă încercați să încărcați încă o dată un fișier cu același nume serverul va adauga la sfarsitul numelui ceva de genul (1), sau (2), etc. 
+  
+ 
+
 ## Subiecte discutate
 
 1. Introducere. 
@@ -78,3 +85,17 @@ Lect. dr. Andrei Rusu
 13. Sisteme de markare a textelor: **html**, **markdown**.
 14. Alte sisteme pentru textele în format electronic (**epub, fb2, mobi, etc**). 
  
+## Materiale didactice
+
+- [Cum creăm un site folosind tehnologia oferită de Google?](https://yadi.sk/i/RTkDJWHFuWeo5g)
+- [Utilizarea formularelor Excel și a formularelor Google](https://yadi.sk/i/Byu0B5lWc6DUIQ)
+- [Utilizarea aplicațiilor Office în cloud Google](https://yadi.sk/i/qTUpG0o9LtETmQ)
+- [Utilizarea stilurilor de formatare ne simplifică viața când trebuie să aducem modificări de formatare, precum și la generarea cuprinsului](https://www.youtube.com/watch?v=rJuCXIp_aAg)
+- [Stiluri, note de subsol, note de sfârșit, numerotare pagini, ... în Word](https://www.youtube.com/watch?v=Q-fAI0JH_vI)
+- [Mai multe lecții de Excel](https://www.youtube.com/watch?v=P9aA4Wu8UXA&list=PL2ViIbunIh8SGKj6BqWpny8bPjNEF7w2o)
+- [Un tutorial de Excel ceva mai scurt](https://www.youtube.com/watch?v=mOTEssNYrD0)
+- [Un curs de Word 2013 cu destul de multe chestii, 67 min](https://www.youtube.com/watch?v=zasYnHPvR60)
+
+- [Tutorial - Word - 6. Imbinarea de corespondenta](https://www.youtube.com/watch?v=hjbGW2kvD30)
+- [Tutorial - Word - 8.Corectare si imprimare](https://www.youtube.com/watch?v=XiBDx2VktqY)
+- [Un set de tutoriale in engleza](https://www.youtube.com/watch?v=ME_F9yypzsw&list=PLWPirh4EWFpHyWP7u5HOrr4s2-bycPpO6)
